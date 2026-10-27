@@ -58,17 +58,18 @@ themeToggle.addEventListener("click", () => {
   applyTheme(document.documentElement.dataset.theme === "dark" ? "light" : "dark", true);
 });
 
-const cursorAtom = document.querySelector(".cursor-atom");
+const heroArt = document.querySelector(".hero-art");
 if (window.matchMedia("(hover: hover) and (pointer: fine)").matches) {
   window.addEventListener("pointermove", (event) => {
-    const x = Math.min(window.innerWidth - 28, Math.max(28, event.clientX + 24));
-    const y = Math.min(window.innerHeight - 28, Math.max(28, event.clientY - 24));
-    cursorAtom.style.setProperty("--cursor-x", `${x}px`);
-    cursorAtom.style.setProperty("--cursor-y", `${y}px`);
-    cursorAtom.classList.add("is-visible");
+    const x = (event.clientX / window.innerWidth - 0.5) * 96;
+    const y = (event.clientY / window.innerHeight - 0.5) * 64;
+    heroArt.style.setProperty("--pointer-x", `${x.toFixed(1)}px`);
+    heroArt.style.setProperty("--pointer-y", `${y.toFixed(1)}px`);
   }, { passive: true });
-  window.addEventListener("pointerleave", () => cursorAtom.classList.remove("is-visible"), { passive: true });
-  window.addEventListener("blur", () => cursorAtom.classList.remove("is-visible"), { passive: true });
+  window.addEventListener("pointerleave", () => {
+    heroArt.style.setProperty("--pointer-x", "0px");
+    heroArt.style.setProperty("--pointer-y", "0px");
+  }, { passive: true });
 }
 
 function setFilterPanelCollapsed(collapsed) {
