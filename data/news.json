@@ -1,14 +1,715 @@
 {
-  "generated_at": null,
+  "generated_at": "2026-10-27T22:17:37Z",
   "sources": [
-    { "id": "atomic-energy", "name": "Атомная энергия 2.0", "site": "https://www.atomic-energy.ru", "article_count": 0 },
-    { "id": "nuclear-ru", "name": "Nuclear.Ru", "site": "https://www.nuclear.ru", "article_count": 0 },
-    { "id": "atominfo", "name": "AtomInfo.Ru", "site": "https://www.atominfo.ru", "article_count": 0 },
-    { "id": "rosatom", "name": "Росатом", "site": "https://www.rosatom.ru", "article_count": 0 },
-    { "id": "rosenergoatom", "name": "Росэнергоатом", "site": "https://www.rosenergoatom.ru", "article_count": 0 },
-    { "id": "world-nuclear-news", "name": "World Nuclear News", "site": "https://world-nuclear-news.org", "article_count": 0 },
-    { "id": "iaea", "name": "IAEA", "site": "https://www.iaea.org", "article_count": 0 },
-    { "id": "nucnet", "name": "NucNet", "site": "https://www.nucnet.org", "article_count": 0 }
+    {
+      "id": "atomic-energy",
+      "name": "Атомная энергия 2.0",
+      "site": "https://www.atomic-energy.ru",
+      "article_count": 0
+    },
+    {
+      "id": "nuclear-ru",
+      "name": "Nuclear.Ru",
+      "site": "https://www.nuclear.ru",
+      "article_count": 0
+    },
+    {
+      "id": "atominfo",
+      "name": "AtomInfo.Ru",
+      "site": "https://www.atominfo.ru",
+      "article_count": 0
+    },
+    {
+      "id": "rosatom",
+      "name": "Росатом",
+      "site": "https://www.rosatom.ru",
+      "article_count": 0
+    },
+    {
+      "id": "rosenergoatom",
+      "name": "Росэнергоатом",
+      "site": "https://www.rosenergoatom.ru",
+      "article_count": 0
+    },
+    {
+      "id": "world-nuclear-news",
+      "name": "World Nuclear News",
+      "site": "https://world-nuclear-news.org",
+      "article_count": 45
+    },
+    {
+      "id": "iaea",
+      "name": "IAEA",
+      "site": "https://www.iaea.org",
+      "article_count": 0
+    },
+    {
+      "id": "nucnet",
+      "name": "NucNet",
+      "site": "https://www.nucnet.org",
+      "article_count": 15
+    }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "6fb8e546e1547a85",
+      "title": "Korea's Kori 3 and 4 set for restarts in 2027",
+      "summary": "Korea Hydro & Nuclear Power has been given approval by South Korea's Nuclear Safety and Security Commission to continue operating Kori Nuclear Power Plant’s unit 3 and 4 for a further 10 years.",
+      "url": "https://www.world-nuclear-news.org/articles/koreas-kori-3-and-4-get-go-ahead-to-restart",
+      "published_at": "2026-10-27T14:18:24Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "9d513eca43b1d71d",
+      "title": "European GenAI Platform Now Runs In Production Across All Swiss Nuclear Power Plants",
+      "summary": "GRAYOAK Nuclear, a European provider of generative AI for the nuclear sector, has confirmed that its platform is now in active use at every Swiss nuclear power plant, developed in close partnership with operator Axpo. Twelve months after go-live, the system – known internally as “Lise” – processes more than 1,800 messages per day and has indexed over 550,000 documents spanning more than 50 years of operational history, with an 80% active-user rate among staff",
+      "url": "https://www.nucnet.org/news/european-genai-platform-now-runs-in-production-across-all-swiss-nuclear-power-plants-10-2-2026",
+      "published_at": "2026-10-27T13:44:34Z",
+      "source_id": "nucnet",
+      "source": "NucNet",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "9d6228f3d16b6b8c",
+      "title": "NVIDIA to consider data centres at former German nuclear sites",
+      "summary": "Germany's PreussenElektra and multinational technology company NVIDIA are to explore whether PreussenElektra's former nuclear power plant sites are suitable for the construction of so-called AI factories.",
+      "url": "https://www.world-nuclear-news.org/articles/nvidia-to-consider-data-centres-at-former-german-nuclear-sites",
+      "published_at": "2026-10-27T12:14:46Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "construction",
+      "language": "en"
+    },
+    {
+      "id": "b8dc644197c889ba",
+      "title": "Singapore looks to develop nuclear energy expertise",
+      "summary": "The Ministry of Energy, Trade and Industry and the Energy Market Authority of Singapore have launched schemes to develop \"a strong pipeline of local expertise in nuclear energy\".",
+      "url": "https://www.world-nuclear-news.org/articles/singapore-looks-to-develop-nuclear-energy-workforce",
+      "published_at": "2026-10-27T11:54:37Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "economy",
+      "language": "en"
+    },
+    {
+      "id": "1799845ffd369614",
+      "title": "Cross-party interest in Australian nuclear future, poll suggests",
+      "summary": "A YouGov poll commissioned by grassroots organisation Nuclear for Australia suggests that almost two-thirds of Australians believe nuclear should be considered as part of the nation's energy future.",
+      "url": "https://www.world-nuclear-news.org/articles/cross-party-interest-in-australian-nuclear-future-poll-suggests",
+      "published_at": "2026-10-27T08:59:46Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "69e70af156f3fdf9",
+      "title": "Tilted fuel assembly retrieved from Palisades plant",
+      "summary": "Holtec International's operation to retrieve the fuel assembly from the plant in Michigan was completed using a purpose-built machine that was conceived, engineered, manufactured and delivered in just two weeks.",
+      "url": "https://www.world-nuclear-news.org/articles/tilted-fuel-assembly-retrieved-from-palisades-plant",
+      "published_at": "2026-10-26T16:24:47Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "fuel",
+      "language": "en"
+    },
+    {
+      "id": "7c9d2cb2eaeef8ef",
+      "title": "Regulatory milestone for US laser enrichment plant",
+      "summary": "The US regulator has issued its Final Environmental Impact Statement for Global Laser Enrichment's Paducah Laser Enrichment Facility, recommending that a construction and operation licence is issued for the proposed plant.",
+      "url": "https://www.world-nuclear-news.org/articles/regulatory-milestone-for-us-laser-enrichment-plant",
+      "published_at": "2026-10-26T15:39:11Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "construction",
+      "language": "en"
+    },
+    {
+      "id": "7430367415e6f995",
+      "title": "Studsvik's waste treatment technology heads to Fukushima",
+      "summary": "Swedish nuclear technical services provider Studsvik is to provide Japanese nuclear engineering start-up ReNu Industries Inc with technical information and advice on design conditions for a Japanese version of inDRUM, its patented technology for the treatment of problematic radioactive wastes.",
+      "url": "https://www.world-nuclear-news.org/articles/studsviks-waste-treatment-technology-heads-to-fukushima",
+      "published_at": "2026-10-26T15:32:01Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "7c6042103ee795bc",
+      "title": "First reactor unit launched on Chukotka icebreaker",
+      "summary": "The starboard reactor unit on the new Chukotka nuclear-powered icebreaker has been brought to minimum controlled power level.",
+      "url": "https://www.world-nuclear-news.org/articles/first-reactor-unit-launched-on-chukotka-icebreaker",
+      "published_at": "2026-10-26T15:09:12Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "0c2b3c50c0e40acd",
+      "title": "Preparations for advanced nuclear at ports should begin now, study concludes",
+      "summary": "Ports should begin structured planning for advanced nuclear technology now, treating it as a long-term infrastructure and operating-model question rather than a new marine fuel, according to a new joint paper from the British Ports Association and Lloyd's Register.",
+      "url": "https://www.world-nuclear-news.org/articles/preparations-for-advanced-nuclear-at-ports-should-begin-now-study-concludes",
+      "published_at": "2026-10-26T14:50:59Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "fuel",
+      "language": "en"
+    },
+    {
+      "id": "dca459765c8b58ec",
+      "title": "New Polling Reveals Majority Of Australians Support Nuclear Energy",
+      "summary": "Almost two-thirds of Australians believe nuclear power should be part of the nation's energy future, as new polling reveals growing concerns about Australia's ability to meet its electricity needs. New YouGov research commissioned by lobby group Nuclear for Australia has found that 63% of Australians believe nuclear power should be considered, while 60% believe it will form part of Australia’s future energy mix.",
+      "url": "https://www.nucnet.org/news/new-polling-reveals-majority-of-australians-support-nuclear-energy-10-1-2026",
+      "published_at": "2026-10-26T14:49:55Z",
+      "source_id": "nucnet",
+      "source": "NucNet",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "6facf703ed34ee38",
+      "title": "Integrated Repository For Slovenia’s Krško Plant And Test Reactor ‘Cheaper Than Standalone Site’",
+      "summary": "Integrating a deep geologic repository for spent nuclear fuel from Slovenia’s Triga II research reactor into a site at the country’s Krško nuclear power plant would be cheaper than creating a standalone site, a study has shown. The study was carried out by Slovenia’s Agency for Radioactive Waste Management (Arao) and US-based Deep Isolation, which is developing nuclear waste disposal technologies in deep boreholes.",
+      "url": "https://www.nucnet.org/news/integrated-repository-for-slovenia-s-krsko-plant-and-test-reactor-cheaper-than-standalone-site-10-1-2026",
+      "published_at": "2026-10-26T11:35:33Z",
+      "source_id": "nucnet",
+      "source": "NucNet",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "212bc2d50267da59",
+      "title": "Posiva given go-ahead to operate Finnish used fuel repository",
+      "summary": "Finnish radioactive waste management company Posiva has been granted a licence to operate the encapsulation and final disposal facility for used nuclear fuel located in Olkiluoto. It is the world's first repository for used fuel to be granted such a licence.",
+      "url": "https://www.world-nuclear-news.org/articles/posiva-given-go-ahead-to-operate-finnish-used-fuel-repository",
+      "published_at": "2026-10-23T16:00:37Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "fuel",
+      "language": "en"
+    },
+    {
+      "id": "29023b4bb0fc5a91",
+      "title": "Viewpoint: Four million workers won't be enough without the right leaders",
+      "summary": "Who will lead the tripling of nuclear capacity? Isis Leslie, Head of Leadership and Capacity Development at World Nuclear Association, looks at what the next generation of nuclear leaders will need and how the industry can develop them through World Nuclear University.",
+      "url": "https://www.world-nuclear-news.org/articles/viewpoint-four-million-workers-wont-be-enough-without-the-right-leaders",
+      "published_at": "2026-10-23T14:27:31Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "e231be09005f8073",
+      "title": "FID sees Etango enter full-scale construction",
+      "summary": "A positive final investment decision from the Bannerman Energy-CNNC Overseas joint venture means the Etango uranium project in Namibia can transition into full-scale construction activities, with commissioning and production targeted for 2028.",
+      "url": "https://www.world-nuclear-news.org/articles/fid-sees-etango-enter-full-scale-construction",
+      "published_at": "2026-10-23T14:13:54Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "construction",
+      "language": "en"
+    },
+    {
+      "id": "5f65cf513bdfb013",
+      "title": "Nano Nuclear Signs Engineering Agreement With Argentina’s IMPSA For Kronos Microreactor",
+      "summary": "US advanced reactor developer Nano Nuclear Energy has signed a three-year engineering services agreement with the US subsidiary of Argentina’s IMPSA to assess the design and manufacture of key components for its Kronos microreactor, a statement said. According to the statement, the initial work would be an approximately six-month design review and manufacturing feasibility study, with the reactor pressure vessel a principal component under assessment.",
+      "url": "https://www.nucnet.org/news/nano-nuclear-signs-engineering-agreement-with-argentina-s-impsa-for-kronos-microreactor-10-5-2026",
+      "published_at": "2026-10-23T13:38:57Z",
+      "source_id": "nucnet",
+      "source": "NucNet",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "f365a8bb0dbd1567",
+      "title": "Rosatom eyes 2027 for Uzbek large reactor construction",
+      "summary": "Rosatom plans to launch construction of the large-scale nuclear units at the planned power plant in Uzbekistan in 2027, CEO Alexey Likhachev has said during a visit to the construction site.",
+      "url": "https://www.world-nuclear-news.org/articles/rosatom-eyes-2027-for-uzbek-reactor-construction",
+      "published_at": "2026-10-23T11:59:44Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "construction",
+      "language": "en"
+    },
+    {
+      "id": "37285b48386510d1",
+      "title": "Slovenia's deep borehole disposal options studied",
+      "summary": "The US firm Deep Isolation has conducted a cost assessment for Slovenia's radioactive waste agency which has concluded it would be more economic for used fuel from the TRIGA II research reactor and from the Krško Nuclear Power Plant to be placed in the same disposal facility deep underground.",
+      "url": "https://www.world-nuclear-news.org/articles/slovenias-deep-borehole-disposal-options-studied",
+      "published_at": "2026-10-23T11:06:07Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "9f12435102fe7987",
+      "title": "Finland Grants Operating Licence To World’s First Deep Geologic Nuclear Repository",
+      "summary": "Finland has granted an operating licence to Posiva for its spent nuclear fuel encapsulation and final disposal facility at Olkiluoto, marking the first time a deep geological repository for spent nuclear fuel has received an operating licence anywhere in the world. Posiva said the licence allows it to move towards the operational phase of the facility, but does not authorise the immediate start of disposal activities.",
+      "url": "https://www.nucnet.org/news/finland-grants-operating-licence-to-world-s-first-deep-geologic-nuclear-repository-10-4-2026",
+      "published_at": "2026-10-22T12:11:35Z",
+      "source_id": "nucnet",
+      "source": "NucNet",
+      "topic": "fuel",
+      "language": "en"
+    },
+    {
+      "id": "a47143b08c6de343",
+      "title": "OPG firm joins UK BWRX-300 project",
+      "summary": "The UK-based project company of European SMR developer and investor SGE, and Origin Nuclear, a subsidiary of Ontario Power Generation, have signed a letter of intent to establish a joint venture for the future operation of a planned fleet of 14 BWRX-300 small modular reactors.",
+      "url": "https://www.world-nuclear-news.org/articles/joint-venture-to-operate-planned-uk-bwrx-300-fleet",
+      "published_at": "2026-10-22T12:02:58Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "18039adcb7737dd3",
+      "title": "Radiant microreactor selected for deployment by US Navy",
+      "summary": "The US Navy has selected Radiant's Kaleidos microreactor for deployment at Naval Weapons Station Crane, Indiana.",
+      "url": "https://www.world-nuclear-news.org/articles/radiant-microreactor-selected-for-deployment-by-us-navy",
+      "published_at": "2026-10-22T11:00:53Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "9839f4a29c25f9d1",
+      "title": "The challenge of securing uranium from seawater - podcast",
+      "summary": "Supercritical Materials has an exclusive licence from the US Department of Energy for a patented system to extract uranium from the world's oceans. Founder and CEO Canon Bryan outlined the company's plans to the World Nuclear News podcast.",
+      "url": "https://www.world-nuclear-news.org/articles/the-challenge-of-securing-uranium-from-seawater---podcast",
+      "published_at": "2026-10-22T10:52:23Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "fuel",
+      "language": "en"
+    },
+    {
+      "id": "9a8e95feee9eddfe",
+      "title": "SMRs could be part of Port of Rotterdam's future, says study",
+      "summary": "The Dutch port of Rotterdam could become part of the future small modular reactor supply chain - with opportunities extending well beyond the adoption of nuclear technology itself, according to a study conducted jointly by Tractebel and Technopolis Group.",
+      "url": "https://www.world-nuclear-news.org/articles/smrs-could-be-part-of-port-of-rotterdams-future-says-study",
+      "published_at": "2026-10-22T09:30:35Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "e0e601170a628b75",
+      "title": "ASEAN nations assessing nuclear energy option",
+      "summary": "Southeast Asian countries are taking a pragmatic look at nuclear power as they seek to meet rapidly growing electricity demand, strengthen energy security and diversify their power generation mix, delegates heard at the World Nuclear Supply Chain conference in Manila.",
+      "url": "https://www.world-nuclear-news.org/articles/asean-nations-assessing-nuclear-energy-option",
+      "published_at": "2026-10-21T15:26:18Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "9938ecbb683c1109",
+      "title": "Westinghouse invests USD1 billion in US LEU+ fuel plant",
+      "summary": "Westinghouse has announced a USD1 billion investment in the first new fleet-scale nuclear fuel factory to be built in the USA in more than 50 years, at the Columbia Fuel Fabrication Facility in Hopkins, South Carolina.",
+      "url": "https://www.world-nuclear-news.org/articles/westinghouse-invests-usd1-billion-in-us-leu-fuel-plant",
+      "published_at": "2026-10-21T14:36:59Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "fuel",
+      "language": "en"
+    },
+    {
+      "id": "9864f787cd2983a5",
+      "title": "The Nuclear Company proposes 6.6 GW Kentucky project",
+      "summary": "The Nuclear Company has outlined plans for an energy campus in Lewis County, Kentucky, which could feature up to six AP1000 reactors - this would make its 6.6 GW capacity larger than any current nuclear power plant in the USA.",
+      "url": "https://www.world-nuclear-news.org/articles/nuclear-company-proposes-66-gw-kentucky-project",
+      "published_at": "2026-10-21T13:44:17Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "e27714a8254702c7",
+      "title": "IAEA says Barakah drone-strike response was effective",
+      "summary": "An International Atomic Energy Agency mission to the United Arab Emirates has said that effective action was taken following the loss of off-site power to Barakah Nuclear Power Plant's unit 3 following a drone strike in May which caused a fire in a generator located outside the inner perimeter of the plant.",
+      "url": "https://www.world-nuclear-news.org/articles/iaea-says-barakah-drone-strike-response-was-effective",
+      "published_at": "2026-10-21T12:16:11Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "865e38eb3831fb47",
+      "title": "Westinghouse To Invest $1 Billion In New US Higher Enrichment Nuclear Fuel Facility",
+      "summary": "Westinghouse Electric Company has announced an investment of approximately $1bn (€890m) in a new manufacturing facility for low-enriched uranium plus (LEU+) nuclear fuel at its existing Columbia fuel fabrication site in South Carolina, a statement said. The company said construction has begun at the site near Hopkins. Production is scheduled to start in 2030.",
+      "url": "https://www.nucnet.org/news/westinghouse-to-invest-usd1-billion-in-new-us-higher-enrichment-nuclear-fuel-facility-10-3-2026",
+      "published_at": "2026-10-21T11:09:43Z",
+      "source_id": "nucnet",
+      "source": "NucNet",
+      "topic": "construction",
+      "language": "en"
+    },
+    {
+      "id": "405bb8f7c7835f21",
+      "title": "Philippines advances plans for nuclear power as energy demand rises",
+      "summary": "The Philippines is working to establish the policy, regulatory and commercial foundations for its first nuclear power project, with a target of 1.2 GW of capacity by 2032 and a longer-term ambition to reach 4.8 GW by 2050, the World Nuclear Supply Chain conference in Manila heard.",
+      "url": "https://www.world-nuclear-news.org/articles/philippines-advances-plans-for-nuclear-power-as-energy-demand-rises",
+      "published_at": "2026-10-20T16:15:21Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "safety",
+      "language": "en"
+    },
+    {
+      "id": "44a436ecc776fdc1",
+      "title": "Aura aims for final investment decision on Mauritania project this year",
+      "summary": "Aura Energy Limited says it is targeting a final investment decision by the end of the year for the Tiris uranium project in Mauritania as a newly released bankable feasibility study confirms the project's economics. But Deep Yellow says current equity market conditions don't support a final investment decision for its Tumas project in Namibia during the current quarter.",
+      "url": "https://www.world-nuclear-news.org/articles/aura-aims-fid-mauritania-project-this-year",
+      "published_at": "2026-10-20T14:24:16Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "fuel",
+      "language": "en"
+    },
+    {
+      "id": "b0882c6e95c7f207",
+      "title": "Indiana considering 6 GW Candu nuclear project",
+      "summary": "AtkinsRéalis Group, Hoosier Energy Rural Electric Cooperative and the State of Indiana in the US are to explore a potential project featuring up to eight Candu nuclear power units, with a combined 6 GW capacity.",
+      "url": "https://www.world-nuclear-news.org/articles/indiana-considering-6-gw-candu-nuclear-project",
+      "published_at": "2026-10-20T13:54:28Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "fa01ffe5e172d48a",
+      "title": "Korean concern over proposed 'Made in EU' act's impact on nuclear power projects",
+      "summary": "Progress on the Dukovany new nuclear project is continuing on schedule, but South Korea has concerns about the potential impact of the European Union's proposed Industrial Accelerator Act on non-member countries participating in the EU's nuclear power market.",
+      "url": "https://www.world-nuclear-news.org/articles/korean-concerns-over-proposed-made-in-eu-acts-impact-nuclear-power-projects",
+      "published_at": "2026-10-20T11:56:26Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "economy",
+      "language": "en"
+    },
+    {
+      "id": "9882a7bda8db4871",
+      "title": "Nuclear Industry Calls For Concrete Action In EU Post-2030 Energy Framework",
+      "summary": "Senior executives from Europe’s nuclear industry have called on the European Commission to take “concrete steps” to support nuclear investments under the EU’s post-2030 energy and climate framework, including a common clean energy target covering both nuclear power and renewables. In a letter dated 19 October to European Commission president Ursula von der Leyen, the executives urged the EU to move away from technology-specific targets and ensure that all low-carbon energy sources receive equal policy support.",
+      "url": "https://www.nucnet.org/news/nuclear-industry-calls-for-concrete-action-in-eu-post-2030-energy-framework-10-2-2026",
+      "published_at": "2026-10-20T11:32:56Z",
+      "source_id": "nucnet",
+      "source": "NucNet",
+      "topic": "construction",
+      "language": "en"
+    },
+    {
+      "id": "d6b4c24523c41726",
+      "title": "Joint venture to produce HALEU in South Africa",
+      "summary": "A joint venture between ASP Isotopes Inc subsidiary Quantum Leap Energy and South African state-owned nuclear energy corporation Necsa will develop, finance, build and operate a test bench and commercial-scale facility for the production of high-assay low-enriched uranium at Necsa's Pelindaba site.",
+      "url": "https://www.world-nuclear-news.org/articles/joint-ventureto-produce-haleu-in-south-africa",
+      "published_at": "2026-10-19T13:59:40Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "fuel",
+      "language": "en"
+    },
+    {
+      "id": "9353bd91398d6d9c",
+      "title": "AEP, Amazon and X-energy planning 12-SMR plant",
+      "summary": "US utility American Electric Power and X-energy have signed a joint development agreement to evaluate a potential 960 MW project at a former coal plant site in Sullivan County, Indiana.",
+      "url": "https://www.world-nuclear-news.org/articles/aep-amazon-and-x-energy-plan-12-smr-plant",
+      "published_at": "2026-10-19T13:35:54Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "fc03396b78e8a346",
+      "title": "Centrus Announces $116 Million Acquisition Of Centrifuge Component Supplier Westerman",
+      "summary": "US nuclear fuel company Centrus Energy has acquired Westerman Holdings, a major supplier of components for its uranium enrichment centrifuges, for about $116m (€103m), a statement said. Centrus said the acquisition was financed through about $95m in cash and $21m in equity.",
+      "url": "https://www.nucnet.org/news/centrus-announces-usd116-million-acquisition-of-centrifuge-component-supplier-westerman-10-1-2026",
+      "published_at": "2026-10-19T13:29:26Z",
+      "source_id": "nucnet",
+      "source": "NucNet",
+      "topic": "fuel",
+      "language": "en"
+    },
+    {
+      "id": "c5fd5f0d59b9350e",
+      "title": "Rosatom signs floating nuclear power deal for Indonesia",
+      "summary": "Electricity generated by floating nuclear power plants will be provided to an East Indonesian island, according to an agreement signed by Rosatom and Indonesian company PT Pembangkit Listrik Nuklir.",
+      "url": "https://www.world-nuclear-news.org/articles/rosatom-signs-floating-nuclear-power-deal-for-indonesia",
+      "published_at": "2026-10-19T11:40:56Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "31af6fe2f3134dc0",
+      "title": "Oklo plans isotope facility under US Launch Pad initiative",
+      "summary": "Oklo says the Groves-2 Forge isotope production and processing pilot facility will build on the deployment of its Groves Isotope Test Reactor, which reached criticality earlier this year.",
+      "url": "https://www.world-nuclear-news.org/articles/oklo-plans-isotope-facility-under-us-launch-pad-initiative",
+      "published_at": "2026-10-19T09:24:42Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "271a7da91c98ca47",
+      "title": "Slovakia’s Mochovce-4 Nuclear Power Plant Connected To Grid For First Time",
+      "summary": "The Mochovce-4 nuclear power plant in Slovakia has been connected to the national electricity grid for the first time, marking a major milestone in the commissioning of the VVER-440 reactor unit. Slovak owner Slovenské Elektrárne said the first of the unit’s two turbine generators was synchronised with the grid at 20:41 local time on 15 October and began supplying electricity.",
+      "url": "https://www.nucnet.org/news/slovakia-s-mochovce-4-nuclear-power-plant-connected-to-grid-for-first-time-10-1-2026",
+      "published_at": "2026-10-19T09:17:29Z",
+      "source_id": "nucnet",
+      "source": "NucNet",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "9ae47780a55498cd",
+      "title": "Multiple milestones for India's nuclear projects",
+      "summary": "Technical studies have begun onsite for Kakrapar units 5 and 6, two 700 MWe reactors planned for construction in Gujarat; India's Nuclear Fuels Complex is making steam generator tubes to support the fleet mode construction project; and India's small modular reactor project has reached a design milestone.",
+      "url": "https://www.world-nuclear-news.org/articles/multiple-milestones-for-indias-nuclear-projects",
+      "published_at": "2026-10-16T14:43:40Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "construction",
+      "language": "en"
+    },
+    {
+      "id": "b983fd5a6c2af5a8",
+      "title": "Mochovce 4 connected to the grid",
+      "summary": "Slovakia's newest nuclear power unit, Mochovce 4, has been connected and started supplying its first electricity to the grid.",
+      "url": "https://www.world-nuclear-news.org/articles/mochovce-4-connected-to-the-grid",
+      "published_at": "2026-10-16T14:30:28Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "4b0992ebdb16235f",
+      "title": "Viewpoint: Unlocking ASEAN's nuclear potential - a case for regulatory convergence on SMRs",
+      "summary": "ASEAN's rising electricity demand and decarbonisation goals are driving interest in small modular reactors, but fragmented national regulatory frameworks, limited expertise and financing uncertainty could delay their deployment, write Ming Tan and Stephanie Liaw of engineering, management and development consultancy Mott MacDonald.",
+      "url": "https://www.world-nuclear-news.org/articles/viewpoint-unlocking-aseans-nuclear-potential---a-case-for-regulatory-convergence-on-smrs",
+      "published_at": "2026-10-16T12:49:00Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "6ec1befd6c9ce239",
+      "title": "Sweden’s Studsvik Signs ‘Landmark’ Spent Nuclear Fuel Agreement With Norway",
+      "summary": "Sweden-based nuclear services company Studsvik has signed what it called a “landmark” agreement to manage Norway’s legacy spent nuclear fuel. The agreement with Norwegian Nuclear Decommissioning (NND), the Norwegian state agency responsible for decommissioning the country’s nuclear facilities, runs until 2055 and has an estimated contractual minimum value of about SEK 875m (€78m, $88m) and a potential total value for Studsvik of SEK 3-4bn.",
+      "url": "https://www.nucnet.org/news/studsvik-signs-landmark-spent-nuclear-fuel-agreement-with-norway-10-5-2026",
+      "published_at": "2026-10-16T12:40:53Z",
+      "source_id": "nucnet",
+      "source": "NucNet",
+      "topic": "fuel",
+      "language": "en"
+    },
+    {
+      "id": "4b58a7f548b01a70",
+      "title": "Norwegian used fuel to be stored in Sweden",
+      "summary": "Norwegian Nuclear Decommissioning has signed an agreement with Swedish nuclear technical services provider Studsvik to manage used nuclear fuel from the former research reactors at Halden and Kjeller.",
+      "url": "https://www.world-nuclear-news.org/articles/norwegian-used-fuel-to-be-stored-in-sweden",
+      "published_at": "2026-10-16T12:37:56Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "8b53095565752733",
+      "title": "Thorizon, TNO launch MSR materials programme",
+      "summary": "Molten salt reactor developer Thorizon and Dutch research and technology organisation TNO have launched a materials and corrosion programme to generate the experimental data and predictive models required to qualify materials for molten salt reactors.",
+      "url": "https://www.world-nuclear-news.org/articles/thorizon-tno-launch-msr-materials-programme",
+      "published_at": "2026-10-16T11:14:32Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "15cc4b85dfad4e7c",
+      "title": "MHI delivers replacement steam generators for French reactor",
+      "summary": "Japan's Mitsubishi Heavy Industries has delivered a further three replacement steam generators to EDF. They are scheduled to be installed in unit 2 of its Cruas nuclear power plant in southeastern France.",
+      "url": "https://www.world-nuclear-news.org/articles/mhi-delivers-replacement-steam-generators-for-french-reactor",
+      "published_at": "2026-10-15T14:18:36Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "05fef2acd1d41941",
+      "title": "Milestone for Bruce 4 refurbishment",
+      "summary": "Installation of the unit's 480 calandria tubes was completed faster than at Bruce 3 as the team carrying out the Major Component Replacement project continues to set new records for CANDU refurbishment.",
+      "url": "https://www.world-nuclear-news.org/articles/milestone-for-bruce-4-refurbishment",
+      "published_at": "2026-10-15T13:52:40Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "3f0b253dc9529856",
+      "title": "US DOE funding to accelerate molten salt reactor development",
+      "summary": "The Molten Chloride Reactor Experiment aims to achieve first criticality in 2027, with the US Department of Energy approving cost-shared funding under its Advanced Reactor Demonstration Program.",
+      "url": "https://www.world-nuclear-news.org/articles/us-doe-funding-to-accelerate-molten-chloride-reactor-development",
+      "published_at": "2026-10-15T13:13:36Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "e56a85bbc5913b4d",
+      "title": "Joint venture formed for six-unit SMR plant in Poland",
+      "summary": "Poland's SGE and ZE Pak have agreed to establish a joint venture to develop a nuclear power plant in Pątnów which will feature up to six BWRX-300 small modular reactors.",
+      "url": "https://www.world-nuclear-news.org/articles/joint-venture-formed-for-six-unit-smr-plant-in-poland",
+      "published_at": "2026-10-15T12:39:52Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "509eb13956600529",
+      "title": "Newcleo opens MOX fuel development centre",
+      "summary": "Innovative nuclear energy company Newcleo has inaugurated its EUR10 million (USD11 million) advanced nuclear fuel engineering, testing and training centre located in Chusclan, in the Gard department in southern France.",
+      "url": "https://www.world-nuclear-news.org/articles/newcleo-opens-mox-fuel-development-centre",
+      "published_at": "2026-10-15T11:55:28Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "fuel",
+      "language": "en"
+    },
+    {
+      "id": "407b5ba9dfa67981",
+      "title": "Maritime Nuclear Startup Bluecore Buys First Uranium For Nuclear Plants On Barges",
+      "summary": "Bluecore Energy, the Long Beach, US-based floating nuclear power startup, has bought its first supply of uranium hexafluoride (UF6), a low-enriched 4.95% blend of U-235 suitable for a commercial nuclear power installation. The material is being held at a US nuclear fuel facility outside the state of California while Bluecore advances its plans for future fuel fabrication, testing and validation. UF6 is the required form of uranium during the enrichment stage of the nuclear fuel cycle.",
+      "url": "https://www.nucnet.org/news/maritime-nuclear-startup-bluecore-buys-first-uranium-for-nuclear-plants-on-barges-10-4-2026",
+      "published_at": "2026-10-15T10:38:40Z",
+      "source_id": "nucnet",
+      "source": "NucNet",
+      "topic": "fuel",
+      "language": "en"
+    },
+    {
+      "id": "f117249f16699114",
+      "title": "Westinghouse places initial orders for Polish plant",
+      "summary": "Westinghouse has placed conditional purchase orders for safety-related modules with four Polish companies, a week after being commissioned to begin ordering long-lead items for the first unit of Poland's planned first nuclear power plant.",
+      "url": "https://www.world-nuclear-news.org/articles/westinghouse-places-initial-orders-for-polish-plant",
+      "published_at": "2026-10-14T11:49:10Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "592f20009125bcf5",
+      "title": "Namibia takes step towards nuclear power",
+      "summary": "Namibia's Prime Minister has appointed a Nuclear Commissioner to coordinate preparations for nuclear energy and put in place a structure to provide high-level policy coordination and strategic oversight.",
+      "url": "https://www.world-nuclear-news.org/articles/namibia-takes-step-towards-nuclear-power",
+      "published_at": "2026-10-14T10:00:33Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "2fa40a1ca7b638e2",
+      "title": "Kairos Power automates fuel pebble inspections",
+      "summary": "A new facility at Kairos Power's Manufacturing Development Campus in Albuquerque, New Mexico, verifies manufacturing specifications and engraves each fuel pebble with a unique code so it can be traced through testing and operation.",
+      "url": "https://www.world-nuclear-news.org/articles/kairos-power-automates-fuel-pebble-inspections",
+      "published_at": "2026-10-14T09:01:29Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "fuel",
+      "language": "en"
+    },
+    {
+      "id": "cb825ec1a02d959f",
+      "title": "US maritime nuclear firm Bluecore Energy announces uranium purchase",
+      "summary": "California-based Bluecore Energy said its purchase of low-enriched uranium from WMC is one of several areas where it has made \"significant progress\" towards moving its technology from engineering and non-fuelled hardware development toward fuel fabrication, testing, validation and future deployment.",
+      "url": "https://www.world-nuclear-news.org/articles/us-maritime-nuclear-firm-bluecore-energy-announces-uranium-purchase",
+      "published_at": "2026-10-14T08:33:48Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "fuel",
+      "language": "en"
+    },
+    {
+      "id": "40189bb73b2b9447",
+      "title": "Hot testing of Chinese SMR under way",
+      "summary": "Tests that simulate the temperatures and pressures which the reactor systems will be subjected to during normal operation are reportedly taking place at the ACP100 small modular reactor demonstration project, under construction at the Changjiang site on China's island province of Hainan.",
+      "url": "https://www.world-nuclear-news.org/articles/hot-testing-of-chinese-smr-under-way",
+      "published_at": "2026-10-14T07:26:53Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "construction",
+      "language": "en"
+    },
+    {
+      "id": "be2306590c5775e8",
+      "title": "Bangladesh’s Rooppur-1 Nuclear Plant Achieves First Criticality",
+      "summary": "Unit 1 at the Rooppur nuclear power station being built by Russia in Bangladesh has achieved criticality with grid connection expected by the end of November. The 1,080-MW VVER V-523 pressurised water reactor unit, construction of which began in 2017, achieved first criticality at 15:34 on 11 October. First criticality is the milestone moment when a nuclear reactor achieves a self-sustaining, controlled chain reaction for the very first time. Rooppur, Bangladesh’s most expensive infrastructure facility, has considerable backing from Russia.",
+      "url": "https://www.nucnet.org/news/bangladesh-s-rooppur-1-nuclear-plant-achieves-first-criticality-10-1-2026",
+      "published_at": "2026-10-13T07:32:21Z",
+      "source_id": "nucnet",
+      "source": "NucNet",
+      "topic": "construction",
+      "language": "en"
+    },
+    {
+      "id": "e3ee5d0b0d33fc25",
+      "title": "Hot Testing Begins At China’s Linglong-1 Small Modular Reactor",
+      "summary": "China’s Linglong-1 small modular reactor (SMR) demonstration plant is undergoing hot functional testing, according to unconfirmed reports in local media. The local China News Service reported that the workers at the plant, under construction at the Changjiang nuclear power site in Hainan province in south China, were aiming to meet targets for fuel loading and grid connection before the end of 2026.",
+      "url": "https://www.nucnet.org/news/hot-testing-begins-at-china-s-linglong-1-small-modular-reactor-10-3-2026",
+      "published_at": "2026-10-07T12:40:53Z",
+      "source_id": "nucnet",
+      "source": "NucNet",
+      "topic": "construction",
+      "language": "en"
+    },
+    {
+      "id": "a3f9a7a5e552d896",
+      "title": "Constellation To Invest $4.3 Billion In New Nuclear Capacity After Deal With Google",
+      "summary": "Google and Constellation Energy have announced a long-term collaboration to bring 890 MW of new nuclear capacity onto the grid to meet growing demand and increase grid reliability. The 20-year power purchase agreement will enable investments in new equipment and technology at 11 Constellation-owned nuclear units in Illinois, Pennsylvania, and New Jersey, increasing thermal and electrical efficiency to unlock additional reliable, firm power to serve the grid.",
+      "url": "https://www.nucnet.org/news/constellation-to-invest-usd4-3-billion-in-new-nuclear-capacity-after-deal-with-google-10-3-2026",
+      "published_at": "2026-10-07T10:04:48Z",
+      "source_id": "nucnet",
+      "source": "NucNet",
+      "topic": "economy",
+      "language": "en"
+    },
+    {
+      "id": "24ce86b144db4be7",
+      "title": "Europe Delivers Final Vacuum Vessel Section For €22 Billion Iter Fusion Project",
+      "summary": "Europe’s final vacuum vessel section for the International Thermonuclear Experimental Reactor (Iter) nuclear fusion project in France has arrived onsite. Fusion for Energy (F4E), the European Union’s organisation for Europe’s contribution to the €22bn ($24.6bn) Iter project, said the component left Westinghouse’s factory in Monfalcone, Italy, and was transported by French industrial conglomerate Daher to the site in Cadarache.",
+      "url": "https://www.nucnet.org/news/europe-delivers-final-vacuum-vessel-section-for-eur22-billion-iter-fusion-project-10-1-2026",
+      "published_at": "2026-10-05T13:27:14Z",
+      "source_id": "nucnet",
+      "source": "NucNet",
+      "topic": "reactors",
+      "language": "en"
+    }
+  ]
 }
