@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-27T22:38:47Z",
+  "generated_at": "2026-10-27T22:44:21Z",
   "sources": [
     {
-      "status": "updated",
-      "error": "",
+      "status": "cached",
+      "error": "Remote end closed connection without response",
       "id": "atomic-energy",
       "name": "Атомная энергия 2.0",
       "site": "https://www.atomic-energy.ru",
@@ -50,12 +50,12 @@
       "article_count": 45
     },
     {
-      "status": "empty",
+      "status": "updated",
       "error": "",
       "id": "iaea",
       "name": "IAEA",
       "site": "https://www.iaea.org",
-      "article_count": 0
+      "article_count": 14
     },
     {
       "status": "updated",
@@ -222,6 +222,17 @@
       "language": "en"
     },
     {
+      "id": "35d711410dceea75",
+      "title": "IAEA’s Grossi Calls for Progress in Deploying Nuclear Power as Ministerial Conference Opens",
+      "summary": "IAEA Director General Rafael Mariano Grossi called on countries to turn growing support for nuclear power into concrete results as the International Ministerial Conference on Nuclear Power opened in the Republic of Korea today, amid rising electricity demand and renewed efforts to strengthen ener",
+      "url": "http://www.iaea.org/newscenter/news/iaeas-grossi-calls-for-progress-in-deploying-nuclear-power-as-ministerial-conference-opens",
+      "published_at": "2026-10-27T09:00:00Z",
+      "source_id": "iaea",
+      "source": "IAEA",
+      "topic": "construction",
+      "language": "en"
+    },
+    {
       "id": "1799845ffd369614",
       "title": "Cross-party interest in Australian nuclear future, poll suggests",
       "summary": "A YouGov poll commissioned by grassroots organisation Nuclear for Australia suggests that almost two-thirds of Australians believe nuclear should be considered as part of the nation's energy future.",
@@ -229,6 +240,17 @@
       "published_at": "2026-10-27T08:59:46Z",
       "source_id": "world-nuclear-news",
       "source": "World Nuclear News",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "4ab2d2cbcbeead19",
+      "title": "Tritium Level Far Below Japan’s Operational Limit in 25th Batch of ALPS Treated Water, IAEA Confirms",
+      "summary": "",
+      "url": "http://www.iaea.org/newscenter/pressreleases/tritium-level-far-below-japans-operational-limit-in-25th-batch-of-alps-treated-water-iaea-confirms",
+      "published_at": "2026-10-27T07:29:00Z",
+      "source_id": "iaea",
+      "source": "IAEA",
       "topic": "international",
       "language": "en"
     },
@@ -321,6 +343,17 @@
       "language": "en"
     },
     {
+      "id": "1a336d227d9ba644",
+      "title": "Update 372 – IAEA Director General Statement on Situation in Ukraine",
+      "summary": "",
+      "url": "http://www.iaea.org/newscenter/pressreleases/update-372-iaea-director-general-statement-on-situation-in-ukraine",
+      "published_at": "2026-10-23T15:55:00Z",
+      "source_id": "iaea",
+      "source": "IAEA",
+      "topic": "international",
+      "language": "en"
+    },
+    {
       "id": "29023b4bb0fc5a91",
       "title": "Viewpoint: Four million workers won't be enough without the right leaders",
       "summary": "Who will lead the tripling of nuclear capacity? Isis Leslie, Head of Leadership and Capacity Development at World Nuclear Association, looks at what the next generation of nuclear leaders will need and how the industry can develop them through World Nuclear University.",
@@ -373,6 +406,28 @@
       "source_id": "world-nuclear-news",
       "source": "World Nuclear News",
       "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "6e0db4156ff85186",
+      "title": "What is Nuclear Fuel?",
+      "summary": "",
+      "url": "http://www.iaea.org/newscenter/news/what-is-nuclear-fuel",
+      "published_at": "2026-10-23T08:00:00Z",
+      "source_id": "iaea",
+      "source": "IAEA",
+      "topic": "fuel",
+      "language": "en"
+    },
+    {
+      "id": "024d68aa23b14e8d",
+      "title": "IAEA Mission Finds Kenya Committed to Safe Management of Radioactive Waste as it Develops a Nuclear Power Programme",
+      "summary": "",
+      "url": "http://www.iaea.org/newscenter/pressreleases/iaea-mission-finds-kenya-committed-to-safe-management-of-radioactive-waste-as-it-develops-a-nuclear-power-programme",
+      "published_at": "2026-10-22T14:18:00Z",
+      "source_id": "iaea",
+      "source": "IAEA",
+      "topic": "international",
       "language": "en"
     },
     {
@@ -519,6 +574,17 @@
       "language": "en"
     },
     {
+      "id": "c1864978d73a45eb",
+      "title": "Atoms4Food: Protecting Biodiversity",
+      "summary": "",
+      "url": "http://www.iaea.org/newscenter/multimedia/videos/atoms4food-protecting-biodiversity",
+      "published_at": "2026-10-20T13:00:00Z",
+      "source_id": "iaea",
+      "source": "IAEA",
+      "topic": "international",
+      "language": "en"
+    },
+    {
       "id": "fa01ffe5e172d48a",
       "title": "Korean concern over proposed 'Made in EU' act's impact on nuclear power projects",
       "summary": "Progress on the Dukovany new nuclear project is continuing on schedule, but South Korea has concerns about the potential impact of the European Union's proposed Industrial Accelerator Act on non-member countries participating in the EU's nuclear power market.",
@@ -538,6 +604,17 @@
       "source_id": "nucnet",
       "source": "NucNet",
       "topic": "construction",
+      "language": "en"
+    },
+    {
+      "id": "7d8423dab12de42a",
+      "title": "IAEA Mission Says UAE Response to Barakah Nuclear Power Plant Event in May 2026 was Effective",
+      "summary": "",
+      "url": "http://www.iaea.org/newscenter/pressreleases/iaea-mission-says-uae-response-to-barakah-nuclear-power-plant-event-in-may-2026-was-effective",
+      "published_at": "2026-10-20T10:56:00Z",
+      "source_id": "iaea",
+      "source": "IAEA",
+      "topic": "international",
       "language": "en"
     },
     {
@@ -618,6 +695,17 @@
       "language": "en"
     },
     {
+      "id": "2a9d63ed0efdb8f0",
+      "title": "From Farm to Fork: How Nuclear Science Helps Put Food on Our Tables",
+      "summary": "",
+      "url": "http://www.iaea.org/newscenter/news/from-farm-to-fork-how-nuclear-science-helps-put-food-on-our-tables",
+      "published_at": "2026-10-16T14:35:00Z",
+      "source_id": "iaea",
+      "source": "IAEA",
+      "topic": "international",
+      "language": "en"
+    },
+    {
       "id": "b983fd5a6c2af5a8",
       "title": "Mochovce 4 connected to the grid",
       "summary": "Slovakia's newest nuclear power unit, Mochovce 4, has been connected and started supplying its first electricity to the grid.",
@@ -670,6 +758,28 @@
       "source_id": "world-nuclear-news",
       "source": "World Nuclear News",
       "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "b431cffe1390b863",
+      "title": "Update 371 – IAEA Director General Statement on Situation in Ukraine",
+      "summary": "",
+      "url": "http://www.iaea.org/newscenter/pressreleases/update-371-iaea-director-general-statement-on-situation-in-ukraine",
+      "published_at": "2026-10-16T05:01:00Z",
+      "source_id": "iaea",
+      "source": "IAEA",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "6fca5d14c65d8367",
+      "title": "Burkina Faso Grows More Rice with Nuclear Science",
+      "summary": "",
+      "url": "http://www.iaea.org/newscenter/news/burkina-faso-grows-more-rice-with-nuclear-science",
+      "published_at": "2026-10-15T23:00:00Z",
+      "source_id": "iaea",
+      "source": "IAEA",
+      "topic": "international",
       "language": "en"
     },
     {
@@ -794,6 +904,17 @@
       "language": "en"
     },
     {
+      "id": "4251557f89fe59dd",
+      "title": "IAEA Training Centre Builds Practical Skills for Nuclear Security",
+      "summary": "The IAEA’s Nuclear Security Training and Demonstration Centre, the world’s first international training centre dedicated to enhancing nuclear security, opened its doors in Seibersdorf, Austria, in October 2023.",
+      "url": "http://www.iaea.org/news/photoessay/iaea-training-centre-builds-practical-skills-for-nuclear-security",
+      "published_at": "2026-10-13T23:00:00Z",
+      "source_id": "iaea",
+      "source": "IAEA",
+      "topic": "international",
+      "language": "en"
+    },
+    {
       "id": "be2306590c5775e8",
       "title": "Bangladesh’s Rooppur-1 Nuclear Plant Achieves First Criticality",
       "summary": "Unit 1 at the Rooppur nuclear power station being built by Russia in Bangladesh has achieved criticality with grid connection expected by the end of November. The 1,080-MW VVER V-523 pressurised water reactor unit, construction of which began in 2017, achieved first criticality at 15:34 on 11 October. First criticality is the milestone moment when a nuclear reactor achieves a self-sustaining, controlled chain reaction for the very first time. Rooppur, Bangladesh’s most expensive infrastructure facility, has considerable backing from Russia.",
@@ -802,6 +923,39 @@
       "source_id": "nucnet",
       "source": "NucNet",
       "topic": "construction",
+      "language": "en"
+    },
+    {
+      "id": "033873b2599cfd76",
+      "title": "Nuclear Technologies in Space: From Batteries to Future Rockets",
+      "summary": "",
+      "url": "http://www.iaea.org/newscenter/news/nuclear-technologies-in-space-from-batteries-to-future-rockets",
+      "published_at": "2026-10-12T08:00:00Z",
+      "source_id": "iaea",
+      "source": "IAEA",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "0be17274e23179fa",
+      "title": "Update 370 – IAEA Director General Statement on Situation in Ukraine",
+      "summary": "",
+      "url": "http://www.iaea.org/newscenter/pressreleases/update-370-iaea-director-general-statement-on-situation-in-ukraine",
+      "published_at": "2026-10-09T17:15:00Z",
+      "source_id": "iaea",
+      "source": "IAEA",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "52f9e72a1570416a",
+      "title": "IAEA Concludes Long Term Operation Safety Review at Sweden’s Oskarshamn Nuclear Power Plant",
+      "summary": "",
+      "url": "http://www.iaea.org/newscenter/pressreleases/iaea-concludes-long-term-operation-safety-review-at-swedens-oskarshamn-nuclear-power-plant-0",
+      "published_at": "2026-10-09T11:13:00Z",
+      "source_id": "iaea",
+      "source": "IAEA",
+      "topic": "safety",
       "language": "en"
     },
     {
