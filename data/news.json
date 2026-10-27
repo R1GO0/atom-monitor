@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T22:44:21Z",
+  "generated_at": "2026-10-27T22:57:42Z",
   "sources": [
     {
       "status": "cached",
@@ -18,12 +18,12 @@
       "article_count": 0
     },
     {
-      "status": "unavailable",
+      "status": "updated",
       "error": "",
       "id": "atominfo",
       "name": "AtomInfo.Ru",
-      "site": "https://www.atominfo.ru",
-      "article_count": 0
+      "site": "http://atominfo.ru",
+      "article_count": 20
     },
     {
       "status": "unavailable",
@@ -332,6 +332,127 @@
       "language": "en"
     },
     {
+      "id": "165925fce9226112",
+      "title": "МНТК НИКИЭТ - 2026 начинает работу 27 октября",
+      "summary": "VII международная научно-техническая конференция \"Инновационные проекты и технологии ядерной энергетики\" (МНТК НИКИЭТ - 2026) начинает работу 27 октября 2026 года.",
+      "url": "http://atominfo.ru/newsz10/a0101.htm",
+      "published_at": "2026-10-26T09:38:02Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "839e9cb2f4420be9",
+      "title": "Lotus Resources получила окончательное разрешение на экспорт первой партии урана с рудника Kayelekera",
+      "summary": "Компания Lotus Resources (Австралия) объявила 26 октября 2026 года о получении окончательного разрешения на транспортировку и экспорт первой партии уранового концентрата с рудника Kayelekera (Кайелекера) в Малави.",
+      "url": "http://atominfo.ru/newsz10/a0100.htm",
+      "published_at": "2026-10-26T09:31:53Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "fuel",
+      "language": "ru"
+    },
+    {
+      "id": "c7586629c7904582",
+      "title": "Япония приступила к сливу в океан очередной партии фукусимской воды",
+      "summary": "Япония приступила в понедельник, 26 октября 2026 года, к сливу в океан очередной, 25-й по счёту партии загрязнённой воды с площадки аварийной АЭС \"Фукусима Дайичи\".",
+      "url": "http://atominfo.ru/newsz10/a0099.htm",
+      "published_at": "2026-10-26T09:24:56Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "construction",
+      "language": "ru"
+    },
+    {
+      "id": "70bfe14803b77719",
+      "title": "Deep Isolation оценила вариант глубокого подземного захоронения ОЯТ словенского исследовательского реактора",
+      "summary": "Компания Deep Isolation (США) провела по заказу агентства по радиоактивным отходам Словении оценку затрат на глубокое подземное захоронение ОЯТ исследовательского реактора.",
+      "url": "http://atominfo.ru/newsz10/a0098.htm",
+      "published_at": "2026-10-26T09:20:05Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
+      "id": "0211e7e234fbadda",
+      "title": "США - программа FORTRESS",
+      "summary": "Министерство обороны США считает, что микрореакторы помогут обеспечить военным базам живучесть на протяжении 90 суток.",
+      "url": "http://atominfo.ru/newsz10/a0097.htm",
+      "published_at": "2026-10-26T08:51:23Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
+      "id": "171922f382c70cfc",
+      "title": "Нововоронежская АЭС работает в штатном режиме после атаки ВСУ на регион",
+      "summary": "Нововоронежская АЭС работает в штатном режиме после атаки ВСУ на Воронежскую область, передаёт ТАСС со ссылкой на пресс-службу станции.",
+      "url": "http://atominfo.ru/newsz10/a0096.htm",
+      "published_at": "2026-10-26T06:43:57Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "de71ff57763fe4c2",
+      "title": "NRC утвердила правило об использовании данных из демонстрационных проектов",
+      "summary": "Комиссия по ядерному регулированию (NRC) США 22 октября 2026 года окончательно утвердила правило, позволяющее заявителям коммерческих проектов использовать данные демонстрационных проектов.",
+      "url": "http://atominfo.ru/newsz10/a0095.htm",
+      "published_at": "2026-10-25T15:58:06Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "77a3acfb77408b7b",
+      "title": "Правительство Финляндии выдало лицензию на геологическое хранилище ОЯТ",
+      "summary": "Правительство Финляндии выдало лицензию компании Posiva на эксплуатацию комплекса Onkalo по кондиционированию и окончательному захоронению ОЯТ.",
+      "url": "http://atominfo.ru/newsz10/a0094.htm",
+      "published_at": "2026-10-25T15:50:33Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "a3b39dd0183a64c7",
+      "title": "Natrium - установлен тренажёр",
+      "summary": "Установка полномасштабного тренажёра Stage 1 Training Simulator (TSN) завершена на площадке строящегося в Кеммерере (США) быстрого натриевого реактора Natrium.",
+      "url": "http://atominfo.ru/newsz10/a0093.htm",
+      "published_at": "2026-10-25T15:43:15Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "construction",
+      "language": "ru"
+    },
+    {
+      "id": "945f258d679d67d5",
+      "title": "Посольство России в Иране опровергло сообщения об эвакуции специалистов Бушерской АЭС",
+      "summary": "Посольство России в Иране опровергло сообщения о якобы начавшейся эвакуации дипломатического персонала и специалистов АЭС \"Бушер\".",
+      "url": "http://atominfo.ru/newsz10/a0092.htm",
+      "published_at": "2026-10-25T14:39:25Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "40926bd6f554e8a6",
+      "title": "Общестанционная тренировка прошла на Балаковской АЭС",
+      "summary": "Общестанционная тренировка прошла 22 октября 2026 года на Балаковской АЭС, сообщается на сайте \"Росэнергоатома\".",
+      "url": "http://atominfo.ru/newsz10/a0090.htm",
+      "published_at": "2026-10-24T07:57:20Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
       "id": "212bc2d50267da59",
       "title": "Posiva given go-ahead to operate Finnish used fuel repository",
       "summary": "Finnish radioactive waste management company Posiva has been granted a licence to operate the encapsulation and final disposal facility for used nuclear fuel located in Olkiluoto. It is the world's first repository for used fuel to be granted such a licence.",
@@ -409,6 +530,17 @@
       "language": "en"
     },
     {
+      "id": "97e14154be7b130a",
+      "title": "Акционеры Казатомпрома вновь рассмотрят сделку с Ураниум Уан",
+      "summary": "\"Казатомпром\" уведомил на своём сайте о проведении внеочередного общего собрания акционеров.",
+      "url": "http://atominfo.ru/newsz10/a0089.htm",
+      "published_at": "2026-10-23T08:22:56Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "fuel",
+      "language": "ru"
+    },
+    {
       "id": "6e0db4156ff85186",
       "title": "What is Nuclear Fuel?",
       "summary": "",
@@ -420,6 +552,72 @@
       "language": "en"
     },
     {
+      "id": "6b7dd8e51ac3d8c2",
+      "title": "Глава Росатома встретился с президентом Узбекистана",
+      "summary": "Встреча президента Республики Узбекистан Шавката Мирзиёева с генеральным директором госкорпорации \"Росатом\" Алексеем Лихачёвым состоялась 23 октября 2026 года в Ташкенте.",
+      "url": "http://atominfo.ru/newsz10/a0087.htm",
+      "published_at": "2026-10-23T07:39:17Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "43ae9cac4d2c1a93",
+      "title": "Поставки конструкций БМЗ трансформаторной подстанции начались на стройплощадке Смоленской АЭС-2",
+      "summary": "Поставки конструкций блочно-модульного здания (БМЗ) трансформаторной подстанции 110/10 кВ начались на стройплощадке Смоленской АЭС-2, сообщается на сайте \"Росэнергоатома\".",
+      "url": "http://atominfo.ru/newsz10/a0086.htm",
+      "published_at": "2026-10-22T16:02:47Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "construction",
+      "language": "ru"
+    },
+    {
+      "id": "c5c3d9711c5a07a8",
+      "title": "Монтаж двух элементов ловушки расплава выполнен на строящемся блоке №4 ЛАЭС-2",
+      "summary": "Монтаж двух элементов ловушки расплава выполнен на строящемся энергоблоке №4 ВВЭР-1200 Ленинградской АЭС-2, сообщается на сайте \"Росэнергоатома\".",
+      "url": "http://atominfo.ru/newsz10/a0085.htm",
+      "published_at": "2026-10-22T15:58:01Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "construction",
+      "language": "ru"
+    },
+    {
+      "id": "60dc401d94a3b6de",
+      "title": "Регуляторы Франции не видят фундаментальных препятствий для продления срока службы блоков EDF сверх 60 лет",
+      "summary": "Управление по ядерной безопасности и радиационной защите Франции (ASNR) официально заявило, что не видит фундаментальных препятствий для продления срока эксплуатации атомных энергоблоков компании EDF сверх 60 лет.",
+      "url": "http://atominfo.ru/newsz10/a0084.htm",
+      "published_at": "2026-10-22T15:53:19Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
+      "id": "ce8d93b37afe0534",
+      "title": "ВМС США выбрали микрореактор Kaleidos",
+      "summary": "Военно-морские силы США выбрали микрореактор Kaleidos компании Radiant для развёртывания на военно-морской базе \"Крейн\" (Crane) в штате Индиана.",
+      "url": "http://atominfo.ru/newsz10/a0083.htm",
+      "published_at": "2026-10-22T15:36:10Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
+      "id": "098c7c9102c3af8c",
+      "title": "АЭС Palisades - сборка извлечена",
+      "summary": "Компания Holtec объявила 21 октября 2026 года об успешном завершении операции по извлечению отклонившейся от вертикальной позиции ТВС из активной зоны реактора АЭС Palisades (Палисейдс) .",
+      "url": "http://atominfo.ru/newsz10/a0082.htm",
+      "published_at": "2026-10-22T15:12:43Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
       "id": "024d68aa23b14e8d",
       "title": "IAEA Mission Finds Kenya Committed to Safe Management of Radioactive Waste as it Develops a Nuclear Power Programme",
       "summary": "",
@@ -429,6 +627,17 @@
       "source": "IAEA",
       "topic": "international",
       "language": "en"
+    },
+    {
+      "id": "75a2f35cfd813f97",
+      "title": "Westinghouse вложит 1 млрд долларов в производство топлива из НОУ-плюс",
+      "summary": "Компания Westinghouse Electric Company объявила об инвестициях в размере около 1 миллиарда долларов на развитие своего топливного предприятия в Колумбии (штат Южная Каролина, США).",
+      "url": "http://atominfo.ru/newsz10/a0081.htm",
+      "published_at": "2026-10-22T13:25:27Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "fuel",
+      "language": "ru"
     },
     {
       "id": "9f12435102fe7987",
@@ -484,6 +693,17 @@
       "source": "World Nuclear News",
       "topic": "reactors",
       "language": "en"
+    },
+    {
+      "id": "67803efc6d32650b",
+      "title": "Росатом не получал уведомлений о расторжении контракта по АЭС Пакш-2",
+      "summary": "\"Росатом\" не получал от венгерского заказчика официальных уведомлений о намерении расторгнуть контракт по АЭС \"Пакш-2\".",
+      "url": "http://atominfo.ru/newsz10/a0079.htm",
+      "published_at": "2026-10-22T04:51:02Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "economy",
+      "language": "ru"
     },
     {
       "id": "e0e601170a628b75",
