@@ -67,7 +67,9 @@ h1 em { color: var(--lime); font-style: normal; }
 .strip-label { color: #86928a; white-space: nowrap; font-size: 8px; }
 .source-list { display: flex; flex: 1; flex-wrap: wrap; align-items: center; gap: 8px 19px; }
 .source-name { color: #42534a; font-size: 10px; font-weight: 700; white-space: nowrap; }
+.source-name-idle { color: #89948d; font-weight: 500; }
 .source-name::before { content: ""; width: 4px; height: 4px; display: inline-block; margin: 0 7px 2px 0; background: #a9c292; border-radius: 50%; }
+.source-name-idle::before { background: #c3c9c3; }
 .source-placeholder { color: #929b95; font-size: 10px; }
 .strip-arrow { color: #829087; }
 .content-layout { display: grid; grid-template-columns: 245px minmax(0, 1fr); gap: 34px; padding: 34px 0 46px; align-items: start; }

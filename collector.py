@@ -26,14 +26,14 @@ MAX_AGE_DAYS = 60
 TIMEOUT_SECONDS = 22
 
 SOURCES = [
-    {"id": "atomic-energy", "name": "Атомная энергия 2.0", "site": "https://www.atomic-energy.ru", "language": "ru", "feeds": ["https://www.atomic-energy.ru/news/rss.xml", "https://www.atomic-energy.ru/rss.xml"]},
-    {"id": "nuclear-ru", "name": "Nuclear.Ru", "site": "https://www.nuclear.ru", "language": "ru", "feeds": ["https://www.nuclear.ru/ru/news/rss/", "https://www.nuclear.ru/ru/rss.xml"]},
-    {"id": "atominfo", "name": "AtomInfo.Ru", "site": "https://www.atominfo.ru", "language": "ru", "feeds": ["https://www.atominfo.ru/rss.xml", "https://www.atominfo.ru/news.rss"]},
-    {"id": "rosatom", "name": "Росатом", "site": "https://www.rosatom.ru", "language": "ru", "feeds": ["https://www.rosatom.ru/press-centre/news/rss.xml", "https://www.rosatom.ru/press-centre/news/rss/"]},
-    {"id": "rosenergoatom", "name": "Росэнергоатом", "site": "https://www.rosenergoatom.ru", "language": "ru", "feeds": ["https://www.rosenergoatom.ru/zhurnalistam/rss/", "https://rosenergoatom.ru/zhurnalistam/rss/"]},
-    {"id": "world-nuclear-news", "name": "World Nuclear News", "site": "https://world-nuclear-news.org", "language": "en", "feeds": ["https://world-nuclear-news.org/rss", "https://world-nuclear-news.org/?rss=feed", "https://www.world-nuclear-news.org/rss"]},
-    {"id": "iaea", "name": "IAEA", "site": "https://www.iaea.org", "language": "en", "feeds": ["https://www.iaea.org/feeds/topnews"]},
-    {"id": "nucnet", "name": "NucNet", "site": "https://www.nucnet.org", "language": "en", "feeds": ["https://www.nucnet.org/rss", "https://www.nucnet.org/feed"]},
+    {"id": "atomic-energy", "name": "Атомная энергия 2.0", "site": "https://www.atomic-energy.ru", "language": "ru", "feeds": ["https://www.atomic-energy.ru/news/rss.xml"], "public_rss": True},
+    {"id": "nuclear-ru", "name": "Nuclear.Ru", "site": "https://www.nuclear.ru", "language": "ru", "feeds": []},
+    {"id": "atominfo", "name": "AtomInfo.Ru", "site": "https://www.atominfo.ru", "language": "ru", "feeds": []},
+    {"id": "rosatom", "name": "Росатом", "site": "https://www.rosatom.ru", "language": "ru", "feeds": ["https://www.rosatom.ru/upload/iblock_rss_38.xml"], "public_rss": True},
+    {"id": "rosenergoatom", "name": "Росэнергоатом", "site": "https://www.rosenergoatom.ru", "language": "ru", "feeds": ["https://www.rosenergoatom.ru/zhurnalistam/news/rss/"], "public_rss": True},
+    {"id": "world-nuclear-news", "name": "World Nuclear News", "site": "https://world-nuclear-news.org", "language": "en", "feeds": ["https://world-nuclear-news.org/rss", "https://world-nuclear-news.org/?rss=feed", "https://www.world-nuclear-news.org/rss"], "public_rss": True},
+    {"id": "iaea", "name": "IAEA", "site": "https://www.iaea.org", "language": "en", "feeds": ["https://www.iaea.org/feeds/topnews"], "public_rss": True},
+    {"id": "nucnet", "name": "NucNet", "site": "https://www.nucnet.org", "language": "en", "feeds": ["https://www.nucnet.org/feed", "https://www.nucnet.org/rss"], "public_rss": True},
 ]
 
 TOPICS = {
@@ -134,7 +134,7 @@ class ListingExtractor(HTMLParser):
                 self.captures.clear()
 
 
-def robots_can_fetch(url: str, cache: dict[str, urllib.robotparser.RobotFileParser | None]) -> bool:
+def robots_can_fetch(url: str, cache: dict[str, urllib.robotparser.RobotFileParser | None]) -> bool | None:
     parsed = urllib.parse.urlsplit(url)
     origin = f"{parsed.scheme}://{parsed.netloc}"
     if origin not in cache:
@@ -156,7 +156,9 @@ def robots_can_fetch(url: str, cache: dict[str, urllib.robotparser.RobotFilePars
             print(f"  не удалось прочитать robots.txt; пропуск домена: {error}")
             cache[origin] = None
     parser = cache[origin]
-    return bool(parser and parser.can_fetch(USER_AGENT, url))
+    if parser is None:
+        return None
+    return parser.can_fetch(USER_AGENT, url)
 
 
 def fetch(url: str, accept: str = "application/atom+xml, application/rss+xml, application/xml, text/xml, text/html;q=0.8") -> bytes:
@@ -297,40 +299,56 @@ def discover_feeds(source: dict, robots_cache: dict) -> list[str]:
         return []
 
 
-def collect_source(source: dict, robots_cache: dict) -> list[dict]:
+def collect_source(source: dict, robots_cache: dict) -> tuple[list[dict], dict]:
     urls = list(source["feeds"])
     seen_urls = set(urls)
     articles: list[dict] = []
+    feed_succeeded = False
+    errors: list[str] = []
     for url in urls:
-        if not robots_can_fetch(url, robots_cache):
+        permission = robots_can_fetch(url, robots_cache)
+        if permission is False:
             print(f"  RSS запрещён robots.txt: {url}")
             continue
+        if permission is None:
+            if not source.get("public_rss"):
+                print(f"  robots.txt недоступен; RSS пропущен: {url}")
+                errors.append("robots.txt недоступен")
+                continue
+            print(f"  robots.txt недоступен; проверяю явно опубликованную RSS-ленту: {url}")
         try:
             items = get_feed_entries(fetch(url), url, source)
+            feed_succeeded = True
             if items:
                 articles.extend(items)
                 break
         except Exception as error:
             print(f"  RSS недоступен: {url} ({error})")
+            errors.append(str(error))
         time.sleep(0.15)
 
-    if not articles:
+    if not articles and not feed_succeeded:
         for url in discover_feeds(source, robots_cache):
             if url in seen_urls:
                 continue
             seen_urls.add(url)
-            if not robots_can_fetch(url, robots_cache):
+            permission = robots_can_fetch(url, robots_cache)
+            if permission is not True:
                 continue
             try:
-                articles.extend(get_feed_entries(fetch(url), url, source))
+                items = get_feed_entries(fetch(url), url, source)
+                feed_succeeded = True
+                articles.extend(items)
                 if articles:
                     break
             except Exception as error:
                 print(f"  обнаруженная RSS-лента недоступна: {error}")
+                errors.append(str(error))
             time.sleep(0.15)
-    if not articles:
+    if not articles and not feed_succeeded:
         articles = collect_html_listing(source, robots_cache)
-    return articles
+    status = "updated" if articles else "empty" if feed_succeeded else "unavailable"
+    return articles, {"status": status, "error": "; ".join(errors)[:240]}
 
 
 def collect_html_listing(source: dict, robots_cache: dict) -> list[dict]:
@@ -383,18 +401,40 @@ def main() -> None:
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     robots_cache: dict[str, urllib.robotparser.RobotFileParser | None] = {}
     all_articles: list[dict] = []
-    active_sources = []
+    source_results: dict[str, dict] = {}
+    previous_articles: list[dict] = []
+    try:
+        previous_payload = json.loads(OUTPUT.read_text(encoding="utf-8"))
+        previous_articles = previous_payload.get("articles", []) if isinstance(previous_payload, dict) else []
+    except (OSError, json.JSONDecodeError):
+        pass
 
     for source in SOURCES:
         print(f"Проверяю {source['name']}…")
-        items = collect_source(source, robots_cache)
-        if items:
-            print(f"  найдено материалов: {len(items)}")
-            active_sources.append({"id": source["id"], "name": source["name"], "site": source["site"], "article_count": len(items)})
-            all_articles.extend(items)
+        items, result = collect_source(source, robots_cache)
+        cached = [article for article in previous_articles if article.get("source_id") == source["id"]]
+        combined: dict[str, dict] = {}
+        for article in items + cached:
+            url = article.get("url", "")
+            published = parse_date(article.get("published_at", ""))
+            if not url or not published:
+                continue
+            timestamp = datetime.fromisoformat(published.replace("Z", "+00:00")).timestamp()
+            if timestamp < datetime.now(timezone.utc).timestamp() - MAX_AGE_DAYS * 86_400:
+                continue
+            key = canonical_url(url)
+            combined.setdefault(key, article)
+        source_items = sorted(combined.values(), key=lambda item: item["published_at"], reverse=True)[:MAX_ITEMS_PER_SOURCE]
+        if result["status"] == "unavailable" and source_items:
+            result["status"] = "cached"
+            print(f"  источник временно недоступен; сохранено материалов из предыдущего сбора: {len(source_items)}")
+        elif source_items:
+            print(f"  сохранено материалов: {len(source_items)}")
         else:
-            print("  доступная RSS/Atom-лента не найдена; источник сохранён в списке")
-            active_sources.append({"id": source["id"], "name": source["name"], "site": source["site"], "article_count": 0})
+            print("  свежих материалов нет")
+        result.update({"id": source["id"], "name": source["name"], "site": source["site"], "article_count": len(source_items)})
+        source_results[source["id"]] = result
+        all_articles.extend(source_items)
 
     unique: dict[str, dict] = {}
     seen_titles: set[str] = set()
@@ -408,6 +448,15 @@ def main() -> None:
         if title_key:
             seen_titles.add(title_key)
     articles = sorted(unique.values(), key=lambda item: item["published_at"], reverse=True)
+    final_counts: dict[str, int] = {}
+    for article in articles:
+        source_id = article.get("source_id", "")
+        final_counts[source_id] = final_counts.get(source_id, 0) + 1
+    active_sources = []
+    for source in SOURCES:
+        result = source_results[source["id"]]
+        result["article_count"] = final_counts.get(source["id"], 0)
+        active_sources.append(result)
     payload = {
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z"),
         "sources": active_sources,

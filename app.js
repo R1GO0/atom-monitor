@@ -59,17 +59,28 @@ function fillSources() {
   const sourceNames = new Map();
   state.sources.forEach((source) => {
     if (!source?.id || !source?.name) return;
-    sourceNames.set(source.id, source.name);
-    elements.source.add(new Option(source.name, source.id));
+    const count = Number(source.article_count) || 0;
+    const stateLabel = count
+      ? ` — ${count}`
+      : source.status === "unavailable"
+        ? " — временно недоступен"
+        : " — нет свежих материалов";
+    sourceNames.set(source.id, { ...source, count });
+    elements.source.add(new Option(`${source.name}${stateLabel}`, source.id));
   });
 
   elements.sources.replaceChildren();
-  const uniqueNames = [...new Set(sourceNames.values())];
-  if (!uniqueNames.length) {
+  const uniqueSources = [...new Map([...sourceNames.values()].map((source) => [source.name, source])).values()];
+  if (!uniqueSources.length) {
     elements.sources.append(makeNode("span", "source-placeholder", "Источники появятся после первого обновления"));
     return;
   }
-  uniqueNames.forEach((name) => elements.sources.append(makeNode("span", "source-name", name)));
+  uniqueSources.forEach((source) => {
+    const suffix = source.count ? ` · ${source.count}` : " · нет свежих";
+    const node = makeNode("span", `source-name${source.count ? "" : " source-name-idle"}`, `${source.name}${suffix}`);
+    if (source.error) node.title = source.error;
+    elements.sources.append(node);
+  });
 }
 
 function filteredArticles() {
@@ -205,7 +216,8 @@ async function loadFeed() {
     state.sources = Array.isArray(payload.sources) ? payload.sources : [];
     fillSources();
     elements.total.textContent = new Intl.NumberFormat("ru-RU").format(state.articles.length);
-    elements.sourceCount.textContent = new Intl.NumberFormat("ru-RU").format(state.sources.length);
+    const activeSources = state.sources.filter((source) => Number(source.article_count) > 0).length;
+    elements.sourceCount.textContent = new Intl.NumberFormat("ru-RU").format(activeSources);
     elements.updated.textContent = formatUpdated(payload.generated_at);
     state.loaded = true;
     render();
