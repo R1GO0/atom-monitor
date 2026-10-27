@@ -28,7 +28,7 @@ TIMEOUT_SECONDS = 22
 SOURCES = [
     {"id": "atomic-energy", "name": "Атомная энергия 2.0", "site": "https://www.atomic-energy.ru", "language": "ru", "feeds": ["https://www.atomic-energy.ru/news/rss.xml"], "public_rss": True},
     {"id": "nuclear-ru", "name": "Nuclear.Ru", "site": "https://www.nuclear.ru", "language": "ru", "feeds": []},
-    {"id": "atominfo", "name": "AtomInfo.Ru", "site": "https://www.atominfo.ru", "language": "ru", "feeds": []},
+    {"id": "atominfo", "name": "AtomInfo.Ru", "site": "http://atominfo.ru", "language": "ru", "feeds": ["http://atominfo.ru/news50.xml"], "public_rss": True},
     {"id": "rosatom", "name": "Росатом", "site": "https://www.rosatom.ru", "language": "ru", "feeds": ["https://www.rosatom.ru/upload/iblock_rss_38.xml"], "public_rss": True},
     {"id": "rosenergoatom", "name": "Росэнергоатом", "site": "https://www.rosenergoatom.ru", "language": "ru", "feeds": ["https://www.rosenergoatom.ru/zhurnalistam/news/rss/"], "public_rss": True},
     {"id": "world-nuclear-news", "name": "World Nuclear News", "site": "https://world-nuclear-news.org", "language": "en", "feeds": ["https://world-nuclear-news.org/rss", "https://world-nuclear-news.org/?rss=feed", "https://www.world-nuclear-news.org/rss"], "public_rss": True},
