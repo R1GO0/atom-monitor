@@ -216,6 +216,12 @@ def parse_date(value: str) -> str | None:
         except ValueError:
             pass
         try:
+            # IAEA's RSS uses a two-digit year and omits the timezone.
+            parsed = datetime.strptime(candidate, "%y-%m-%d %H:%M").replace(tzinfo=timezone.utc)
+            return parsed.isoformat(timespec="seconds").replace("+00:00", "Z")
+        except ValueError:
+            pass
+        try:
             parsed = parsedate_to_datetime(candidate)
             if parsed.tzinfo is None:
                 parsed = parsed.replace(tzinfo=timezone.utc)
