@@ -1,49 +1,65 @@
 {
-  "generated_at": "2026-10-27T22:17:37Z",
+  "generated_at": "2026-10-27T22:38:47Z",
   "sources": [
     {
+      "status": "updated",
+      "error": "",
       "id": "atomic-energy",
       "name": "Атомная энергия 2.0",
       "site": "https://www.atomic-energy.ru",
-      "article_count": 0
+      "article_count": 10
     },
     {
+      "status": "unavailable",
+      "error": "",
       "id": "nuclear-ru",
       "name": "Nuclear.Ru",
       "site": "https://www.nuclear.ru",
       "article_count": 0
     },
     {
+      "status": "unavailable",
+      "error": "",
       "id": "atominfo",
       "name": "AtomInfo.Ru",
       "site": "https://www.atominfo.ru",
       "article_count": 0
     },
     {
+      "status": "unavailable",
+      "error": "<urlopen error timed out>",
       "id": "rosatom",
       "name": "Росатом",
       "site": "https://www.rosatom.ru",
       "article_count": 0
     },
     {
+      "status": "unavailable",
+      "error": "<urlopen error timed out>",
       "id": "rosenergoatom",
       "name": "Росэнергоатом",
       "site": "https://www.rosenergoatom.ru",
       "article_count": 0
     },
     {
+      "status": "updated",
+      "error": "",
       "id": "world-nuclear-news",
       "name": "World Nuclear News",
       "site": "https://world-nuclear-news.org",
       "article_count": 45
     },
     {
+      "status": "empty",
+      "error": "",
       "id": "iaea",
       "name": "IAEA",
       "site": "https://www.iaea.org",
       "article_count": 0
     },
     {
+      "status": "updated",
+      "error": "",
       "id": "nucnet",
       "name": "NucNet",
       "site": "https://www.nucnet.org",
@@ -51,6 +67,39 @@
     }
   ],
   "articles": [
+    {
+      "id": "3f9b9e3ad81756ae",
+      "title": "Смоленские атомщики поделились передовым опытом со специалистами Белорусской АЭС",
+      "summary": "Смоленскую АЭС (предприятие Электроэнергетического дивизиона госкорпорации «Росатом») посетила делегация Белорусской АЭС с целью изучения опыта организации процесса управления конфигурацией, т. е.…",
+      "url": "https://www.atomic-energy.ru/news/2026/10/27/169442",
+      "published_at": "2026-10-27T14:23:22Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "b19c87560dee2a28",
+      "title": "Система экологического менеджмента Кольской АЭС успешно подтвердила соответствие международным стандартам",
+      "summary": "Кольская АЭС подтвердила соответствие системы экологического менеджмента международным стандартам соответствия национальной системе ГОСТ Р ИСО 14001-2016 и международному стандарту ISO 14001:2015 в…",
+      "url": "https://www.atomic-energy.ru/news/2026/10/27/169443",
+      "published_at": "2026-10-27T14:21:26Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "c9bd962530f5ad03",
+      "title": "В пруд-охладитель энергоблока № 5 Нововоронежской АЭС выпущено 6 тонн мальков толстолобика",
+      "summary": "23 октября 2026 года в пруд-охладитель энергоблока №5 Нововоронежской АЭС (Электроэнергетический дивизион госкорпорации «Росатом»), предназначенный для охлаждения конденсаторов турбин и…",
+      "url": "https://www.atomic-energy.ru/news/2026/10/27/169441",
+      "published_at": "2026-10-27T14:19:02Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "reactors",
+      "language": "ru"
+    },
     {
       "id": "6fb8e546e1547a85",
       "title": "Korea's Kori 3 and 4 set for restarts in 2027",
@@ -61,6 +110,28 @@
       "source": "World Nuclear News",
       "topic": "reactors",
       "language": "en"
+    },
+    {
+      "id": "75f43f63b88c19d6",
+      "title": "Состоялось открытое собрание Объединенного совета обучающихся ядерного университета НИЯУ МИФИ",
+      "summary": "26 октября в аудитории Б-100 состоялось открытое собрание Объединенного совета обучающихся ядерного университета – органа самоуправления, в работе которого на добровольной основе участвуют студенты,…",
+      "url": "https://www.atomic-energy.ru/news/2026/10/27/169476",
+      "published_at": "2026-10-27T14:13:34Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "3ec8cca7993dc481",
+      "title": "Минский Центр аддитивных технологий «Росатома» и Белорусская АЭС договорились о сотрудничестве",
+      "summary": "27 октября 2026 года на площадке XXX Белорусского энергетического и экологического форума в Минске ООО «Центр аддитивных технологий РН» и РУП «Белорусская атомная электростанция» подписали соглашение…",
+      "url": "https://www.atomic-energy.ru/news/2026/10/27/169475",
+      "published_at": "2026-10-27T13:47:12Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "construction",
+      "language": "ru"
     },
     {
       "id": "9d513eca43b1d71d",
@@ -74,6 +145,39 @@
       "language": "en"
     },
     {
+      "id": "0dafaeb98b23fd6c",
+      "title": "В Новоуральске прошла вторая межгородская стажировка Клуба экопартнёров «Росатома»",
+      "summary": "В Новоуральске прошла вторая межгородская стажировка «Экопрактики в движении», объединившая экологических лидеров из 14 городов России: Озёрска, Северска, Сарова, Железногорска, Нововоронежа и других…",
+      "url": "https://www.atomic-energy.ru/news/2026/10/27/169470",
+      "published_at": "2026-10-27T12:31:55Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "63f5222b0c1e9eb7",
+      "title": "«Росатом» провел в Нижнем Новгороде форум «Добрые города» по устойчивому развитию территорий и укреплению городских сообществ",
+      "summary": "С 23 по 25 октября 2026 года в Нижнем Новгороде, на площадке Академии «Маяк» имени А. Д. Сахарова прошёл форум «Добрые города – доброму Нижнему». Организаторами форума выступили госкорпорация…",
+      "url": "https://www.atomic-energy.ru/news/2026/10/27/169471",
+      "published_at": "2026-10-27T12:31:36Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "construction",
+      "language": "ru"
+    },
+    {
+      "id": "b6b0346a913c26d6",
+      "title": "Стартовала конференция НИЯУ МИФИ ICPPA-2026",
+      "summary": "27 октября в Москве, в гостинице «Севастополь» стартовала организованная НИЯУ МИФИ четырехдневная 8-я международная конференция по физике элементарных частиц и астрофизике (ICPPA-2026). Открывая…",
+      "url": "https://www.atomic-energy.ru/news/2026/10/27/169472",
+      "published_at": "2026-10-27T12:30:51Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
       "id": "9d6228f3d16b6b8c",
       "title": "NVIDIA to consider data centres at former German nuclear sites",
       "summary": "Germany's PreussenElektra and multinational technology company NVIDIA are to explore whether PreussenElektra's former nuclear power plant sites are suitable for the construction of so-called AI factories.",
@@ -83,6 +187,28 @@
       "source": "World Nuclear News",
       "topic": "construction",
       "language": "en"
+    },
+    {
+      "id": "e9de700732e7d9b3",
+      "title": "«ЦКБМ» Росатома представило детскую профориентационную книгу «Капибара и Волшебная Шестеренка»",
+      "summary": "Центральное конструкторское бюро машиностроения (ЦКБМ, Машиностроительный дивизион «Росатома») выпустило свою первую детскую профориентационную книгу «Капибара и Волшебная Шестеренка». Книга…",
+      "url": "https://www.atomic-energy.ru/news/2026/10/27/169469",
+      "published_at": "2026-10-27T12:03:20Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "fdf0287d9cad8713",
+      "title": "Первое дноуглубительное судно Росатома «Дарья» завершило работы в порту Сабетта",
+      "summary": "Госкорпорация «Росатом» подвела итоги работы первого собственного дноуглубительного судна – самоотвозного трюмного земснаряда (СТЗ) «Дарья» – в морском порту Сабетта. По итогам работ на подходном…",
+      "url": "https://www.atomic-energy.ru/news/2026/10/27/169468",
+      "published_at": "2026-10-27T11:57:17Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
     },
     {
       "id": "b8dc644197c889ba",
