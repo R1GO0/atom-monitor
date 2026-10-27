@@ -28,8 +28,8 @@ TIMEOUT_SECONDS = 22
 SOURCES = [
     {"id": "atomic-energy", "name": "Атомная энергия 2.0", "site": "https://www.atomic-energy.ru", "language": "ru", "feeds": ["https://www.atomic-energy.ru/news/rss.xml"], "public_rss": True},
     {"id": "atominfo", "name": "AtomInfo.Ru", "site": "http://atominfo.ru", "language": "ru", "feeds": ["http://atominfo.ru/news50.xml"], "public_rss": True},
-    {"id": "rosatom", "name": "Росатом", "site": "https://rosatom.ru", "language": "ru", "feeds": ["https://rosatom.ru/upload/iblock_rss_38.xml"], "public_rss": True},
-    {"id": "rosenergoatom", "name": "Росэнергоатом", "site": "https://rosenergoatom.ru", "language": "ru", "feeds": ["https://rosenergoatom.ru/zhurnalistam/news/rss/"], "public_rss": True},
+    {"id": "rosatom", "name": "Росатом", "site": "https://rosatom.ru", "language": "ru", "feeds": ["https://rosatom.ru/upload/iblock_rss_38.xml"], "public_rss": True, "telegram": "https://t.me/s/rosatomru"},
+    {"id": "rosenergoatom", "name": "Росэнергоатом", "site": "https://rosenergoatom.ru", "language": "ru", "feeds": ["https://rosenergoatom.ru/zhurnalistam/news/rss/"], "public_rss": True, "telegram": "https://t.me/s/rosenergoatom"},
     {"id": "world-nuclear-news", "name": "World Nuclear News", "site": "https://world-nuclear-news.org", "language": "en", "feeds": ["https://world-nuclear-news.org/rss", "https://world-nuclear-news.org/?rss=feed", "https://www.world-nuclear-news.org/rss"], "public_rss": True},
     {"id": "iaea", "name": "IAEA", "site": "https://www.iaea.org", "language": "en", "feeds": ["https://www.iaea.org/feeds/topnews"], "public_rss": True},
     {"id": "nucnet", "name": "NucNet", "site": "https://www.nucnet.org", "language": "en", "feeds": ["https://www.nucnet.org/feed", "https://www.nucnet.org/rss"], "public_rss": True},
@@ -69,6 +69,67 @@ class FeedLinkExtractor(HTMLParser):
         href = attributes.get("href", "")
         if href and "alternate" in rel and ("rss" in media or "atom" in media or "xml" in media):
             self.links.append(urllib.parse.urljoin(self.base_url, href))
+
+
+class TelegramListingExtractor(HTMLParser):
+    """Extract text posts from Telegram's public channel preview page."""
+
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=True)
+        self.container_depth = 0
+        self.content_depth = 0
+        self.current: dict | None = None
+        self.articles: list[dict] = []
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        attributes = {key.lower(): value or "" for key, value in attrs}
+        classes = set(attributes.get("class", "").split())
+        if self.current is None:
+            post_id = attributes.get("data-post", "")
+            if tag.lower() == "div" and "tgme_widget_message" in classes and post_id:
+                self.current = {"url": f"https://t.me/{post_id}", "date": "", "parts": []}
+                self.container_depth = 1
+            return
+
+        if tag.lower() == "div":
+            self.container_depth += 1
+            if {"tgme_widget_message_text", "js-message_text"}.issubset(classes):
+                self.content_depth = 1
+            elif self.content_depth:
+                self.content_depth += 1
+        if self.content_depth and tag.lower() == "br":
+            self.current["parts"].append("\n")
+        if tag.lower() == "time" and attributes.get("datetime"):
+            self.current["date"] = attributes["datetime"]
+
+    def handle_data(self, data: str) -> None:
+        if self.current is not None and self.content_depth:
+            self.current["parts"].append(data)
+
+    def handle_endtag(self, tag: str) -> None:
+        if tag.lower() != "div" or self.current is None:
+            return
+        if self.content_depth:
+            self.content_depth -= 1
+        self.container_depth -= 1
+        if self.container_depth > 0:
+            return
+
+        raw_text = "".join(self.current["parts"])
+        segments = [re.sub(r"\s+", " ", part).strip() for part in re.split(r"\n+", raw_text)]
+        segments = [part for part in segments if part]
+        title_index = next((i for i, part in enumerate(segments) if re.search(r"[а-яёa-z0-9]", part, re.I)), None)
+        title = clean_text(segments[title_index], 220) if title_index is not None else ""
+        summary = clean_text(" ".join(segments[title_index + 1 :])) if title_index is not None else ""
+        self.articles.append({
+            "title": title,
+            "summary": summary,
+            "url": self.current["url"],
+            "date": self.current["date"],
+        })
+        self.current = None
+        self.container_depth = 0
+        self.content_depth = 0
 
 
 class ListingExtractor(HTMLParser):
@@ -291,6 +352,40 @@ def get_feed_entries(payload: bytes, feed_url: str, source: dict) -> list[dict]:
     return result
 
 
+def collect_telegram_listing(source: dict, robots_cache: dict) -> list[dict]:
+    page_url = source["telegram"]
+    if not robots_can_fetch(page_url, robots_cache):
+        return []
+    payload = fetch(page_url, "text/html,application/xhtml+xml;q=0.9")
+    parser = TelegramListingExtractor()
+    parser.feed(payload.decode("utf-8", "replace"))
+    oldest = datetime.now(timezone.utc).timestamp() - MAX_AGE_DAYS * 86_400
+    results = []
+    for post in parser.articles[:MAX_ITEMS_PER_SOURCE]:
+        title = post["title"]
+        published = parse_date(post["date"])
+        if not title or not published:
+            continue
+        if datetime.fromisoformat(published.replace("Z", "+00:00")).timestamp() < oldest:
+            continue
+        url = post["url"]
+        key = hashlib.sha256(canonical_url(url).encode("utf-8")).hexdigest()[:16]
+        results.append({
+            "id": key,
+            "title": title,
+            "summary": post["summary"],
+            "url": url,
+            "published_at": published,
+            "source_id": source["id"],
+            "source": source["name"],
+            "topic": classify(title, post["summary"]),
+            "language": detect_language(f"{title} {post['summary']}", source["language"]),
+        })
+    if results:
+        print(f"  использована публичная лента Telegram, новостей: {len(results)}")
+    return results
+
+
 def discover_feeds(source: dict, robots_cache: dict) -> list[str]:
     if not robots_can_fetch(source["site"], robots_cache):
         return []
@@ -305,6 +400,14 @@ def discover_feeds(source: dict, robots_cache: dict) -> list[str]:
 
 
 def collect_source(source: dict, robots_cache: dict) -> tuple[list[dict], dict]:
+    if source.get("telegram"):
+        try:
+            articles = collect_telegram_listing(source, robots_cache)
+            if articles:
+                return articles, {"status": "updated", "error": ""}
+        except Exception as error:
+            print(f"  публичный канал Telegram недоступен: {error}")
+
     urls = list(source["feeds"])
     seen_urls = set(urls)
     articles: list[dict] = []
