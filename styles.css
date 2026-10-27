@@ -47,11 +47,17 @@ h1 em { color: var(--lime); font-style: normal; }
 .hero-link:hover { background: #ffffff18; border-color: #c5f36c; }
 .hero-link span { width: 1.25rem; height: 1.25rem; display: grid; place-items: center; border: 0.0625rem solid #c5f36c70; border-radius: 50%; font-size: 0.9375rem; line-height: 1; transition: transform .2s ease; }
 .hero-link:hover span { transform: translateY(0.1875rem); }
-.hero-art { position: absolute; z-index: 0; top: -6.125rem; right: 6%; width: 28.4375rem; height: 28.4375rem; border-radius: 50%; background: radial-gradient(circle at 49% 49%, #b9ea8042 0 3%, #76a76f20 3.3% 20%, transparent 58%); transform: translate3d(var(--pointer-x, 0), var(--pointer-y, 0), 0); transition: transform .35s cubic-bezier(.2,.7,.2,1); will-change: transform; }
+.hero-art { position: absolute; z-index: 0; top: -6.125rem; right: 6%; width: 28.4375rem; height: 28.4375rem; border-radius: 50%; background: radial-gradient(circle at 49% 49%, #b9ea8042 0 3%, #76a76f20 3.3% 20%, transparent 58%); }
 .orbit { position: absolute; top: 50%; left: 50%; width: 22.5rem; height: 9.25rem; border: 0.0625rem solid #b9dfaa70; border-radius: 50%; transform: translate(-50%,-50%) rotate(-34deg); }
 .orbit-two { transform: translate(-50%,-50%) rotate(27deg); width: 24.25rem; height: 8.75rem; border-color: #b9dfaa58; }
 .orbit-three { transform: translate(-50%,-50%) rotate(89deg); width: 20.9375rem; height: 8.125rem; border-color: #b9dfaa45; }
 .nucleus { position: absolute; top: 50%; left: 50%; width: 1.125rem; height: 1.125rem; border-radius: 50%; transform: translate(-50%,-50%); background: var(--lime); box-shadow: 0 0 1.375rem #c5f36ca8, 0 0 3.5rem #c5f36c52; }
+.cursor-atom { position: fixed; z-index: 20; left: var(--cursor-x, -100px); top: var(--cursor-y, -100px); width: 3.25rem; height: 3.25rem; color: #184d3c; opacity: 0; pointer-events: none; transform: translate(-50%, -50%); transition: opacity .18s ease; will-change: left, top; }
+.cursor-atom.is-visible { opacity: .62; }
+.cursor-orbit { position: absolute; top: 50%; left: 50%; width: 3rem; height: 1.125rem; border: 0.0625rem solid currentColor; border-radius: 50%; transform: translate(-50%, -50%) rotate(-34deg); }
+.cursor-orbit-two { width: 3.125rem; transform: translate(-50%, -50%) rotate(27deg); }
+.cursor-orbit-three { width: 2.6875rem; transform: translate(-50%, -50%) rotate(89deg); }
+.cursor-nucleus { position: absolute; top: 50%; left: 50%; width: 0.375rem; height: 0.375rem; border-radius: 50%; background: var(--lime); box-shadow: 0 0 0.75rem #9bcf5c; transform: translate(-50%, -50%); }
 .orbit-label { position: absolute; color: #cbe7bd; font: 0.5625rem var(--mono); letter-spacing: .09em; }
 .label-top { top: 7.9375rem; left: 4.375rem; }.label-bottom { right: 1.6875rem; bottom: 6rem; }
 .hero-index { position: absolute; top: 8.125rem; right: 0.6875rem; display: grid; gap: 0.625rem; color: #b9cabf; text-align: right; }
@@ -191,6 +197,7 @@ h2 { margin: 0.5rem 0 0.8125rem; font: 400 1.625rem/1.1 var(--serif); letter-spa
 :root[data-theme="dark"] .footer-brand, :root[data-theme="dark"] .site-footer > a:last-child { color: #b2cfb6; }
 :root[data-theme="dark"] .back-to-top { border-color: #d0f286; background: #c5f36c; color: #123b30; box-shadow: 0 0.375rem 1rem #00000052; }
 :root[data-theme="dark"] .back-to-top:hover { background: #d0fa7c; box-shadow: 0 0.5rem 1.125rem #00000070; }
+:root[data-theme="dark"] .cursor-atom { color: #c5f36c; }
 
 @media (max-width: 1100px) {
   .site-header { padding: 0 4%; gap: 1rem; }

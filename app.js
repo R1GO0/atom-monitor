@@ -58,19 +58,17 @@ themeToggle.addEventListener("click", () => {
   applyTheme(document.documentElement.dataset.theme === "dark" ? "light" : "dark", true);
 });
 
-const heroArt = document.querySelector(".hero-art");
-if (window.matchMedia("(hover: hover) and (pointer: fine)").matches
-    && !window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+const cursorAtom = document.querySelector(".cursor-atom");
+if (window.matchMedia("(hover: hover) and (pointer: fine)").matches) {
   window.addEventListener("pointermove", (event) => {
-    const x = event.clientX / window.innerWidth - 0.5;
-    const y = event.clientY / window.innerHeight - 0.5;
-    heroArt.style.setProperty("--pointer-x", `${(x * 52).toFixed(1)}px`);
-    heroArt.style.setProperty("--pointer-y", `${(y * 38).toFixed(1)}px`);
+    const x = Math.min(window.innerWidth - 28, Math.max(28, event.clientX + 24));
+    const y = Math.min(window.innerHeight - 28, Math.max(28, event.clientY - 24));
+    cursorAtom.style.setProperty("--cursor-x", `${x}px`);
+    cursorAtom.style.setProperty("--cursor-y", `${y}px`);
+    cursorAtom.classList.add("is-visible");
   }, { passive: true });
-  window.addEventListener("blur", () => {
-    heroArt.style.setProperty("--pointer-x", "0px");
-    heroArt.style.setProperty("--pointer-y", "0px");
-  }, { passive: true });
+  window.addEventListener("pointerleave", () => cursorAtom.classList.remove("is-visible"), { passive: true });
+  window.addEventListener("blur", () => cursorAtom.classList.remove("is-visible"), { passive: true });
 }
 
 function setFilterPanelCollapsed(collapsed) {
@@ -93,6 +91,10 @@ function updateBackToTop() {
   backToTop.hidden = window.scrollY < 480;
 }
 window.addEventListener("scroll", updateBackToTop, { passive: true });
+window.addEventListener("hashchange", updateBackToTop, { passive: true });
+window.addEventListener("pageshow", updateBackToTop, { passive: true });
+window.addEventListener("load", updateBackToTop, { once: true });
+requestAnimationFrame(() => requestAnimationFrame(updateBackToTop));
 backToTop.addEventListener("click", () => {
   const behavior = window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth";
   window.scrollTo({ top: 0, behavior });
