@@ -76,7 +76,11 @@ function fillSources() {
     return;
   }
   uniqueSources.forEach((source) => {
-    const suffix = source.count ? ` · ${source.count}` : " · нет свежих";
+    const suffix = source.count
+      ? ` · ${source.count}`
+      : source.status === "unavailable"
+        ? " · временно недоступен"
+        : " · нет свежих";
     const node = makeNode("span", `source-name${source.count ? "" : " source-name-idle"}`, `${source.name}${suffix}`);
     if (source.error) node.title = source.error;
     elements.sources.append(node);
