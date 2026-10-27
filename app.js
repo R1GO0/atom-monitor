@@ -8,6 +8,7 @@ const TOPICS = {
 };
 
 const state = { articles: [], sources: [], language: "all", query: "", loaded: false };
+const themeToggle = document.querySelector("#theme-toggle");
 const elements = {
   search: document.querySelector("#search-input"),
   source: document.querySelector("#source-filter"),
@@ -32,6 +33,42 @@ function safeUrl(value) {
   } catch {
     return null;
   }
+}
+
+function applyTheme(theme, persist = false) {
+  const isDark = theme === "dark";
+  document.documentElement.dataset.theme = isDark ? "dark" : "light";
+  themeToggle.setAttribute("aria-pressed", String(isDark));
+  themeToggle.setAttribute("aria-label", isDark ? "Включить светлую тему" : "Включить тёмную тему");
+  themeToggle.title = isDark ? "Включить светлую тему" : "Включить тёмную тему";
+  document.querySelector('meta[name="theme-color"]').content = isDark ? "#0e1510" : "#f3f5f1";
+  if (persist) {
+    try { localStorage.setItem("atom-monitor-theme", isDark ? "dark" : "light"); } catch { /* Storage may be disabled. */ }
+  }
+}
+
+let savedTheme = "light";
+try { savedTheme = localStorage.getItem("atom-monitor-theme") || "light"; } catch { /* Use the light theme when storage is unavailable. */ }
+applyTheme(savedTheme === "dark" ? "dark" : "light");
+themeToggle.addEventListener("click", () => {
+  applyTheme(document.documentElement.dataset.theme === "dark" ? "light" : "dark", true);
+});
+
+const hero = document.querySelector(".hero");
+const heroArt = document.querySelector(".hero-art");
+if (window.matchMedia("(hover: hover) and (pointer: fine)").matches
+    && !window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+  hero.addEventListener("pointermove", (event) => {
+    const bounds = hero.getBoundingClientRect();
+    const x = (event.clientX - bounds.left) / bounds.width - 0.5;
+    const y = (event.clientY - bounds.top) / bounds.height - 0.5;
+    heroArt.style.setProperty("--pointer-x", `${(x * 22).toFixed(1)}px`);
+    heroArt.style.setProperty("--pointer-y", `${(y * 16).toFixed(1)}px`);
+  }, { passive: true });
+  hero.addEventListener("pointerleave", () => {
+    heroArt.style.setProperty("--pointer-x", "0px");
+    heroArt.style.setProperty("--pointer-y", "0px");
+  }, { passive: true });
 }
 
 function formatDate(value) {
