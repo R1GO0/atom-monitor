@@ -9,6 +9,10 @@ const TOPICS = {
 
 const state = { articles: [], sources: [], language: "all", query: "", loaded: false };
 const themeToggle = document.querySelector("#theme-toggle");
+const filterPanel = document.querySelector(".filters");
+const filterToggle = document.querySelector("#filter-toggle");
+const filterControls = document.querySelector("#filter-controls");
+const backToTop = document.querySelector("#back-to-top");
 const elements = {
   search: document.querySelector("#search-input"),
   source: document.querySelector("#source-filter"),
@@ -54,22 +58,46 @@ themeToggle.addEventListener("click", () => {
   applyTheme(document.documentElement.dataset.theme === "dark" ? "light" : "dark", true);
 });
 
-const hero = document.querySelector(".hero");
 const heroArt = document.querySelector(".hero-art");
 if (window.matchMedia("(hover: hover) and (pointer: fine)").matches
     && !window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
-  hero.addEventListener("pointermove", (event) => {
-    const bounds = hero.getBoundingClientRect();
-    const x = (event.clientX - bounds.left) / bounds.width - 0.5;
-    const y = (event.clientY - bounds.top) / bounds.height - 0.5;
-    heroArt.style.setProperty("--pointer-x", `${(x * 22).toFixed(1)}px`);
-    heroArt.style.setProperty("--pointer-y", `${(y * 16).toFixed(1)}px`);
+  window.addEventListener("pointermove", (event) => {
+    const x = event.clientX / window.innerWidth - 0.5;
+    const y = event.clientY / window.innerHeight - 0.5;
+    heroArt.style.setProperty("--pointer-x", `${(x * 52).toFixed(1)}px`);
+    heroArt.style.setProperty("--pointer-y", `${(y * 38).toFixed(1)}px`);
   }, { passive: true });
-  hero.addEventListener("pointerleave", () => {
+  window.addEventListener("blur", () => {
     heroArt.style.setProperty("--pointer-x", "0px");
     heroArt.style.setProperty("--pointer-y", "0px");
   }, { passive: true });
 }
+
+function setFilterPanelCollapsed(collapsed) {
+  filterPanel.classList.toggle("is-collapsed", collapsed);
+  filterControls.hidden = collapsed;
+  filterToggle.setAttribute("aria-expanded", String(!collapsed));
+  filterToggle.textContent = collapsed ? "Показать" : "Свернуть";
+}
+
+const mobileFilterQuery = window.matchMedia("(max-width: 800px)");
+if (mobileFilterQuery.matches) setFilterPanelCollapsed(true);
+filterToggle.addEventListener("click", () => {
+  setFilterPanelCollapsed(filterToggle.getAttribute("aria-expanded") === "true");
+});
+mobileFilterQuery.addEventListener("change", (event) => {
+  setFilterPanelCollapsed(event.matches);
+});
+
+function updateBackToTop() {
+  backToTop.hidden = window.scrollY < 480;
+}
+window.addEventListener("scroll", updateBackToTop, { passive: true });
+backToTop.addEventListener("click", () => {
+  const behavior = window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth";
+  window.scrollTo({ top: 0, behavior });
+});
+updateBackToTop();
 
 function formatDate(value) {
   const date = new Date(value);
@@ -290,10 +318,6 @@ document.querySelector("#reset-filters").addEventListener("click", resetFilters)
 document.querySelector("#empty-reset").addEventListener("click", resetFilters);
 elements.export.addEventListener("click", downloadCsv);
 document.addEventListener("keydown", (event) => {
-  if ((event.metaKey || event.ctrlKey) && event.key.toLowerCase() === "k") {
-    event.preventDefault();
-    elements.search.focus();
-  }
   if (event.key === "Escape" && document.activeElement === elements.search) {
     elements.search.value = "";
     state.query = "";
