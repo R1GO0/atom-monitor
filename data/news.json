@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-10-27T22:57:42Z",
+  "generated_at": "2026-10-27T23:05:33Z",
   "sources": [
     {
-      "status": "cached",
-      "error": "Remote end closed connection without response",
+      "status": "updated",
+      "error": "",
       "id": "atomic-energy",
       "name": "Атомная энергия 2.0",
       "site": "https://www.atomic-energy.ru",
       "article_count": 10
-    },
-    {
-      "status": "unavailable",
-      "error": "",
-      "id": "nuclear-ru",
-      "name": "Nuclear.Ru",
-      "site": "https://www.nuclear.ru",
-      "article_count": 0
     },
     {
       "status": "updated",
@@ -30,7 +22,7 @@
       "error": "<urlopen error timed out>",
       "id": "rosatom",
       "name": "Росатом",
-      "site": "https://www.rosatom.ru",
+      "site": "https://rosatom.ru",
       "article_count": 0
     },
     {
@@ -38,7 +30,7 @@
       "error": "<urlopen error timed out>",
       "id": "rosenergoatom",
       "name": "Росэнергоатом",
-      "site": "https://www.rosenergoatom.ru",
+      "site": "https://rosenergoatom.ru",
       "article_count": 0
     },
     {
