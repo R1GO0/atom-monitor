@@ -1,0 +1,14 @@
+{
+  "generated_at": null,
+  "sources": [
+    { "id": "atomic-energy", "name": "Атомная энергия 2.0", "site": "https://www.atomic-energy.ru", "article_count": 0 },
+    { "id": "nuclear-ru", "name": "Nuclear.Ru", "site": "https://www.nuclear.ru", "article_count": 0 },
+    { "id": "atominfo", "name": "AtomInfo.Ru", "site": "https://www.atominfo.ru", "article_count": 0 },
+    { "id": "rosatom", "name": "Росатом", "site": "https://www.rosatom.ru", "article_count": 0 },
+    { "id": "rosenergoatom", "name": "Росэнергоатом", "site": "https://www.rosenergoatom.ru", "article_count": 0 },
+    { "id": "world-nuclear-news", "name": "World Nuclear News", "site": "https://world-nuclear-news.org", "article_count": 0 },
+    { "id": "iaea", "name": "IAEA", "site": "https://www.iaea.org", "article_count": 0 },
+    { "id": "nucnet", "name": "NucNet", "site": "https://www.nucnet.org", "article_count": 0 }
+  ],
+  "articles": []
+}
