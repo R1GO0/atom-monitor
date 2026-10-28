@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T12:53:04Z",
+  "generated_at": "2026-10-28T22:34:50Z",
   "sources": [
     {
       "status": "updated",
@@ -7,7 +7,7 @@
       "id": "atomic-energy",
       "name": "Атомная энергия 2.0",
       "site": "https://www.atomic-energy.ru",
-      "article_count": 20
+      "article_count": 30
     },
     {
       "status": "updated",
@@ -23,7 +23,7 @@
       "id": "rosatom",
       "name": "Росатом",
       "site": "https://rosatom.ru",
-      "article_count": 18
+      "article_count": 22
     },
     {
       "status": "updated",
@@ -39,7 +39,7 @@
       "id": "world-nuclear-news",
       "name": "World Nuclear News",
       "site": "https://world-nuclear-news.org",
-      "article_count": 47
+      "article_count": 50
     },
     {
       "status": "updated",
@@ -47,7 +47,7 @@
       "id": "iaea",
       "name": "IAEA",
       "site": "https://www.iaea.org",
-      "article_count": 14
+      "article_count": 15
     },
     {
       "status": "updated",
@@ -55,10 +55,219 @@
       "id": "nucnet",
       "name": "NucNet",
       "site": "https://www.nucnet.org",
-      "article_count": 15
+      "article_count": 17
     }
   ],
   "articles": [
+    {
+      "id": "05b57d3a179def3a",
+      "title": "Генеральный директор «Росатом Международная сеть» Егор Квятковский принял участие в сессии «Технологическая кооперация России и Африки в интересах общего развития» на саммите «Россия – Африка».",
+      "summary": "👌 Подписывайтесь на «Росатом» | Оставляйте «бусты» #цитата #РоссияАфрика",
+      "url": "https://t.me/rosatomru/7450",
+      "published_at": "2026-10-28T16:20:21Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "17ee6061140ce9ef",
+      "title": "Генеральный директор «Росатома» Алексей Лихачев принял участие в сессии «Атомные технологии в Африке: набираем обороты для будущего» на саммите «Россия – Африка».",
+      "summary": "👌 Подписывайтесь на «Росатом» | Оставляйте «бусты» #цитата #АлексейЛихачев #РоссияАфрика",
+      "url": "https://t.me/rosatomru/7449",
+      "published_at": "2026-10-28T15:58:14Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "8c9d17d79f283f59",
+      "title": "Плавучая атомная теплоэлектростанция «Академик Ломоносов» впервые представила экоотчёт в прямом эфире на уровне Правительства Чукотки",
+      "summary": "Единственная в мире Плавучая атомная теплоэлектростанция (ПАТЭС) впервые представила общественности отчёт об экологической деятельности предприятия в формате межрегионального телемоста с участием…",
+      "url": "https://www.atomic-energy.ru/news/2026/10/28/169517",
+      "published_at": "2026-10-28T15:23:02Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "ccd8c2fb34683c95",
+      "title": "US Agency Signs Agreement With Oil Company On Study Into SMRs For Turkey",
+      "summary": "The US Trade and Development Agency (USTDA) has signed an agreement with Turkish oil refiner Tüpraş to fund a study into the potential use of small modular reactors (SMRs) to supply electricity, heat and steam for refinery operations. According to the USTDA, the proposed study will evaluate several US reactor technologies, including their technical and economic feasibility, environmental performance, regulatory requirements and potential industrial applications.",
+      "url": "https://www.nucnet.org/news/us-agency-signs-agreement-with-oil-company-on-study-into-smrs-for-turkey-10-3-2026",
+      "published_at": "2026-10-28T15:19:59Z",
+      "source_id": "nucnet",
+      "source": "NucNet",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "a42278d8a9f9288c",
+      "title": "«Росатом» начал поставки ядерного топлива для второго энергоблока ВВЭР-1200 АЭС «Руппур»",
+      "summary": "«Росатом» выполнил первую поставку ядерного топлива для стартовой загрузки реактора ВВЭР-1200 на энергоблоке № 2 АЭС «Руппур» в Бангладеш (генеральный проектировщик и генеральный подрядчик проекта –…",
+      "url": "https://www.atomic-energy.ru/news/2026/10/28/169515",
+      "published_at": "2026-10-28T15:10:27Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
+      "id": "e70fd1e532fef071",
+      "title": "Владимир Панов: Северный морской путь в шаге от круглогодичности, маршрут переходит на новый этап",
+      "summary": "Директор Арктической дирекции «Росатома» рассказал о перспективах Севморпути как маршрута для бизнеса. 👌 Подписывайтесь на «Росатом» | Оставляйте «бусты» #Лонгрид #РосатомАрктика",
+      "url": "https://t.me/rosatomru/7448",
+      "published_at": "2026-10-28T15:09:01Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "fc662774754258e8",
+      "title": "Белоярская АЭС вывела в плановый ремонт четвёртый энергоблок БН-800",
+      "summary": "Энергоблок № 4 с реактором БН-800 Белоярской АЭС выведен в планово-предупредительный ремонт для перегрузки топлива, технического обслуживания и профилактического ремонта оборудования. Эти работы…",
+      "url": "https://www.atomic-energy.ru/news/2026/10/28/169514",
+      "published_at": "2026-10-28T15:07:43Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
+      "id": "d92c5e377a5caf4a",
+      "title": "Новосибирские ИФП СО РАН и НГТУ впервые в мире смогли детектировать вихри в электронной жидкости с помощью наномеханического резонатора",
+      "summary": "Исследователи из Института физики полупроводников им. А.В. Ржанова СО РАН (научная группа доктора физико-математических наук, профессора Артура Григорьевича Погосова) и Новосибирского…",
+      "url": "https://www.atomic-energy.ru/news/2026/10/28/169513",
+      "published_at": "2026-10-28T15:01:20Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "6ac3b8a1642b0c59",
+      "title": "Сеченовский Университет, МГУ, ГЕОХИ РАН и «Прорыв» объяснили искажения при лазерном анализе урана",
+      "summary": "Ученые Сеченовского Университета совместно с коллегами из МГУ, Института геохимии и аналитической химии имени В.И. Вернадского РАН и АО «Прорыв» установили, почему при интенсивном лазерном…",
+      "url": "https://www.atomic-energy.ru/news/2026/10/28/169512",
+      "published_at": "2026-10-28T14:35:48Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "fuel",
+      "language": "ru"
+    },
+    {
+      "id": "c7b9e31af32a4f31",
+      "title": "«Росатом» открыл обсуждение проекта развития квантовых сенсоров для российской биомедицины",
+      "summary": "На минувшей неделе в «Росатоме» прошла сессия «Квантовые сенсоры в биомедицине: оценка применимости». Мероприятие организовано в рамках реализации программы по исследованиям и разработкам квантовых…",
+      "url": "https://www.atomic-energy.ru/news/2026/10/28/169511",
+      "published_at": "2026-10-28T14:21:20Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "a4a738cf951c61f7",
+      "title": "IAEA and International Laboratories Confirm Japanese Marine Monitoring Data for ALPS-Treated Water Discharge under Additional Measures",
+      "summary": "",
+      "url": "http://www.iaea.org/newscenter/pressreleases/iaea-and-international-laboratories-confirm-japanese-marine-monitoring-data-for-alps-treated-water-discharge-under-additional-measures",
+      "published_at": "2026-10-28T14:21:00Z",
+      "source_id": "iaea",
+      "source": "IAEA",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "b83e4426284422c1",
+      "title": "В Москве прошел турнир по шахматам «Кубок атомной отрасли» — «Мемориал Н.А. Доллежаля и Н.Л. Духова»",
+      "summary": "23–24 октября 2026 года в Москве в Центральном доме шахматиста имени М.М. Ботвинника прошел турнир «Кубок атомной отрасли» — «Мемориал Н.А. Доллежаля и Н.Л. Духова». Соревнования посвящены памяти…",
+      "url": "https://www.atomic-energy.ru/news/2026/10/28/169510",
+      "published_at": "2026-10-28T13:58:51Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "4001a37808a66451",
+      "title": "Deep Isolation Announces Start Of Site Preparation At Texas Demonstration Project",
+      "summary": "US-based nuclear waste disposal technology company Deep Isolation Nuclear has begun site preparation activities at its deep borehole demonstration centre in Texas. The company said the work marks an early milestone under an April 2026 federal agreement to help promising energy technologies move from the lab to commercial-scale pilot deployment. That agreement saw Deep Isolation selected for the US Department of Energy’s ARPA-E Scaleup Ready programme, which committed up to $40m (€35.9m) to support two projects, including the Deep Isolation project.",
+      "url": "https://www.nucnet.org/news/deep-isolation-announces-start-of-site-preparation-at-texas-demonstration-project-10-3-2026",
+      "published_at": "2026-10-28T13:52:30Z",
+      "source_id": "nucnet",
+      "source": "NucNet",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "c25d070ea14ba19d",
+      "title": "«На полях» саммита «Россия-Африка» обсудили роль выпускников российских вузов в развитии энергетических проектов на континенте",
+      "summary": "27 октября «на полях» третьего саммита «Россия-Африка» в Российском университете дружбы народов имени Патриса Лумумбы (РУДН) прошел круглый стол «Росатом – Африке». Мероприятие объединило…",
+      "url": "https://www.atomic-energy.ru/news/2026/10/28/169509",
+      "published_at": "2026-10-28T13:44:18Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "762c81d9e92c5a22",
+      "title": "Nuclear fuel delivered for Bangladesh’s second unit",
+      "summary": "Russia's state nuclear corporation Rosatom says that the initial fuel load for Rooppur Nuclear Power Plant's second unit has been delivered.",
+      "url": "https://www.world-nuclear-news.org/articles/nuclear-fuel-delivered-for-bangladeshs-second-unit",
+      "published_at": "2026-10-28T13:17:56Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "8503cdf0a6f5f312",
+      "title": "ПНИПУ разработал экономичный способ поиска месторождений платиноидов в осадочных песчаных породах",
+      "summary": "Платиноиды, или платиновые металлы (платина, палладий, родий, иридий, рутений), в современном мире считаются критически важным сырьем. Они тугоплавкие, устойчивые к коррозии и кислотам, отлично…",
+      "url": "https://www.atomic-energy.ru/news/2026/10/28/169508",
+      "published_at": "2026-10-28T13:08:51Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "b988d6c5d0b2d25c",
+      "title": "«Росатом» готов предложить плавучие атомные энергоблоки Тоголезской Республике",
+      "summary": "На третьем саммите «Россия – Африка» госкорпорация и Министерство по вопросам энергетики Того подписали меморандум о сотрудничестве в сфере мирного атома. 🗣 Алексей Лихачев, генеральный директор «Росатома» Подписание меморандума открывает новую страницу в отношениях \"Росатома“ с Тоголезской Республикой и создаёт основу для совместной работы по широкому спектру мирных атомных технологий. Мы готовы предложить нашим партнёрам решения в области энергетики, здравоохранения и сельского хозяйства.",
+      "url": "https://t.me/rosatomru/7447",
+      "published_at": "2026-10-28T13:00:41Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
+      "id": "a8ead446edb161f9",
+      "title": "ИРНИТУ представил способ синтеза углеродных нанотрубок разложением спиртовых растворов в паровой плазме",
+      "summary": "Новый способ получения углеродных нанотрубок с помощью спирта предложили учёные Череповецкого госуниверситета, Московского государственного университета гражданского строительства, ИРНИТУ и ИГХ им. А…",
+      "url": "https://www.atomic-energy.ru/news/2026/10/28/169507",
+      "published_at": "2026-10-28T12:54:43Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "construction",
+      "language": "ru"
+    },
+    {
+      "id": "0ddb83794f662c5f",
+      "title": "Hyundai Engineering agrees to cooperate with US SMR developers",
+      "summary": "South Korea's Hyundai Engineering is aiming to establish a role in the global small modular reactor market by signing memorandums of understanding with US SMR developers NANO Nuclear Energy and ARC Clean Technology.",
+      "url": "https://www.world-nuclear-news.org/articles/hyundai-engineering-agrees-to-cooperate-with-us-smr-developers",
+      "published_at": "2026-10-28T12:52:40Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "reactors",
+      "language": "en"
+    },
     {
       "id": "e99d7de0859eac04",
       "title": "US government loan to support Constellation uprates",
@@ -212,6 +421,17 @@
       "source": "AtomInfo.Ru",
       "topic": "international",
       "language": "ru"
+    },
+    {
+      "id": "52f9870e19e402ba",
+      "title": "Togo signs nuclear energy MoU with Rosatom",
+      "summary": "The Ministry of Energy of Togo has signed a memorandum of understanding with Russia’s state nuclear corporation Rosatom to assess opportunities for implementing nuclear power projects.",
+      "url": "https://www.world-nuclear-news.org/articles/togo-signs-nuclear-energy-mou-with-rosatom",
+      "published_at": "2026-10-28T08:33:48Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "international",
+      "language": "en"
     },
     {
       "id": "4ecd24d39de68a1a",
