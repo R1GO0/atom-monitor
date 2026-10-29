@@ -23,7 +23,7 @@ a { color: inherit; text-decoration: none; }
 .site-header { height: 5.25rem; display: flex; align-items: center; justify-content: space-between; gap: 1.75rem; max-width: 90rem; padding: 0 5.4%; margin: 0 auto; }
 .brand { display: inline-flex; align-items: center; gap: 0.5625rem; min-width: 12.625rem; }
 .brand-mark { width: 2.3125rem; height: 2.3125rem; display: grid; place-items: center; color: var(--green); }
-.brand-mark svg { width: 100%; height: 100%; }
+.brand-mark svg, .brand-mark img { width: 100%; height: 100%; object-fit: contain; display: block; }
 .brand-type { display: flex; flex-direction: column; line-height: 1.02; letter-spacing: .12em; font-size: 0.625rem; }
 .brand-type strong { font-size: 1rem; letter-spacing: .15em; font-weight: 800; }
 .brand-type span { font-family: var(--mono); font-size: 0.5rem; letter-spacing: .24em; margin-top: 0.25rem; }
