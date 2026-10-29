@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-29T12:59:29Z",
+  "generated_at": "2026-10-29T22:44:34Z",
   "sources": [
     {
-      "status": "updated",
-      "error": "",
+      "status": "cached",
+      "error": "Remote end closed connection without response",
       "id": "atomic-energy",
       "name": "Атомная энергия 2.0",
       "site": "https://www.atomic-energy.ru",
@@ -15,7 +15,7 @@
       "id": "atominfo",
       "name": "AtomInfo.Ru",
       "site": "http://atominfo.ru",
-      "article_count": 24
+      "article_count": 27
     },
     {
       "status": "updated",
@@ -23,7 +23,7 @@
       "id": "rosatom",
       "name": "Росатом",
       "site": "https://rosatom.ru",
-      "article_count": 23
+      "article_count": 26
     },
     {
       "status": "updated",
@@ -39,7 +39,7 @@
       "id": "world-nuclear-news",
       "name": "World Nuclear News",
       "site": "https://world-nuclear-news.org",
-      "article_count": 51
+      "article_count": 55
     },
     {
       "status": "updated",
@@ -55,10 +55,109 @@
       "id": "nucnet",
       "name": "NucNet",
       "site": "https://www.nucnet.org",
-      "article_count": 17
+      "article_count": 19
     }
   ],
   "articles": [
+    {
+      "id": "365d75631bdf6ea4",
+      "title": "Фоторепортаж о конференции МНТК НИКИЭТ - 2026",
+      "summary": "Международная научно-техническая конференция \"Инновационные проекты и технологии ядерной энергетики\" МНТК НИКИЭТ - 2026 прошла в Москве 27-29 октября 2026 года.",
+      "url": "http://atominfo.ru/newsz10/a0112.htm",
+      "published_at": "2026-10-29T17:37:49Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "1fe53b87683039c6",
+      "title": "KHNP ends negotiations with construction consortium for Czech units",
+      "summary": "Korea Hydro & Nuclear Power is to select a new contractor for the construction of two APR1000 reactors at the Czech Republic's Dukovany nuclear power plant following the collapse of contract negotiations with the Daewoo-Doosan consortium.",
+      "url": "https://www.world-nuclear-news.org/articles/khnp-ends-negotiations-with-construction-consortium-czech-units",
+      "published_at": "2026-10-29T16:15:47Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "construction",
+      "language": "en"
+    },
+    {
+      "id": "73b909cc63e5450f",
+      "title": "Полный контроль. Как работает система атомного технадзора",
+      "summary": "С 2026 года в России вступил в силу ряд важных изменений законодательства в области безопасности производственных объектов. За соблюдением установленных требований следят специалисты Ростехнадзора. Как организован их контроль на объектах атомной энергетики – в специальном репортаже. 👌 Подписывайтесь на «Росатом» | Оставляйте «бусты» #видео",
+      "url": "https://t.me/rosatomru/7454",
+      "published_at": "2026-10-29T14:32:48Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "safety",
+      "language": "ru"
+    },
+    {
+      "id": "7e35d9e213d9c5c5",
+      "title": "Безопасность IV поколения. Машинное зрение помогает создавать энергетику будущего в Железногорске",
+      "summary": "«Росатом» внедрил «умный» контроль безопасности в центре компетенций по созданию технологий для замыкания ядерного топливного цикла в Железногорске (Красноярский край). Там ввели в эксплуатацию систему машинного зрения для контроля использования сотрудниками средств индивидуальной защиты (СИЗ). Система сразу обнаружит отсутствие перчаток или спецобуви, неправильно надетую маску-«лепесток», сдвинутый чепчик или расстегнутый комбинезон и направит уведомление оперативному персоналу и руководителям.",
+      "url": "https://t.me/rosatomru/7453",
+      "published_at": "2026-10-29T14:22:05Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "safety",
+      "language": "ru"
+    },
+    {
+      "id": "fb547d0cbd81c423",
+      "title": "Russia Begins Fuel Deliveries For First Load At Rooppur-2 Nuclear Plant",
+      "summary": "Russia’s state-owned nuclear corporation Rosatom has begun delivering nuclear fuel for the initial loading of Unit 2 at Bangladesh’s Rooppur nuclear power station, a statement said. Rosatom said that it had completed a first shipment of fuel assemblies manufactured by its Novosibirsk Chemical Concentrates Plant in Russia. The fuel was transported to Bangladesh on a dedicated cargo flight.",
+      "url": "https://www.nucnet.org/news/russia-begins-fuel-deliveries-for-first-load-at-rooppur-2-nuclear-plant-10-4-2026",
+      "published_at": "2026-10-29T14:03:39Z",
+      "source_id": "nucnet",
+      "source": "NucNet",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "5b83f4c0ed85a0ba",
+      "title": "Энергоблок №4 Белоярской АЭС БН-800 выведен в плановый ремонт",
+      "summary": "Энергоблок №4 с реактором БН-800 Белоярской АЭС выведен в планово-предупредительный ремонт для перегрузки топлива, технического обслуживания и профилактического ремонта оборудования.",
+      "url": "http://atominfo.ru/newsz10/a0111.htm",
+      "published_at": "2026-10-29T13:53:27Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
+      "id": "647ad23758d2312c",
+      "title": "Nano Nuclear Signs MOU With Hyundai Engineering On US University Project",
+      "summary": "Advanced nuclear energy and technology company Nano Nuclear Energy announced that it has signed a memorandum of understanding with Hyundai Engineering to establish a framework for potential collaboration to advance the Kronos MMR (micro-modular reactor) energy system project at the University of Illinois Urbana-Champaign and to evaluate broader cooperation on future manufacturing and deployment.",
+      "url": "https://www.nucnet.org/news/nano-nuclear-signs-mou-with-hyundai-engineering-on-us-university-project-10-4-2026",
+      "published_at": "2026-10-29T13:40:14Z",
+      "source_id": "nucnet",
+      "source": "NucNet",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "9002272dd47bc93d",
+      "title": "Энергоблок №4 Ростовской АЭС выведен в плановый ремонт",
+      "summary": "Энергоблок №4 Ростовской АЭС 28 октября 2026 года отключён от сети и выведен в планово-предупредительный ремонт (ППР).",
+      "url": "http://atominfo.ru/newsz10/a0110.htm",
+      "published_at": "2026-10-29T13:30:52Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
+      "id": "d98de4bdbf2a2c36",
+      "title": "На Соликамском магниевом заводе станут получать больше редкоземельных элементов",
+      "summary": "Сегодня на СМЗ выделяют из лопаритового концентрата ниобий, тантал и титан, а другие значимые редкоземельные металлы (лантаноиды) остаются в составе коллективного концентрата. Главгосэкспертиза одобрила строительство нового разделительного комплекса, на котором станут получать до 2,5 тысяч тонн новой готовой продукции, в том числе наиболее востребованные РЗМ магнитной группы (неодим и празеодим) и традиционные РЗМ легкой группы (лантан и церий). Технология для нового производства уже готова.",
+      "url": "https://t.me/rosatomru/7452",
+      "published_at": "2026-10-29T13:05:59Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "construction",
+      "language": "ru"
+    },
     {
       "id": "8a3427a20282ff42",
       "title": "Курчатовский институт и МФТИ создали сверхгибкий материал для датчиков и умной одежды",
@@ -71,6 +170,17 @@
       "language": "ru"
     },
     {
+      "id": "8ff7c7faa53ff0cd",
+      "title": "Germany narrows search for radioactive waste repository location",
+      "summary": "The Federal Company for Radioactive Waste Disposal said that in the past year it has reduced the area that it is considering in the site selection procedure for Germany's planned high-level radioactive waste repository from 25% of the country's territory to less than 5%.",
+      "url": "https://www.world-nuclear-news.org/articles/germany-narrows-search-for-radioactive-waste-repository-location",
+      "published_at": "2026-10-29T12:37:59Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "international",
+      "language": "en"
+    },
+    {
       "id": "881ef05504f5aaf9",
       "title": "Профорганизация «СвердНИИхиммаш» организовала для сотрудников поездку на родину промышленной золотодобычи России",
       "summary": "Сотрудники АО «СвердНИИхиммаш» отправились в тур выходного дня в город Березовский — на родину промышленной золотодобычи России. Экскурсию организовала председатель профсоюза «СвердНИИхиммаша» Юлия…",
@@ -80,6 +190,28 @@
       "source": "Атомная энергия 2.0",
       "topic": "international",
       "language": "ru"
+    },
+    {
+      "id": "8baf218a51edd333",
+      "title": "Antares, BWXT in TRISO fuel procurement deal",
+      "summary": "The commercial agreement covers an initial tonne of TRISO fuel for Antares Nuclear's microreactors, which could be increased as deployment requirements evolve to support Antares's advanced reactor programme.",
+      "url": "https://www.world-nuclear-news.org/articles/antares-bwxt-in-triso-procurement-deal",
+      "published_at": "2026-10-29T12:17:55Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "3d9c6378f94a68e8",
+      "title": "Westinghouse to conduct key study for AP1000 in Slovakia",
+      "summary": "Westinghouse is to carry out a Front-End Engineering and Design study for the potential deployment of an AP1000 reactor at the Bohunice Nuclear Power Plant in the Slovak Republic.",
+      "url": "https://www.world-nuclear-news.org/articles/westinghouse-to-conduct-key-study-to-prepare-for-ap1000-in-slovakia",
+      "published_at": "2026-10-29T12:08:00Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "reactors",
+      "language": "en"
     },
     {
       "id": "85b3b846ac68005c",
