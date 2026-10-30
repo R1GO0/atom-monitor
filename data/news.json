@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-30T12:54:38Z",
+  "generated_at": "2026-10-30T22:18:53Z",
   "sources": [
     {
-      "status": "updated",
-      "error": "",
+      "status": "cached",
+      "error": "Remote end closed connection without response",
       "id": "atomic-energy",
       "name": "Атомная энергия 2.0",
       "site": "https://www.atomic-energy.ru",
@@ -15,7 +15,7 @@
       "id": "atominfo",
       "name": "AtomInfo.Ru",
       "site": "http://atominfo.ru",
-      "article_count": 28
+      "article_count": 32
     },
     {
       "status": "updated",
@@ -23,7 +23,7 @@
       "id": "rosatom",
       "name": "Росатом",
       "site": "https://rosatom.ru",
-      "article_count": 29
+      "article_count": 32
     },
     {
       "status": "updated",
@@ -39,7 +39,7 @@
       "id": "world-nuclear-news",
       "name": "World Nuclear News",
       "site": "https://world-nuclear-news.org",
-      "article_count": 55
+      "article_count": 61
     },
     {
       "status": "updated",
@@ -47,7 +47,7 @@
       "id": "iaea",
       "name": "IAEA",
       "site": "https://www.iaea.org",
-      "article_count": 15
+      "article_count": 17
     },
     {
       "status": "updated",
@@ -55,10 +55,131 @@
       "id": "nucnet",
       "name": "NucNet",
       "site": "https://www.nucnet.org",
-      "article_count": 20
+      "article_count": 21
     }
   ],
   "articles": [
+    {
+      "id": "c9560f7fc4bd370f",
+      "title": "Update 373 – IAEA Director General Statement on Situation in Ukraine",
+      "summary": "",
+      "url": "http://www.iaea.org/newscenter/pressreleases/update-373-iaea-director-general-statement-on-situation-in-ukraine",
+      "published_at": "2026-10-30T17:50:00Z",
+      "source_id": "iaea",
+      "source": "IAEA",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "2eb892284c27400e",
+      "title": "Centrus ships first centrifuge for Piketon plant expansion",
+      "summary": "Centrus Energy's manufacturing plant in Oak Ridge, Tennessee, has despatched the first new centrifuge as part of the company's multibillion-dollar expansion of its uranium enrichment capacity in Piketon, Ohio.",
+      "url": "https://www.world-nuclear-news.org/articles/centrus-ships-first-centrifuge-for-piketon-plant-expansion",
+      "published_at": "2026-10-30T16:13:18Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "fuel",
+      "language": "en"
+    },
+    {
+      "id": "ae20badffd6cc512",
+      "title": "✅ «Росатом» принял участие в саммите «Россия – Африка», подписаны соглашения с Того, Руандой, Угандой",
+      "summary": "✅ На первом блоке АЭС «Аккую» в Турции проверили оборудование второго контура на прочность ✅ «Росатом» начал поставки ядерного топлива для второго энергоблока АЭС «Руппур» в Бангладеш ✅ На Соликамском магниевом заводе станут получать ценные редкоземельные элементы ✅ «Росатом» завершил северный завоз - 2026 👌 Подписывайтесь на «Росатом» | Оставляйте «бусты» #дайджест #АтомнаяНеделя",
+      "url": "https://t.me/rosatomru/7460",
+      "published_at": "2026-10-30T16:03:14Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
+      "id": "b3c705cf3eba9e92",
+      "title": "«Росатом» поможет оценить готовность ядерной инфраструктуры Уганды к сооружению АЭС",
+      "summary": "На саммите «Россия – Африка» подписана дорожная карта сотрудничества между госкорпорацией и Министерством энергетики и минеральных ресурсов Республики Уганда. 👌 Подписывайтесь на «Росатом» | Оставляйте «бусты» #цитата #РоссияАфрика #АлексейЛихачев",
+      "url": "https://t.me/rosatomru/7459",
+      "published_at": "2026-10-30T15:45:18Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "eef23603f4ea632e",
+      "title": "Реализуемый «Росатомом» и Калужской областью проект создания кампуса «Обнинск Тех» получил поддержку на федеральном уровне",
+      "summary": "Кампусная заявка проекта «Обнинск Тех» победила в конкурсе Минобрнауки России в рамках федерального проекта «Создание сети современных кампусов» национального проекта «Молодёжь и дети». Всего в список вошли 19 проектов со всей страны. Индустриальным партнером проекта «Обнинск Тех» является госкорпорация «Росатом», которая реализует его совместно с Калужской областью, Национальным исследовательским ядерным университетом «МИФИ» (НИЯУ МИФИ) и другими университетами-партнерами.",
+      "url": "https://t.me/rosatomru/7458",
+      "published_at": "2026-10-30T15:05:27Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "8f47f61d4d9a06f0",
+      "title": "Framatome inaugurates chromium-coating facility",
+      "summary": "Framatome has inaugurated a chromium-coating industrial pilot facility dedicated to the industrialisation of its PROtect Enhanced Accident Tolerant Fuel technology at its manufacturing plant in Paimboeuf in western France.",
+      "url": "https://www.world-nuclear-news.org/articles/framatome-inaugurates-chromium-coating-facility",
+      "published_at": "2026-10-30T15:01:33Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "fuel",
+      "language": "en"
+    },
+    {
+      "id": "aa9fa92f6e473bf2",
+      "title": "IAEA Urges Kenya To Finalise Policies On Radioactive Waste Management",
+      "summary": "Kenya should finalise national policies on radioactive waste management and strengthen regulatory independence as it prepares to introduce nuclear power, an International Atomic Energy Agency (IAEA) review mission has said. The IAEA said an international team had recognised “considerable progress” in the east African nation’s radioactive waste management programme in recent years, but identified areas requiring further development.",
+      "url": "https://www.nucnet.org/news/iaea-urges-kenya-to-finalise-policies-on-radioactive-waste-management-10-5-2026",
+      "published_at": "2026-10-30T13:53:33Z",
+      "source_id": "nucnet",
+      "source": "NucNet",
+      "topic": "safety",
+      "language": "en"
+    },
+    {
+      "id": "390472bc1c01d726",
+      "title": "Компания Framatome открыла пилотную промышленную установку по нанесению хромового покрытия на оболочки твэлов",
+      "summary": "Компания Framatome (Франция) объявила об открытии пилотной промышленной установки по нанесению хромового покрытия на оболочки твэлов.",
+      "url": "http://atominfo.ru/newsz10/a0120.htm",
+      "published_at": "2026-10-30T13:51:28Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "53c0b9bd47bd573f",
+      "title": "Centrus изготовила первую центрифугу для расширения своего производства",
+      "summary": "Компания Centrus (США) изготовила первую центрифугу в рамках программы по расширению своего разделительного производства.",
+      "url": "http://atominfo.ru/newsz10/a0119.htm",
+      "published_at": "2026-10-30T13:46:51Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "b69fcf297685fcc5",
+      "title": "Дукованы - замена подрядчика",
+      "summary": "Компания Korea Hydro & Nuclear Power (KHNP, Южная Корея) выберет нового подрядчика для строительства двух блоков с реакторами APR-1000 на АЭС \"Дукованы\" (Чехия).",
+      "url": "http://atominfo.ru/newsz10/a0117.htm",
+      "published_at": "2026-10-30T13:18:30Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "construction",
+      "language": "ru"
+    },
+    {
+      "id": "5e2fe0d105abedcd",
+      "title": "Владимир Асмолов о реакторах ВВЭР на МНТК НИКИЭТ - 2026",
+      "summary": "Международная научно-техническая конференция \"Инновационные проекты и технологии ядерной энергетики\" МНТК НИКИЭТ - 2026 прошла в Москве 27-29 октября 2026 года.",
+      "url": "http://atominfo.ru/newsz10/a0116.htm",
+      "published_at": "2026-10-30T12:57:06Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "reactors",
+      "language": "ru"
+    },
     {
       "id": "1bc5996fa0a0166d",
       "title": "Электроды без брака. Ученые «Росатома» обеспечили контроль качества на гигафабрике накопителей энергии",
@@ -80,6 +201,17 @@
       "source": "Атомная энергия 2.0",
       "topic": "international",
       "language": "ru"
+    },
+    {
+      "id": "90d8082a73701696",
+      "title": "Floating nuclear power plant 'has boosted air quality'",
+      "summary": "An environmental monitoring report for Russia's floating nuclear power plant suggests that emissions have fallen almost 80% since it started supplying heating in the area in 2022.",
+      "url": "https://www.world-nuclear-news.org/articles/floating-nuclear-power-plant-has-boosted-air-quality",
+      "published_at": "2026-10-30T11:42:10Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "international",
+      "language": "en"
     },
     {
       "id": "6ce03a9c45b3aed1",
@@ -126,6 +258,17 @@
       "language": "ru"
     },
     {
+      "id": "d29d723b2b369321",
+      "title": "Cernavoda units remain shut down due to Danube water levels",
+      "summary": "Romania's Nuclearelectrica says that although there has been a recent rise in the local water level in the River Danube, current forecasts do not yet support a decision to restart the units.",
+      "url": "https://www.world-nuclear-news.org/articles/cernavoda-units-remain-offline-due-to-danube-water-levels",
+      "published_at": "2026-10-30T11:12:39Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "international",
+      "language": "en"
+    },
+    {
       "id": "8637e8e1a4f8c5b0",
       "title": "South Korea’s KHNP Breaks Off Construction Contract Talks On Dukovany Reactor Project",
       "summary": "Korea Hydro & Nuclear Power (KHNP) has broken off construction contract talks with a Daewoo Engineering & Construction-led consortium for a $18.6bn (€16.5bn) project to build two new nuclear plants at the Dukovany site in the Czech Republic. The state-run nuclear operator said on Thursday (29 October) it would move to terminate its cooperation agreement with the consortium, which includes Doosan Enerbility, and launch a new bidding process to find a replacement contractor.",
@@ -148,6 +291,28 @@
       "language": "ru"
     },
     {
+      "id": "d0e353d3a229a8df",
+      "title": "Doosan to manufacture upper reactor vessel for NuScale SMR",
+      "summary": "US small modular reactor developer NuScale Power has signed a contract with South Korea's Doosan Enerbility to manufacture an upper reactor coolant system for the NuScale Power Module.",
+      "url": "https://www.world-nuclear-news.org/articles/doosan-to-manufacture-upper-reactor-vessel-for-nuscale-smr",
+      "published_at": "2026-10-30T10:16:02Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "10ad680cce95f874",
+      "title": "Game of Thrones actor aims to highlight Chernobyl's need for international support",
+      "summary": "Danish actor and United Nations Goodwill Ambassador Nikolaj Coster-Waldau has visited the Chernobyl nuclear power plant site, for a project which \"aims to draw international attention to the need for support in restoring the New Safe Confinement, protecting the environment and ensuring radiation safety\".",
+      "url": "https://www.world-nuclear-news.org/articles/game-of-thrones-actor-aims-to-highlight-chernobyls-need-for-international-support",
+      "published_at": "2026-10-30T10:10:34Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "safety",
+      "language": "en"
+    },
+    {
       "id": "3c6fb15326ce58c6",
       "title": "Россия поможет Руанде в развитии ядерной инфраструктуры",
       "summary": "На третьем саммите «Россия – Африка» «Росатом» и Совет по атомной энергии Республики Руанда подписали меморандум о сотрудничестве в оценке и развитии ядерной инфраструктуры. Документ предусматривает конкретные шаги по определению текущих потребностей Руанды в этой сфере. 👌 Подписывайтесь на «Росатом» | Оставляйте «бусты» #цитата #РоссияАфрика #АлексейЛихачев",
@@ -157,6 +322,17 @@
       "source": "Росатом",
       "topic": "international",
       "language": "ru"
+    },
+    {
+      "id": "d4e3cfd0647ed83a",
+      "title": "How Nuclear Technology Is Helping Cities Become More Sustainable",
+      "summary": "",
+      "url": "http://www.iaea.org/newscenter/news/how-nuclear-technology-is-helping-cities-become-more-sustainable",
+      "published_at": "2026-10-30T09:00:00Z",
+      "source_id": "iaea",
+      "source": "IAEA",
+      "topic": "international",
+      "language": "en"
     },
     {
       "id": "e1612a26e7e1c33b",
