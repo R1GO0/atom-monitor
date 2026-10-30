@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-29T22:44:34Z",
+  "generated_at": "2026-10-30T05:47:28Z",
   "sources": [
     {
-      "status": "cached",
-      "error": "Remote end closed connection without response",
+      "status": "updated",
+      "error": "",
       "id": "atomic-energy",
       "name": "Атомная энергия 2.0",
       "site": "https://www.atomic-energy.ru",
-      "article_count": 43
+      "article_count": 50
     },
     {
       "status": "updated",
@@ -71,6 +71,39 @@
       "language": "ru"
     },
     {
+      "id": "ca0dbe61826e5e83",
+      "title": "«Соликамский магниевый завод» Росатома откроет крупный комплекс по разделению на индивидуальные редкоземельные элементы",
+      "summary": "Главгосэкспертиза России выдала ОАО «Соликамский магниевый завод» (ОАО «СМЗ», предприятие Горнорудного дивизиона госкорпорации «Росатом») положительное заключение по проекту строительства комплекса…",
+      "url": "https://www.atomic-energy.ru/news/2026/10/29/169555",
+      "published_at": "2026-10-29T17:28:40Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "construction",
+      "language": "ru"
+    },
+    {
+      "id": "5ff2cabedcf2433f",
+      "title": "«Росимущество» выставило на продажу 7 нефтяных скважин в Шигонском районе",
+      "summary": "Территориальное управление Росимущества выставило на торги нефтяные скважины в Шигонском районе. Информация опубликована на электронной площадке РТС-тендер, входящей в российскую торговую платформу…",
+      "url": "https://www.atomic-energy.ru/news/2026/10/29/169553",
+      "published_at": "2026-10-29T17:14:07Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "construction",
+      "language": "ru"
+    },
+    {
+      "id": "a8621eb794df7cf2",
+      "title": "В «Институте физико-технических проблем» Росатома откроется отраслевой Центр обслуживания и ремонта спектрометров для АЭС",
+      "summary": "В рамках XVIII Международного совещания «Проблемы прикладной спектрометрии и радиометрии» им. В. Н. Даниленко (ППСР-2026) в Музее «АТОМ» состоялся отраслевой круглый стол по прикладным проблемам…",
+      "url": "https://www.atomic-energy.ru/news/2026/10/29/169552",
+      "published_at": "2026-10-29T16:33:27Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
       "id": "1fe53b87683039c6",
       "title": "KHNP ends negotiations with construction consortium for Czech units",
       "summary": "Korea Hydro & Nuclear Power is to select a new contractor for the construction of two APR1000 reactors at the Czech Republic's Dukovany nuclear power plant following the collapse of contract negotiations with the Daewoo-Doosan consortium.",
@@ -80,6 +113,28 @@
       "source": "World Nuclear News",
       "topic": "construction",
       "language": "en"
+    },
+    {
+      "id": "1c60115c0b56f9ab",
+      "title": "В Минске обсудили возможности кооперации России и Беларуси в сфере развития электротранспорта",
+      "summary": "28 октября 2026 года в рамках XXX Белорусского энергетического и экологического форума в Минске прошла VIII научно-практическая конференция «Электрический транспорт: реальность и перспективы». Ее…",
+      "url": "https://www.atomic-energy.ru/news/2026/10/29/169549",
+      "published_at": "2026-10-29T15:53:55Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "64316e38ec5602cc",
+      "title": "«Росатом» представил подходы к созданию интегрированных водно-энергетических комплексов в засушливых регионах",
+      "summary": "Генеральный директор АО «Росатом Инфраструктурные решения» (РИР, дивизион Госкорпорации «Росатом») Ксения Сухотина 29 октября представила подходы «Росатома» к созданию объединенных водно…",
+      "url": "https://www.atomic-energy.ru/news/2026/10/29/169548",
+      "published_at": "2026-10-29T15:48:00Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
     },
     {
       "id": "73b909cc63e5450f",
@@ -156,6 +211,28 @@
       "source_id": "rosatom",
       "source": "Росатом",
       "topic": "construction",
+      "language": "ru"
+    },
+    {
+      "id": "518bfcf681c87ddd",
+      "title": "Совет молодежи «Атоммаша» провел профориентационные встречи со школьниками Волгодонска в рамках акции «Россия – энергетическая держава»",
+      "summary": "Совет молодежи машиностроительного завода «Атоммаш» в Волгодонске (Машиностроительный дивизион «Росатома») провел серию встреч со школьниками города в рамках просветительской акции «Россия –…",
+      "url": "https://www.atomic-energy.ru/news/2026/10/29/169546",
+      "published_at": "2026-10-29T13:01:08Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "fbdd4acfac0bd0fa",
+      "title": "В Курчатовском институте изучили технологии античных корабелов",
+      "summary": "В НИЦ «Курчатовский институт» продолжаются исследования античного боевого корабля, затонувшего в порту Фанагории в I веке до н.э. Судно найдено при подводных раскопках экспедицией Института…",
+      "url": "https://www.atomic-energy.ru/news/2026/10/29/169547",
+      "published_at": "2026-10-29T12:58:00Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
       "language": "ru"
     },
     {
