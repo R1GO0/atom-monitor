@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T14:12:18Z",
+  "generated_at": "2026-11-03T23:22:47Z",
   "sources": [
     {
       "status": "updated",
@@ -23,7 +23,7 @@
       "id": "rosatom",
       "name": "Росатом",
       "site": "https://rosatom.ru",
-      "article_count": 39
+      "article_count": 41
     },
     {
       "status": "updated",
@@ -39,7 +39,7 @@
       "id": "world-nuclear-news",
       "name": "World Nuclear News",
       "site": "https://world-nuclear-news.org",
-      "article_count": 67
+      "article_count": 72
     },
     {
       "status": "updated",
@@ -59,6 +59,72 @@
     }
   ],
   "articles": [
+    {
+      "id": "4f51ca067970229b",
+      "title": "«РЭС Инжиниринг» менее чем за полгода поставил 36 дисковых затворов на Курскую АЭС-2",
+      "summary": "«РЭС Инжиниринг» отгрузил 36 дисковых затворов категорий QA2 и QA3 для Курской АЭС-2. С момента запуска проекта в компании до отгрузки оборудования прошло менее полугода. За это время команда…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/03/169659",
+      "published_at": "2026-11-03T17:24:41Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "ed856e8779388034",
+      "title": "Осень на Калининской АЭС.",
+      "summary": "👌 Подписывайтесь на «Росатом» | Оставляйте «бусты» #фото #КалининскаяАЭС",
+      "url": "https://t.me/rosatomru/7469",
+      "published_at": "2026-11-03T16:24:29Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "fa28e54e25579f07",
+      "title": "Bruce unit 5 refurbishment begins",
+      "summary": "Bruce 5 was taken off-line to begin its Major Component Replacement outage on 1 November, the fourth unit to be refurbished under Bruce Power's plan to renew six of the eight units at the Ontario site.",
+      "url": "https://www.world-nuclear-news.org/articles/bruce-unit-5-refurbishment-begins",
+      "published_at": "2026-11-03T15:44:35Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "4de5bad474054594",
+      "title": "«Росатом» развивает сотрудничество по термоядерному синтезу с Китаем",
+      "summary": "Лидеров плазменных технологий России и Китая встретились в троицком лабораторном комплексе Проектного центра ИТЭР. Обсуждали сотрудничество по проекту международного термоядерного реактора ИТЭР, но основной упор был сделан на выработке стратегической линии партнёрства по национальным термоядерным проектам. Анатолий Красильников, директор Проектного центра ИТЭР Мы находимся в уникальной исторической точке, когда опыт и технологии ИТЭР двух термоядерных сверхдержав могут быть использованы для обоюдовыгодного сотрудничества России и Китая.",
+      "url": "https://t.me/rosatomru/7468",
+      "published_at": "2026-11-03T15:16:27Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
+      "id": "a2b18dbcfb01072d",
+      "title": "Urenco USA marks first commercial LEU+ production",
+      "summary": "Urenco USA's first cylinder of LEU+ is also the first commercial production of the material in the Western world and ushers in a new era of fuel options, the company says.",
+      "url": "https://www.world-nuclear-news.org/articles/urenco-usa-marks-first-commercial-leu-production",
+      "published_at": "2026-11-03T14:21:44Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "fuel",
+      "language": "en"
+    },
+    {
+      "id": "dfabcaf7cbf3b3c3",
+      "title": "ВАО АЭС провела предпусковую партнёрскую проверку первого энергоблока ВВЭР-1200 АЭС «Аккую»",
+      "summary": "На АЭС «Аккую» (сооружается госкорпорацией «Росатом» в Турции) завершилась предпусковая партнёрская проверка Всемирной ассоциации организаций, эксплуатирующих атомные электростанции (ВАО АЭС).…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/03/169658",
+      "published_at": "2026-11-03T14:10:57Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "reactors",
+      "language": "ru"
+    },
     {
       "id": "8ebafb6e8ac5f7f0",
       "title": "«Гиредмет» Росатома разработал для Узбекистана безотходную технологию извлечения лития из слюдистых руд",
@@ -80,6 +146,17 @@
       "source": "Росатом",
       "topic": "fuel",
       "language": "ru"
+    },
+    {
+      "id": "71112a16c451ed2c",
+      "title": "Saltfoss targets US licensing for floating power plant",
+      "summary": "Molten Salt Power Barge developer Saltfoss has notified the US Nuclear Regulatory Commission of its intent to begin pre-application engagement.",
+      "url": "https://www.world-nuclear-news.org/articles/saltfoss-targets-us-licensing-for-floating-power-plant",
+      "published_at": "2026-11-03T14:01:18Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "safety",
+      "language": "en"
     },
     {
       "id": "b98f29e90af4dbcc",
@@ -146,6 +223,17 @@
       "source": "Атомная энергия 2.0",
       "topic": "reactors",
       "language": "ru"
+    },
+    {
+      "id": "3d842eecf1c7397d",
+      "title": "Turkey and South Korea explore nuclear financing cooperation",
+      "summary": "A framework to evaluate potential cooperation on the financing of nuclear power projects was one of a number of energy-related initiatives agreed between Turkey and South Korea.",
+      "url": "https://www.world-nuclear-news.org/articles/turkey-and-south-korea-agree-on-nuclear-financing-cooperation",
+      "published_at": "2026-11-03T12:10:39Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "international",
+      "language": "en"
     },
     {
       "id": "9ed0dda22063087f",
@@ -223,6 +311,17 @@
       "source": "Росатом",
       "topic": "international",
       "language": "ru"
+    },
+    {
+      "id": "dd4f11d5593f501d",
+      "title": "Rosatom planning new uranium processing plant",
+      "summary": "A site has been selected, and design work is under way on a processing plant with a capacity of 11,000 tonnes of uranium oxide per year, according to Russia's state nuclear corporation Rosatom.",
+      "url": "https://www.world-nuclear-news.org/articles/rosatom-planning-new-uranium-processing-plant",
+      "published_at": "2026-11-03T09:25:23Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "fuel",
+      "language": "en"
     },
     {
       "id": "76eaf24320c1d522",
@@ -1730,28 +1829,6 @@
       "source": "NucNet",
       "topic": "international",
       "language": "en"
-    },
-    {
-      "id": "0dafaeb98b23fd6c",
-      "title": "В Новоуральске прошла вторая межгородская стажировка Клуба экопартнёров «Росатома»",
-      "summary": "В Новоуральске прошла вторая межгородская стажировка «Экопрактики в движении», объединившая экологических лидеров из 14 городов России: Озёрска, Северска, Сарова, Железногорска, Нововоронежа и других…",
-      "url": "https://www.atomic-energy.ru/news/2026/10/27/169470",
-      "published_at": "2026-10-27T12:31:55Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
-      "id": "63f5222b0c1e9eb7",
-      "title": "«Росатом» провел в Нижнем Новгороде форум «Добрые города» по устойчивому развитию территорий и укреплению городских сообществ",
-      "summary": "С 23 по 25 октября 2026 года в Нижнем Новгороде, на площадке Академии «Маяк» имени А. Д. Сахарова прошёл форум «Добрые города – доброму Нижнему». Организаторами форума выступили госкорпорация…",
-      "url": "https://www.atomic-energy.ru/news/2026/10/27/169471",
-      "published_at": "2026-10-27T12:31:36Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "construction",
-      "language": "ru"
     },
     {
       "id": "9d6228f3d16b6b8c",
