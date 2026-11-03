@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T00:57:23Z",
+  "generated_at": "2026-11-03T14:12:18Z",
   "sources": [
     {
       "status": "updated",
@@ -7,7 +7,7 @@
       "id": "atomic-energy",
       "name": "Атомная энергия 2.0",
       "site": "https://www.atomic-energy.ru",
-      "article_count": 73
+      "article_count": 80
     },
     {
       "status": "updated",
@@ -23,7 +23,7 @@
       "id": "rosatom",
       "name": "Росатом",
       "site": "https://rosatom.ru",
-      "article_count": 36
+      "article_count": 39
     },
     {
       "status": "updated",
@@ -31,7 +31,7 @@
       "id": "rosenergoatom",
       "name": "Росэнергоатом",
       "site": "https://rosenergoatom.ru",
-      "article_count": 15
+      "article_count": 16
     },
     {
       "status": "updated",
@@ -39,7 +39,7 @@
       "id": "world-nuclear-news",
       "name": "World Nuclear News",
       "site": "https://world-nuclear-news.org",
-      "article_count": 66
+      "article_count": 67
     },
     {
       "status": "updated",
@@ -47,7 +47,7 @@
       "id": "iaea",
       "name": "IAEA",
       "site": "https://www.iaea.org",
-      "article_count": 17
+      "article_count": 18
     },
     {
       "status": "updated",
@@ -59,6 +59,182 @@
     }
   ],
   "articles": [
+    {
+      "id": "8ebafb6e8ac5f7f0",
+      "title": "«Гиредмет» Росатома разработал для Узбекистана безотходную технологию извлечения лития из слюдистых руд",
+      "summary": "Технология переработки литийсодержащих руд, разработанная в АО «Гиредмет» (входит в научный дивизион госкорпорации «Росатом») ориентирована на руды месторождения Нурликон (Узбекистан) с содержанием…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/03/169657",
+      "published_at": "2026-11-03T14:02:43Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "f1500c0554367a06",
+      "title": "«Росатом» разработал безотходную технологию извлечения лития из слюдистых руд в Узбекистане",
+      "summary": "Технология «Гиредмета» ориентирована на руды месторождения Нурликон в Узбекистане с содержанием оксида лития на уровне 0,5 %. Классические методы обогащения для такого сырья не подходят: минерал и вмещающая порода слишком похожи по свойствам, чтобы их можно было разделить, а высокое содержание карбонатов дополнительно усложняет переработку. А кислотное выщелачивание потребовало бы неоправданно высоких затрат реагентов. «В качестве решения мы предложили пирометаллургический метод спекания руды с фосфогипсом при температуре 900 °C.",
+      "url": "https://t.me/rosatomru/7467",
+      "published_at": "2026-11-03T14:02:24Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "fuel",
+      "language": "ru"
+    },
+    {
+      "id": "b98f29e90af4dbcc",
+      "title": "ГК «Дело» Росатома запустила регулярный контейнерный сервис с Юга России в Китай",
+      "summary": "Транспортный оператор ГК «Дело» (входит в госкорпорацию «Росатом») Рускон запустил регулярный мультимодальный контейнерный сервис из Новороссийска в Китай через Дальний Восток. Первый контейнерный…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/03/169656",
+      "published_at": "2026-11-03T14:00:38Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "cd147ee4ff20eec9",
+      "title": "МГУ и ФИАН предложили способ реализации трех квантовых мемристоров на одном ионе иттербия-171 для нейроморфных систем",
+      "summary": "Учёные физического факультета МГУ совместно с коллегами из Физического института имени П.Н. Лебедева РАН разработали и численно подтвердили новый способ реализации трёх связанных квантовых…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/03/169655",
+      "published_at": "2026-11-03T13:49:27Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "ae60e01e7cf3477e",
+      "title": "«Вьетнамский институт атомной энергии» и «Международный центр исследований на базе реактора МБИР» подписали меморандум о взаимопонимании",
+      "summary": "ООО «Лидер Консорциума «Международный центр исследований на базе реактора МБИР» и Вьетнамский институт атомной энергии (Vinatom) подписали меморандум о взаимопонимании. Документ подтверждает…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/03/169653",
+      "published_at": "2026-11-03T13:40:18Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
+      "id": "c617df146415b5b7",
+      "title": "Россия и Вьетнам расширяют сотрудничество в сфере мирного атома",
+      "summary": "«Лидер Консорциума «Международный центр исследований на базе реактора МБИР» и Вьетнамский институт атомной энергии (Vinatom) подписали меморандум о взаимопонимании. Стороны проработают условия присоединения Vinatom к Консорциуму. Для вьетнамских специалистов это откроет доступ к экспериментальной инфраструктуре сооружаемого в Димитровграде реактора МБИР — самой высокопоточной исследовательской установке на быстрых нейтронах в мире.",
+      "url": "https://t.me/rosatomru/7466",
+      "published_at": "2026-11-03T13:15:23Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
+      "id": "734dd46a80c664a7",
+      "title": "«Экологические решения» и «Инфраструктурные решения» Росатома выиграли VI турнир по мини-футболу памяти Е.П. Славского",
+      "summary": "В Москве завершился VI международный отраслевой турнир по мини-футболу памяти Ефима Павловича Славского. Соревнования прошли 31 октября и 1 ноября 2026 года в спортивном комплексе «Новая лига». В…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/03/169652",
+      "published_at": "2026-11-03T12:28:23Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "154104d8ebe6e2f7",
+      "title": "Участники трека Росатома «Медиареактор» защитили семь проектов на финале «ТопБлога»",
+      "summary": "На финале шестого сезона всероссийского проекта «ТопБлог» президентской платформы «Россия – страна возможностей» подвели итоги первого сезона «Медиареактора» – специального направления,…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/03/169650",
+      "published_at": "2026-11-03T12:10:48Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
+      "id": "9ed0dda22063087f",
+      "title": "«Росатом» и Египет углубляют технологическое партнерство в области систем накопления энергии",
+      "summary": "«Росатом» и Арабская Республика Египет активно развивают стратегическое партнерство в области современных энергетических технологий, делая ключевой упор на локализацию производства систем накопления…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/03/169651",
+      "published_at": "2026-11-03T12:09:02Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "e325b154b41db93f",
+      "title": "Пожар на ядерном комплексе Саванна-Ривер в США не повлек за собой радиационного загрязнения",
+      "summary": "На американском ядерном комплексе Саванна-Ривер (Savannah River Site) в штате Южная Каролина ликвидирован пожар, вызвавший опасения возможного распространения радиоактивных веществ. Проведённое после…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/03/169594",
+      "published_at": "2026-11-03T12:03:00Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "e5b799dda2ef42be",
+      "title": "«НИИАР-ГЕНЕРАЦИЯ» Росатома обеспечит теплом новое приёмное отделение больничного городка ФМБА в Димитровграде",
+      "summary": "ООО «НИИАР-ГЕНЕРАЦИЯ» (входит в дивизион «Росатом Инфраструктурные решения» Госкорпорации «Росатом») приступило к технологическому присоединению модульного приёмного отделения больничного городка…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/03/169649",
+      "published_at": "2026-11-03T11:52:51Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "1b57fd0a5153eb6b",
+      "title": "Турецкая «Zero Waste Foundation» на «РЭН-2026» рассказала о проблеме морских и пищевых отходов",
+      "summary": "Президент президент турецкого Zero Waste Foundation (Фонда нулевых отходов) Самед Агрыбаш (Samed Ağırbaş) выступил на Российской энергетической неделе в Москве. Он рассказал о возможностях…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/03/169647",
+      "published_at": "2026-11-03T11:44:18Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "8b58dceca373af78",
+      "title": "IAEA Launches Global Network to Help Countries Monitor and Protect the World’s Lakes",
+      "summary": "",
+      "url": "http://www.iaea.org/newscenter/pressreleases/iaea-launches-global-network-to-help-countries-monitor-and-protect-the-worlds-lakes",
+      "published_at": "2026-11-03T11:13:00Z",
+      "source_id": "iaea",
+      "source": "IAEA",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "c7b1a5709d0980a3",
+      "title": "Singapore enlists Finnish help in bolstering nuclear expertise",
+      "summary": "The VTT Technical Research Centre of Finland and the Singapore Nuclear Research and Safety Institute have signed a five-year memorandum of understanding to deepen cooperation in nuclear safety and strengthen the capabilities required to assess emerging nuclear technologies.",
+      "url": "https://www.world-nuclear-news.org/articles/singapore-enlists-finnish-help-in-bolstering-nuclear-expertise",
+      "published_at": "2026-11-03T10:23:42Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "safety",
+      "language": "en"
+    },
+    {
+      "id": "ca1b3c18006a0927",
+      "title": "Столько выработала Ростовская АЭС к началу ноября.",
+      "summary": "«Четверть века наша станция работает безопасно и эффективно, обеспечивая стабильную выработку электроэнергии для жителей, промышленного комплекса и инфраструктуры городов, поселков, станиц и хуторов Юга России», – подчеркнул и.о. директора Ростовской АЭС Андрей Горбунов. 👌 Подписывайтесь на «Росатом» | Оставляйте «бусты» #новость #цифра",
+      "url": "https://t.me/rosatomru/7465",
+      "published_at": "2026-11-03T10:17:40Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "76eaf24320c1d522",
+      "title": "✅ Энергоблок № 4 Балаковской АЭС вернулся в сеть на 6 суток раньше срока",
+      "summary": "На станции завершился плановый капитальный ремонт с модернизацией. Благодаря слаженной работе специалистов удалось сократить сроки и дополнительно выработать около 120 млн кВт·ч электроэнергии. В ремонте участвовали более 2 тысяч специалистов. Сейчас все четыре энергоблока Балаковской АЭС работают в сети ✅",
+      "url": "https://t.me/rosenergoatom/3828",
+      "published_at": "2026-11-03T07:29:37Z",
+      "source_id": "rosenergoatom",
+      "source": "Росэнергоатом",
+      "topic": "reactors",
+      "language": "ru"
+    },
     {
       "id": "6b98c1a435dd5381",
       "title": "PEJ applies for early works permit for nuclear power plant",
@@ -1578,17 +1754,6 @@
       "language": "ru"
     },
     {
-      "id": "b6b0346a913c26d6",
-      "title": "Стартовала конференция НИЯУ МИФИ ICPPA-2026",
-      "summary": "27 октября в Москве, в гостинице «Севастополь» стартовала организованная НИЯУ МИФИ четырехдневная 8-я международная конференция по физике элементарных частиц и астрофизике (ICPPA-2026). Открывая…",
-      "url": "https://www.atomic-energy.ru/news/2026/10/27/169472",
-      "published_at": "2026-10-27T12:30:51Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
       "id": "9d6228f3d16b6b8c",
       "title": "NVIDIA to consider data centres at former German nuclear sites",
       "summary": "Germany's PreussenElektra and multinational technology company NVIDIA are to explore whether PreussenElektra's former nuclear power plant sites are suitable for the construction of so-called AI factories.",
@@ -1598,28 +1763,6 @@
       "source": "World Nuclear News",
       "topic": "construction",
       "language": "en"
-    },
-    {
-      "id": "e9de700732e7d9b3",
-      "title": "«ЦКБМ» Росатома представило детскую профориентационную книгу «Капибара и Волшебная Шестеренка»",
-      "summary": "Центральное конструкторское бюро машиностроения (ЦКБМ, Машиностроительный дивизион «Росатома») выпустило свою первую детскую профориентационную книгу «Капибара и Волшебная Шестеренка». Книга…",
-      "url": "https://www.atomic-energy.ru/news/2026/10/27/169469",
-      "published_at": "2026-10-27T12:03:20Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
-      "id": "fdf0287d9cad8713",
-      "title": "Первое дноуглубительное судно Росатома «Дарья» завершило работы в порту Сабетта",
-      "summary": "Госкорпорация «Росатом» подвела итоги работы первого собственного дноуглубительного судна – самоотвозного трюмного земснаряда (СТЗ) «Дарья» – в морском порту Сабетта. По итогам работ на подходном…",
-      "url": "https://www.atomic-energy.ru/news/2026/10/27/169468",
-      "published_at": "2026-10-27T11:57:17Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "international",
-      "language": "ru"
     },
     {
       "id": "b8dc644197c889ba",
