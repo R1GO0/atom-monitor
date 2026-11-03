@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T15:49:11Z",
+  "generated_at": "2026-11-03T00:57:23Z",
   "sources": [
     {
       "status": "updated",
@@ -39,7 +39,7 @@
       "id": "world-nuclear-news",
       "name": "World Nuclear News",
       "site": "https://world-nuclear-news.org",
-      "article_count": 63
+      "article_count": 66
     },
     {
       "status": "updated",
@@ -59,6 +59,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "6b98c1a435dd5381",
+      "title": "PEJ applies for early works permit for nuclear power plant",
+      "summary": "Polskie Elektrownie Jądrowe has applied to the head of the Pomeranian Voivodeship for a permit to start early works required for the construction of Poland's first nuclear power plant at the Lubiatowo-Kopalino site in the Choczewo municipality.",
+      "url": "https://www.world-nuclear-news.org/articles/pej-applies-for-early-works-permit-for-nuclear-power-plant",
+      "published_at": "2026-11-02T15:37:01Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "construction",
+      "language": "en"
+    },
     {
       "id": "de9253fe22f6729d",
       "title": "«Капибара и Волшебная Шестеренка»: Инженеры «Росатома» написали профориентационную сказку для младших школьников",
@@ -148,6 +159,17 @@
       "language": "ru"
     },
     {
+      "id": "0eeca43ec967dc65",
+      "title": "Next-generation fuel projects get US federal funding",
+      "summary": "Eight nuclear fuel technology projects have been selected to receive a share of up to USD50 million of federal funding under a US Department of Energy programme to support R&D to deliver TRU fuel technologies.",
+      "url": "https://www.world-nuclear-news.org/articles/next-generation-fuel-projects-get-us-federal-funding",
+      "published_at": "2026-11-02T13:11:04Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "fuel",
+      "language": "en"
+    },
+    {
       "id": "78debd997be70960",
       "title": "В Нововоронеже состоялся первый открытый молодежный «ЭКОбатл в Атомграде»",
       "summary": "В Культурно-досуговом центре г. Нововоронежа сотрудники Нововоронежской АЭС (Электроэнергетический дивизион госкорпорации «Росатом») и представители Воронежского областного отделения Всероссийского…",
@@ -157,6 +179,17 @@
       "source": "Атомная энергия 2.0",
       "topic": "international",
       "language": "ru"
+    },
+    {
+      "id": "9ebd428ed2743096",
+      "title": "Uganda and Russia look to move ahead with nuclear project",
+      "summary": "A roadmap setting out cooperation in the peaceful uses of nuclear energy, as part of work towards a nuclear power plant, has been signed by Russia and Uganda.",
+      "url": "https://www.world-nuclear-news.org/articles/russia-and-uganda-look-to-move-head-with-nuclear-project",
+      "published_at": "2026-11-02T13:03:13Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "international",
+      "language": "en"
     },
     {
       "id": "c1b64a8209b0ae0d",
