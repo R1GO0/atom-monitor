@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T06:20:16Z",
+  "generated_at": "2026-11-04T19:44:37Z",
   "sources": [
     {
       "status": "updated",
@@ -39,7 +39,7 @@
       "id": "world-nuclear-news",
       "name": "World Nuclear News",
       "site": "https://world-nuclear-news.org",
-      "article_count": 72
+      "article_count": 77
     },
     {
       "status": "updated",
@@ -47,7 +47,7 @@
       "id": "iaea",
       "name": "IAEA",
       "site": "https://www.iaea.org",
-      "article_count": 18
+      "article_count": 20
     },
     {
       "status": "updated",
@@ -55,10 +55,109 @@
       "id": "nucnet",
       "name": "NucNet",
       "site": "https://www.nucnet.org",
-      "article_count": 21
+      "article_count": 23
     }
   ],
   "articles": [
+    {
+      "id": "820349bbe520c6a6",
+      "title": "Canada’s Bruce-5 Nuclear Plant Taken Offline For Major Component Replacement Outage",
+      "summary": "The Bruce-5 nuclear power plant has been taken offline for its major component replacement (MCR) outage – the fourth unit to be refurbished under Bruce Power’s plan to renew six of the eight units at the Ontario site. The company said the 817-MW Candu pressurised heavy water reactor (PHWR) unit, which began commercial operation in 1985, was taken offline on 1 November.",
+      "url": "https://www.nucnet.org/news/canada-s-bruce-5-nuclear-plant-taken-offline-for-major-component-replacement-outage-11-3-2026",
+      "published_at": "2026-11-04T13:57:12Z",
+      "source_id": "nucnet",
+      "source": "NucNet",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "7612af3906391820",
+      "title": "Initial fuel loading completed at second San'ao unit",
+      "summary": "The loading of fuel assemblies into the core of unit 2 at the San'ao nuclear power plant in China's Zhejiang province has been completed ahead of its start up. The unit is the second of six HPR1000s (Hualong Ones) planned at the site.",
+      "url": "https://www.world-nuclear-news.org/articles/initial-fuel-loading-completed-at-second-sanao-unit",
+      "published_at": "2026-11-04T13:24:03Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "2dd06a53537ba506",
+      "title": "Amentum And Kyoto Fusioneering Sign MOU On Fusion In UK, Japan And US",
+      "summary": "US engineering and energy technology company Amentum has entered into a memorandum of understanding with Kyoto Fusioneering to cooperate on nuclear fusion in the UK, Japan and the US. Amentum said the agreement with Kyoto Fusioneering, a Japan-based developer of fusion technologies, establishes a framework to strengthen both companies’ roles in advancing fusion energy commercialisation.",
+      "url": "https://www.nucnet.org/news/amentum-and-kyoto-fusioneering-sign-mou-on-fusion-in-uk-japan-and-us-11-3-2026",
+      "published_at": "2026-11-04T13:13:21Z",
+      "source_id": "nucnet",
+      "source": "NucNet",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "5b1df75edf287b62",
+      "title": "IAEA Report Confirms Japanese Monitoring Data of ALPS-Treated Water Prior to Discharge under Additional Measures",
+      "summary": "",
+      "url": "http://www.iaea.org/newscenter/pressreleases/iaea-report-confirms-japanese-monitoring-data-of-alps-treated-water-prior-to-discharge-under-additional-measures",
+      "published_at": "2026-11-04T12:38:00Z",
+      "source_id": "iaea",
+      "source": "IAEA",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "f05f1e3d7a68b926",
+      "title": "Kazakhstan aims for 100-year uranium reserve",
+      "summary": "Kazakhstan is aiming to develop its strategic uranium reserve to meet the needs of its planned nuclear power plants for more than 100 years, President Kassym-Jomart Tokayev has said.",
+      "url": "https://www.world-nuclear-news.org/articles/kazakhstan-aims-for-100-year-uranium-reserve",
+      "published_at": "2026-11-04T11:45:59Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "fuel",
+      "language": "en"
+    },
+    {
+      "id": "981dba6e121e7268",
+      "title": "FANCO expands cooperation with Hyundai E&C on EAGL-1",
+      "summary": "US small modular reactor developer First American Nuclear Co has signed a comprehensive master service agreement with South Korea's Hyundai Engineering & Construction.",
+      "url": "https://www.world-nuclear-news.org/articles/fanco-expands-cooperation-with-hyundai-ec-on-eagl-1",
+      "published_at": "2026-11-04T11:41:40Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "construction",
+      "language": "en"
+    },
+    {
+      "id": "78548335281e689b",
+      "title": "Heat raised for UK's MAST Upgrade fusion machine",
+      "summary": "A 12-tonne double beam box, which is set to double the UK's flagship fusion machine's plasma conditions to 60 million degrees Celsius, has been moved into position.",
+      "url": "https://www.world-nuclear-news.org/articles/twelve-tonne-component-raises-uk-fusion-machines-heat",
+      "published_at": "2026-11-04T10:56:34Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "5a5b98ee90f31add",
+      "title": "Amentum, Kyoto Fusioneering agree fusion collaboration",
+      "summary": "Kyoto Fusioneering and Amentum have signed a memorandum of understanding covering international cooperation across the UK, Japan and the USA in advancing fusion energy commercialisation.",
+      "url": "https://www.world-nuclear-news.org/articles/amentum-kyoto-fusioneering-target-fusion-commercialisation",
+      "published_at": "2026-11-04T09:13:01Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "aa4da0dd4dec87fd",
+      "title": "The Lise Meitner Programme Explores the Nuclear Fuel Cycle in France and IAEA HQ",
+      "summary": "",
+      "url": "http://www.iaea.org/newscenter/news/the-lise-meitner-programme-explores-the-nuclear-fuel-cycle-in-france-and-iaea-hq",
+      "published_at": "2026-11-04T09:00:00Z",
+      "source_id": "iaea",
+      "source": "IAEA",
+      "topic": "fuel",
+      "language": "en"
+    },
     {
       "id": "604b77667118d664",
       "title": "👌 Подписывайтесь на «Росатом» | Оставляйте «бусты»",
