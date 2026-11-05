@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-04T19:44:37Z",
+  "generated_at": "2026-11-05T06:44:55Z",
   "sources": [
     {
-      "status": "updated",
-      "error": "",
+      "status": "cached",
+      "error": "Remote end closed connection without response",
       "id": "atomic-energy",
       "name": "Атомная энергия 2.0",
       "site": "https://www.atomic-energy.ru",
