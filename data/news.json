@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-08T13:23:49Z",
+  "generated_at": "2026-11-08T22:03:52Z",
   "sources": [
     {
-      "status": "cached",
-      "error": "Remote end closed connection without response",
+      "status": "updated",
+      "error": "",
       "id": "atomic-energy",
       "name": "Атомная энергия 2.0",
       "site": "https://www.atomic-energy.ru",
@@ -15,7 +15,7 @@
       "id": "atominfo",
       "name": "AtomInfo.Ru",
       "site": "http://atominfo.ru",
-      "article_count": 36
+      "article_count": 41
     },
     {
       "status": "updated",
@@ -59,6 +59,61 @@
     }
   ],
   "articles": [
+    {
+      "id": "3b30fc833cc2de3c",
+      "title": "На пусковом блоке Sanao-2 завершена загрузка топлива",
+      "summary": "Загрузка ТВС в активную зону реактора пускового блока Sanao-2 (Саньао-2) в восточной китайской провинции Чжэцзян завершена.",
+      "url": "http://atominfo.ru/newsz10/a0133.htm",
+      "published_at": "2026-11-08T17:59:20Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
+      "id": "898d6bcc7cb2fd58",
+      "title": "Изготовление ВКУ и крышки реактора для первого блока АЭС Эль-Дабаа завершено",
+      "summary": "Изготовление ВКУ и крышки реактора ВВЭР-1200 для первого блока АЭС \"Эль-Дабаа\" (Египет) завершилось на производственном комплексе \"Ижора\" в Санкт-Петербурге.",
+      "url": "http://atominfo.ru/newsz10/a0131.htm",
+      "published_at": "2026-11-08T17:05:33Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
+      "id": "cddd41529f44ffa9",
+      "title": "Китай - начато строительство Chilong One",
+      "summary": "В Китае 6 ноября 2026 года был залит первый бетон в основание ядерного острова первого коммерческого энергоблока с реакторной установкой HTR-PM600S.",
+      "url": "http://atominfo.ru/newsz10/a0130.htm",
+      "published_at": "2026-11-08T16:34:55Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "construction",
+      "language": "ru"
+    },
+    {
+      "id": "988458fe118e0b1a",
+      "title": "Первый энергоблок АЭС Чернавода возобновил работу после остановки из-за обмеления Дуная",
+      "summary": "Энергоблок №1 АЭС \"Чернавода\" в Румынии 6 ноября 2026 года был повторно синхронизирован с национальной энергосистемой и начал выработку электроэнергии.",
+      "url": "http://atominfo.ru/newsz10/a0129.htm",
+      "published_at": "2026-11-08T15:35:09Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
+      "id": "c1c566fb00ff6014",
+      "title": "Производство уранового концентрата в Казахстане продолжает расти",
+      "summary": "Объём производства U 3 O 8 на рудниках \"Казатомпрома\" составил в III квартале 2026 года 7216 тонн, что на 12% больше показателя аналогичного периода 2025 года.",
+      "url": "http://atominfo.ru/newsz10/a0128.htm",
+      "published_at": "2026-11-08T15:30:14Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "fuel",
+      "language": "ru"
+    },
     {
       "id": "49bd7ea95e55fd18",
       "title": "😍 Россия и Вьетнам обсуждают сотрудничество на базе исследовательского реактора МБИР",
