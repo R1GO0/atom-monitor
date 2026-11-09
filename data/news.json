@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T06:25:11Z",
+  "generated_at": "2026-11-09T22:20:49Z",
   "sources": [
     {
       "status": "updated",
@@ -15,7 +15,7 @@
       "id": "atominfo",
       "name": "AtomInfo.Ru",
       "site": "http://atominfo.ru",
-      "article_count": 41
+      "article_count": 47
     },
     {
       "status": "updated",
@@ -23,7 +23,7 @@
       "id": "rosatom",
       "name": "Росатом",
       "site": "https://rosatom.ru",
-      "article_count": 51
+      "article_count": 55
     },
     {
       "status": "updated",
@@ -47,7 +47,7 @@
       "id": "iaea",
       "name": "IAEA",
       "site": "https://www.iaea.org",
-      "article_count": 23
+      "article_count": 26
     },
     {
       "status": "updated",
@@ -55,10 +55,329 @@
       "id": "nucnet",
       "name": "NucNet",
       "site": "https://www.nucnet.org",
-      "article_count": 24
+      "article_count": 25
     }
   ],
   "articles": [
+    {
+      "id": "36dba8cdf00a87e7",
+      "title": "На АЭС Чернавода началась подготовка к пуску второго блока",
+      "summary": "Оперативный персонал АЭС \"Чернавода\" (Румыния) приступил 9 ноября 2026 года к подготовке к пуску второго энергоблока.",
+      "url": "http://atominfo.ru/newsz10/a0140.htm",
+      "published_at": "2026-11-09T17:04:39Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
+      "id": "3e921c26a03a90cf",
+      "title": "Южная Корея отложила перечисление 10 млрд долларов на нужды строительства новых блоков в США",
+      "summary": "Южная Корея отложила перечисление 10 миллиардов долларов на проект строительства атомных блоков на территории США.",
+      "url": "http://atominfo.ru/newsz10/a0139.htm",
+      "published_at": "2026-11-09T16:54:05Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "construction",
+      "language": "ru"
+    },
+    {
+      "id": "61e79b178e6f5c14",
+      "title": "Специалисты CIAE проверили технологию повторной сборки облучённых экспериментальных ТВС для программы по созданию быстрого реактора CiFR1000",
+      "summary": "Специалисты китайского института атомной энергии (CIAE, входит в состав корпорации CNNC) выполнили проверку технологии повторной сборки облучённых экспериментальных ТВС, испытывающихся в рамках программы по созданию интегрального быстрого реактора CiFR1000.",
+      "url": "http://atominfo.ru/newsz10/a0138.htm",
+      "published_at": "2026-11-09T16:39:26Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
+      "id": "4fd69d58a86f4ec0",
+      "title": "Вдохновение квантом. Как работают сверх-компьютеры",
+      "summary": "Квантовые алгоритмы помогут оптимизировать поставки товаров в российские торговые сети, а чип на основе «сжатого света» — создавать сверхчувствительные медицинские детекторы. Практическое применение таких разработок в промышленности, прежде всего в атомной отрасли, стало главным направлением нового этапа дорожной карты по квантовым вычислениям до 2030 года, которую курирует «Росатом». О реализуемых проектах — специальный репортаж. 👌 Подписывайтесь на «Росатом» | Оставляйте «бусты» #видео #РосатомКвантовыеТехнологии",
+      "url": "https://t.me/rosatomru/7491",
+      "published_at": "2026-11-09T16:34:43Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "5635f05c10a6ad19",
+      "title": "Айдахо - кампания против кампуса NLIC",
+      "summary": "В штате Айдахо (США) набирает обороты кампания против создания кампуса ядерных инноваций жизненного цикла.",
+      "url": "http://atominfo.ru/newsz10/a0137.htm",
+      "published_at": "2026-11-09T16:27:20Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "73dd83d0276efbec",
+      "title": "Nuclear Safeguards in a Changing World – 15th Symposium on International Safeguards Opens in Vienna",
+      "summary": "",
+      "url": "http://www.iaea.org/newscenter/news/nuclear-safeguards-in-a-changing-world-15th-symposium-on-international-safeguards-opens-in-vienna",
+      "published_at": "2026-11-09T16:00:00Z",
+      "source_id": "iaea",
+      "source": "IAEA",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "2cfa597820bf4bb5",
+      "title": "Компания Westinghouse получила финансирование ARPA-E на разработку металлического топлива PowerBlock",
+      "summary": "Компания Westinghouse получила грант агентства перспективных исследовательских проектов в области энергетики США (ARPA-E) на сумму до 7 миллионов долларов.",
+      "url": "http://atominfo.ru/newsz10/a0136.htm",
+      "published_at": "2026-11-09T15:42:00Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "fuel",
+      "language": "ru"
+    },
+    {
+      "id": "db75c17f2136aae5",
+      "title": "Estonia narrows search for nuclear power plant location",
+      "summary": "The search for a site for Estonia's first nuclear power plant will now focus on three locations, all in the municipality of Viru-Nigula, about 120 kilometres east of Tallin, after three locations in Lüganuse municipality were ruled out for security reasons.",
+      "url": "https://www.world-nuclear-news.org/articles/estonia-narrows-search-for-nuclear-power-plant-location",
+      "published_at": "2026-11-09T15:27:23Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "4a7c6b812baace0b",
+      "title": "Глава «Росатома» Алексей Лихачёв обратился к участникам и гостям чемпионата.",
+      "summary": "👌 Подписывайтесь на «Росатом» | Оставляйте «бусты» #цитата #АлексейЛихачев #хайтек2026",
+      "url": "https://t.me/rosatomru/7489",
+      "published_at": "2026-11-09T15:21:25Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "9d80881f2f03b7ae",
+      "title": "Лучшие рабочие и инженеры «Росатома» представляют корпорацию на чемпионате «Хайтек: навыки будущего»",
+      "summary": "С 9 по 13 ноября в Екатеринбурге специалисты из 15 стран соревнуются в 49 промышленных и высокотехнологичных компетенциях. Сборная «Росатома» заявлена в 36 компетенциях — и семь из них для «атомной» команды новые. Впервые наши специалисты выступят в разработке и внедрении промышленных ИИ-решений, БАС, промышленной робототехнике, слесарных работах с металлом, монтаже радиоэлектронной аппаратуры и решении изобретательских задач. Сборная атомной отрасли — это 99 конкурсантов, 177 экспертов, тренеров и организаторов.",
+      "url": "https://t.me/rosatomru/7488",
+      "published_at": "2026-11-09T15:20:03Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "construction",
+      "language": "ru"
+    },
+    {
+      "id": "afd175f5cfff1c34",
+      "title": "РФЯЦ-ВНИИТФ выполнит научно-исследовательские работы для резидента ТОР «Снежинск» компании «Волна плюс»",
+      "summary": "Резидент ТОР «Снежинск» компания «Волна плюс» заключила договор с федеральным ядерным центром — ФГУП «РФЯЦ-ВНИИТФ им. академика Е.И. Забабахина». Институт выполнит научно-исследовательские работы по…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/09/169786",
+      "published_at": "2026-11-09T14:33:46Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "7d61ec2f8abf5269",
+      "title": "Cernavodă units returning to operation after three months",
+      "summary": "Nuclearelectrica and the Romanian government are working on long-term solutions to avoid a repeat of the Cernavodă units being shut down because of drought causing abnormally low water levels in the Danube.",
+      "url": "https://www.world-nuclear-news.org/articles/cernavoda-units-return-to-operation-after-three-months",
+      "published_at": "2026-11-09T14:13:35Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "82c47a403b176476",
+      "title": "В Турции с 12 по 13 ноября пройдёт первый Международный бизнес-форум «Мировые атомные дни»",
+      "summary": "Госкорпорация «Росатом» 12–13 ноября проведет в Анталье международное бизнес-мероприятие – «Мировые атомные дни» (англ. World Atomic Days, WAD). Форум пройдет при поддержке «Платформы по атомной…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/09/169785",
+      "published_at": "2026-11-09T14:11:00Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "923c32d883b528d2",
+      "title": "China Pours First Concrete For HTGR At ‘World’s First’ Hybrid Nuclear Power Station",
+      "summary": "The first batch of concrete has been poured for the nuclear island of the high-temperature gas-cooled reactor (HTGR) that forms part the first phase of a hybrid nuclear power station in Jiangsu province, eastern China. The facility, known as the Jiangsu Xuwei Nuclear Heating and Power Plant, will supply both industrial heat and electricity by coupling the Chilong One HTGR with two Hualong One pressurised water reactors (PWRs). CNNC said first concrete had now been poured for the 600-MW HTGR.",
+      "url": "https://www.nucnet.org/news/china-pours-first-concrete-for-htgr-at-world-s-first-hybrid-nuclear-power-station-11-1-2026",
+      "published_at": "2026-11-09T13:56:36Z",
+      "source_id": "nucnet",
+      "source": "NucNet",
+      "topic": "construction",
+      "language": "en"
+    },
+    {
+      "id": "32950f4f410388ff",
+      "title": "АРВЭ проведёт в Москве IV ежегодную конференцию «Возобновляемая энергетика России: технологии энергетического перехода»",
+      "summary": "3 декабря 2026 года в Москве состоится IV ежегодной конференции «Возобновляемая энергетика России: технологии энергетического перехода», организованная Ассоциацией развития возобновляемой энергетики…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/09/169783",
+      "published_at": "2026-11-09T13:51:55Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "aedb90321c9e6613",
+      "title": "«Росатом» принимает участие в климатической конференции ООН COP31",
+      "summary": "В Анталье (Турция) открылось главное международное событие года в сфере климатической политики – 31-я сессия Конференции сторон Рамочной конвенции ООН об изменении климата (COP 31). «Росатом» традиционно принимает участие в сессиях деловой программы павильона Российской Федерации и стран-партнеров, где представит роль атомных технологий в решении стоящих перед мировым сообществом климатических вызовов. Подробности на сайте.",
+      "url": "https://t.me/rosatomru/7487",
+      "published_at": "2026-11-09T13:51:23Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "e961e797b109a257",
+      "title": "Safeguards: Our Shared Responsibility",
+      "summary": "",
+      "url": "http://www.iaea.org/newscenter/multimedia/videos/safeguards-our-shared-responsibility",
+      "published_at": "2026-11-09T13:00:00Z",
+      "source_id": "iaea",
+      "source": "IAEA",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "10cfe18f856a037a",
+      "title": "«Росатом» принял участие во встрече Латиноамериканской федерации выпускников российских в Мексике",
+      "summary": "3-4 ноября 2026 года в городе Пуэбла-де-Сарагоса (Мексика) состоялась масштабная встреча Латиноамериканской федерации выпускников российских и советских вузов. Госкорпорация «Росатом» выступила…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/09/169780",
+      "published_at": "2026-11-09T12:52:49Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "2f38b05f40c83cad",
+      "title": "«Росатом», ФМБА и Правительство Ульяновской области обсудили развитие науки, ядерной медицины и социальных проектов в Димитровграде",
+      "summary": "В рамках рабочей поездки в Димитровград генеральный директор госкорпорации «Росатом» Алексей Лихачев осмотрел ход строительства многоцелевого быстрого исследовательского реактора (МБИР) на площадке…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/09/169781",
+      "published_at": "2026-11-09T12:47:12Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "construction",
+      "language": "ru"
+    },
+    {
+      "id": "d67359e91c5af2fb",
+      "title": "Китайский стартап «Beijing Airlink Aircraft» представил проект бизнес-джета с гибридной силовой установкой на основе традиционного двигателя и электротяги",
+      "summary": "Китайская компания Beijing Airlink Aircraft представила проект гибридного бизнес-джета Belyn 100, который должен сочетать традиционный авиационный двигатель и электрическую тягу. Разработчик…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/09/169779",
+      "published_at": "2026-11-09T12:44:32Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "5315c522c3df6528",
+      "title": "IAEA Mission says Slovakia is Committed to Strengthening Nuclear and Radiation Safety Regulatory Framework",
+      "summary": "",
+      "url": "http://www.iaea.org/newscenter/pressreleases/iaea-mission-says-slovakia-is-committed-to-strengthening-nuclear-and-radiation-safety-regulatory-framework",
+      "published_at": "2026-11-09T12:40:00Z",
+      "source_id": "iaea",
+      "source": "IAEA",
+      "topic": "safety",
+      "language": "en"
+    },
+    {
+      "id": "10a798577bcb7351",
+      "title": "Canadian budget sets out nuclear investments",
+      "summary": "The budget released by the Canadian government provides funding for a strategy to double grid capacity by 2050, as well as investments in nuclear energy and critical minerals.",
+      "url": "https://www.world-nuclear-news.org/articles/canadian-budget-sets-out-nuclear-investments",
+      "published_at": "2026-11-09T12:34:13Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "economy",
+      "language": "en"
+    },
+    {
+      "id": "d1dbac8465be93b7",
+      "title": "Резидент ТОР «Озерская трубная компания СТИ» зарегистрировала земельный участок для строительства нового цеха",
+      "summary": "Компания «Озерская трубная компания СТИ» завершила процедуру регистрации земельного участка в Росреестре. Участок был передан «Атом-ТОР» резиденту по договору субаренды сроком до 2035 года. Следующий…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/09/169777",
+      "published_at": "2026-11-09T12:23:35Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "construction",
+      "language": "ru"
+    },
+    {
+      "id": "111f7b9d08207689",
+      "title": "ПетрГУ запатентовал технологию переработки отходов полиэтилена высокого давления в теплоизоляционный материал без промышленного оборудования",
+      "summary": "В ПетрГУ получен патент РФ №2864001 на способ переработки отходов полиэтилена высокого давления (ПВД) в теплоизоляционный материал. Разработка предлагает принципиально новый подход к рециклингу…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/09/169776",
+      "published_at": "2026-11-09T12:22:30Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "3549b51053d386b4",
+      "title": "Алжир начал второй этап реабилитации бывшего французского ядерного полигона Ин-Эккер в пустыне Сахара",
+      "summary": "Алжир приступил к новому этапу ликвидации радиоактивного загрязнения на территории бывшего французского ядерного полигона в пустыне Сахара. Работы ведутся собственными силами страны: алжирские власти…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/09/169775",
+      "published_at": "2026-11-09T12:02:48Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "d141453c9601ea8f",
+      "title": "ASNR opens passive safety system testing facility",
+      "summary": "France's nuclear safety regulator has inaugurated new research infrastructure and facilities at its Cadarache site for studying the reliability of passive safety systems. It aims to generate the scientific knowledge necessary for the independent safety assessment of innovative reactors and small modular reactors.",
+      "url": "https://www.world-nuclear-news.org/articles/asnr-opens-passive-safety-system-testing-facility",
+      "published_at": "2026-11-09T11:54:36Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "a39fefe2341319cf",
+      "title": "Новочеркасский «ТМХ-Электротех» разработал тяговый электродвигатель для первого российского водородного поезда",
+      "summary": "В Ростовской области специалисты «ТМХ-Электротеха» разработали тяговый электродвигатель для первого российского поезда на водородном топливе. На данный момент разработка проходит сертификационные…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/09/169774",
+      "published_at": "2026-11-09T11:49:45Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "fuel",
+      "language": "ru"
+    },
+    {
+      "id": "433fa185ed5aaeed",
+      "title": "Concrete work completed for Akkuyu 4's turbine unit",
+      "summary": "More than 2,240 cubic metres of concrete was used to complete the turbine building foundation for Turkey's Akkuyu Nuclear Power Plant's fourth unit.",
+      "url": "https://www.world-nuclear-news.org/articles/concrete-work-completed-for-akkuyu-4s-turbine-unit",
+      "published_at": "2026-11-09T10:32:29Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "construction",
+      "language": "en"
+    },
+    {
+      "id": "062bcc6b36705421",
+      "title": "Началось строительство блока Haiyang-5",
+      "summary": "Заливка первого бетона состоялась на стройплощадке блока №5 АЭС Haiyang (Хайян, Китай) .",
+      "url": "http://atominfo.ru/newsz10/a0134.htm",
+      "published_at": "2026-11-09T10:12:55Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "construction",
+      "language": "ru"
+    },
     {
       "id": "8affc16c90568a94",
       "title": "Сотрудники ОИЯИ приняли участие в заседании Совета Международной ассоциации академий наук в Китае",
@@ -1919,61 +2238,6 @@
       "language": "ru"
     },
     {
-      "id": "1f98c1c10707e1e2",
-      "title": "Демонтаж бывших ядерных лабораторий «Boeing» вызвал спор о радиационной безопасности",
-      "summary": "Жители окрестностей Лос-Анджелеса установили собственные приборы контроля воздуха из-за сноса бывших ядерных лабораторий Boeing. Они опасаются, что сильные ветры Санта-Ана разнесут загрязнённую пыль.…",
-      "url": "https://www.atomic-energy.ru/news/2026/10/29/169541",
-      "published_at": "2026-10-29T11:30:07Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "construction",
-      "language": "ru"
-    },
-    {
-      "id": "f5ea2ae927d6dbcd",
-      "title": "Министерство науки и высшего образования России объявило о начале приема заявок на участие в конкурсе на получение стипендий имени И.В. Курчатова и А.П. Александрова",
-      "summary": "Министерство науки и высшего образования России объявило о начале приема заявок на участие в конкурсе на получение стипендий имени И.В. Курчатова и А.П. Александрова. К рассмотрению принимаются…",
-      "url": "https://www.atomic-energy.ru/news/2026/10/29/169540",
-      "published_at": "2026-10-29T11:24:53Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
-      "id": "8eaad191d0d87c72",
-      "title": "На базе ОИЯИ прошел IX Съезд по радиационным исследованиям",
-      "summary": "С 5 по 9 октября 2026 года в Дубне на базе Объединенного института ядерных исследований прошел IX Съезд по радиационным исследованиям (радиобиология, радиоэкология, радиационная безопасность). В нем…",
-      "url": "https://www.atomic-energy.ru/news/2026/10/29/169539",
-      "published_at": "2026-10-29T11:11:13Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "safety",
-      "language": "ru"
-    },
-    {
-      "id": "38c112217b0961e6",
-      "title": "Новый резидент АЗРФ «АксисНорд» займется геодезическим сопровождением строительства Баимского ГОКа",
-      "summary": "Новый резидент Арктической зоны Российской Федерации (АЗРФ) – компания \"АксисНорд\" – планирует реализацию геодезического сопровождения строительства Баимского горно-обогатительного…",
-      "url": "https://www.atomic-energy.ru/news/2026/10/29/169536",
-      "published_at": "2026-10-29T11:05:47Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "construction",
-      "language": "ru"
-    },
-    {
-      "id": "af075b1d4fe330f9",
-      "title": "Ученые ОИЯИ показали результаты исследований на форуме по медицинской физике в Китае",
-      "summary": "С 23 по 24 октября 2026 года в Китае проходил международный симпозиум «6-й Глобальный форум по образованию в области медицинской физики». От ОИЯИ с докладами на мероприятии выступили научный…",
-      "url": "https://www.atomic-energy.ru/news/2026/10/29/169537",
-      "published_at": "2026-10-29T11:04:41Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
       "id": "4ec878ee1453f006",
       "title": "Turkish oil refiner to consider SMR deployment",
       "summary": "TÜPRAŞ, Turkey's largest crude oil refiner, has signed an agreement with the US Trade and Development Agency to fund technical assistance to assess the potential of small modular reactors to supply electricity, heat and steam for its refining processes.",
@@ -1993,39 +2257,6 @@
       "source_id": "rosatom",
       "source": "Росатом",
       "topic": "reactors",
-      "language": "ru"
-    },
-    {
-      "id": "ad6d5a43e9f12336",
-      "title": "«Атомэнергоремонт» подвёл итоги II ежегодного чемпионата профессионального мастерства «АЭР: ПРОФИ»",
-      "summary": "В Балаково, Удомле, Полярных Зорях, Сосновом Бору и Нововоронеже завершился II ежегодный чемпионат профессионального мастерства «АЭР: ПРОФИ», организованный ремонтной компанией госкорпорации «Росатом…",
-      "url": "https://www.atomic-energy.ru/news/2026/10/29/169445",
-      "published_at": "2026-10-29T05:42:11Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
-      "id": "b5e228e83a55b2bc",
-      "title": "«Силовые машины» и Белорусская АЭС заключили соглашение о сотрудничестве",
-      "summary": "В рамках XXX Белорусского энергетического и экологического форума EnergyExpo подписи под документом поставили генеральный директор Белорусской АЭС Сергей Бобович и заместитель генерального директора…",
-      "url": "https://www.atomic-energy.ru/news/2026/10/29/169519",
-      "published_at": "2026-10-29T05:38:27Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
-      "id": "d2e088d8b5f4b6cc",
-      "title": "Директор филиала «Росатом Энергосбыта» в Твери провёл профориентационный урок для девятиклассников",
-      "summary": "Директор филиала «Росатом Энергосбыта» в Твери Александр Гордеев встретился с учениками Тверского лицея и рассказал им о работе госкорпорации «Росатом», разнообразии профессий в атомной отрасли и…",
-      "url": "https://www.atomic-energy.ru/news/2026/10/29/169518",
-      "published_at": "2026-10-29T05:37:10Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "international",
       "language": "ru"
     },
     {
@@ -2051,17 +2282,6 @@
       "language": "ru"
     },
     {
-      "id": "8c9d17d79f283f59",
-      "title": "Плавучая атомная теплоэлектростанция «Академик Ломоносов» впервые представила экоотчёт в прямом эфире на уровне Правительства Чукотки",
-      "summary": "Единственная в мире Плавучая атомная теплоэлектростанция (ПАТЭС) впервые представила общественности отчёт об экологической деятельности предприятия в формате межрегионального телемоста с участием…",
-      "url": "https://www.atomic-energy.ru/news/2026/10/28/169517",
-      "published_at": "2026-10-28T15:23:02Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
       "id": "ccd8c2fb34683c95",
       "title": "US Agency Signs Agreement With Oil Company On Study Into SMRs For Turkey",
       "summary": "The US Trade and Development Agency (USTDA) has signed an agreement with Turkish oil refiner Tüpraş to fund a study into the potential use of small modular reactors (SMRs) to supply electricity, heat and steam for refinery operations. According to the USTDA, the proposed study will evaluate several US reactor technologies, including their technical and economic feasibility, environmental performance, regulatory requirements and potential industrial applications.",
@@ -2071,17 +2291,6 @@
       "source": "NucNet",
       "topic": "reactors",
       "language": "en"
-    },
-    {
-      "id": "a42278d8a9f9288c",
-      "title": "«Росатом» начал поставки ядерного топлива для второго энергоблока ВВЭР-1200 АЭС «Руппур»",
-      "summary": "«Росатом» выполнил первую поставку ядерного топлива для стартовой загрузки реактора ВВЭР-1200 на энергоблоке № 2 АЭС «Руппур» в Бангладеш (генеральный проектировщик и генеральный подрядчик проекта –…",
-      "url": "https://www.atomic-energy.ru/news/2026/10/28/169515",
-      "published_at": "2026-10-28T15:10:27Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "reactors",
-      "language": "ru"
     },
     {
       "id": "e70fd1e532fef071",
@@ -3349,17 +3558,6 @@
       "language": "ru"
     },
     {
-      "id": "4b0992ebdb16235f",
-      "title": "Viewpoint: Unlocking ASEAN's nuclear potential - a case for regulatory convergence on SMRs",
-      "summary": "ASEAN's rising electricity demand and decarbonisation goals are driving interest in small modular reactors, but fragmented national regulatory frameworks, limited expertise and financing uncertainty could delay their deployment, write Ming Tan and Stephanie Liaw of engineering, management and development consultancy Mott MacDonald.",
-      "url": "https://www.world-nuclear-news.org/articles/viewpoint-unlocking-aseans-nuclear-potential---a-case-for-regulatory-convergence-on-smrs",
-      "published_at": "2026-10-16T12:49:00Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
-      "topic": "reactors",
-      "language": "en"
-    },
-    {
       "id": "6ec1befd6c9ce239",
       "title": "Sweden’s Studsvik Signs ‘Landmark’ Spent Nuclear Fuel Agreement With Norway",
       "summary": "Sweden-based nuclear services company Studsvik has signed what it called a “landmark” agreement to manage Norway’s legacy spent nuclear fuel. The agreement with Norwegian Nuclear Decommissioning (NND), the Norwegian state agency responsible for decommissioning the country’s nuclear facilities, runs until 2055 and has an estimated contractual minimum value of about SEK 875m (€78m, $88m) and a potential total value for Studsvik of SEK 3-4bn.",
@@ -3368,28 +3566,6 @@
       "source_id": "nucnet",
       "source": "NucNet",
       "topic": "fuel",
-      "language": "en"
-    },
-    {
-      "id": "4b58a7f548b01a70",
-      "title": "Norwegian used fuel to be stored in Sweden",
-      "summary": "Norwegian Nuclear Decommissioning has signed an agreement with Swedish nuclear technical services provider Studsvik to manage used nuclear fuel from the former research reactors at Halden and Kjeller.",
-      "url": "https://www.world-nuclear-news.org/articles/norwegian-used-fuel-to-be-stored-in-sweden",
-      "published_at": "2026-10-16T12:37:56Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
-      "topic": "reactors",
-      "language": "en"
-    },
-    {
-      "id": "8b53095565752733",
-      "title": "Thorizon, TNO launch MSR materials programme",
-      "summary": "Molten salt reactor developer Thorizon and Dutch research and technology organisation TNO have launched a materials and corrosion programme to generate the experimental data and predictive models required to qualify materials for molten salt reactors.",
-      "url": "https://www.world-nuclear-news.org/articles/thorizon-tno-launch-msr-materials-programme",
-      "published_at": "2026-10-16T11:14:32Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
-      "topic": "reactors",
       "language": "en"
     },
     {
@@ -3411,28 +3587,6 @@
       "published_at": "2026-10-15T23:00:00Z",
       "source_id": "iaea",
       "source": "IAEA",
-      "topic": "international",
-      "language": "en"
-    },
-    {
-      "id": "15cc4b85dfad4e7c",
-      "title": "MHI delivers replacement steam generators for French reactor",
-      "summary": "Japan's Mitsubishi Heavy Industries has delivered a further three replacement steam generators to EDF. They are scheduled to be installed in unit 2 of its Cruas nuclear power plant in southeastern France.",
-      "url": "https://www.world-nuclear-news.org/articles/mhi-delivers-replacement-steam-generators-for-french-reactor",
-      "published_at": "2026-10-15T14:18:36Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
-      "topic": "reactors",
-      "language": "en"
-    },
-    {
-      "id": "05fef2acd1d41941",
-      "title": "Milestone for Bruce 4 refurbishment",
-      "summary": "Installation of the unit's 480 calandria tubes was completed faster than at Bruce 3 as the team carrying out the Major Component Replacement project continues to set new records for CANDU refurbishment.",
-      "url": "https://www.world-nuclear-news.org/articles/milestone-for-bruce-4-refurbishment",
-      "published_at": "2026-10-15T13:52:40Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
       "topic": "international",
       "language": "en"
     },
