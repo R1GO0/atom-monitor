@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T06:16:57Z",
+  "generated_at": "2026-11-11T14:30:35Z",
   "sources": [
     {
       "status": "updated",
@@ -15,7 +15,7 @@
       "id": "atominfo",
       "name": "AtomInfo.Ru",
       "site": "http://atominfo.ru",
-      "article_count": 50
+      "article_count": 51
     },
     {
       "status": "updated",
@@ -23,7 +23,7 @@
       "id": "rosatom",
       "name": "Росатом",
       "site": "https://rosatom.ru",
-      "article_count": 60
+      "article_count": 63
     },
     {
       "status": "updated",
@@ -47,7 +47,7 @@
       "id": "iaea",
       "name": "IAEA",
       "site": "https://www.iaea.org",
-      "article_count": 29
+      "article_count": 30
     },
     {
       "status": "updated",
@@ -55,10 +55,186 @@
       "id": "nucnet",
       "name": "NucNet",
       "site": "https://www.nucnet.org",
-      "article_count": 27
+      "article_count": 28
     }
   ],
   "articles": [
+    {
+      "id": "3edd9b757529d4b9",
+      "title": "На втором энергоблоке АЭС «Саньао» завершена первоначальная загрузка ядерного топлива",
+      "summary": "На втором энергоблоке АЭС «Саньао», расположенной в китайской провинции Чжэцзян, завершена загрузка тепловыделяющих сборок в активную зону реактора — важный этап подготовки к его пуску. Этот блок…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/11/169843",
+      "published_at": "2026-11-11T14:09:49Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
+      "id": "d849531270b504cd",
+      "title": "Компания Calogena получила финансирование от ЕС на внедрение малых модульных реакторов",
+      "summary": "Французский разработчик малых модульных реакторов (ММР) — компания Calogena — получила 40 млн евро (44,6 млн долларов США) из Инновационного фонда Европейской комиссии. Эти средства предназначены для…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/11/169842",
+      "published_at": "2026-11-11T14:01:58Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
+      "id": "9a4f245d79d33dbe",
+      "title": "X-energy выбрала компанию Fluor для реализации второго проекта с использованием реакторов Xe-100",
+      "summary": "Корпорация Fluor предоставит проектно-инженерные услуги для второго в США проекта, в котором будут задействованы реакторы Xe-100 компании X-energy. Проект будет реализован в рамках инициативы Energy…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/11/169840",
+      "published_at": "2026-11-11T13:51:31Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
+      "id": "8c0bcf55a5690b2f",
+      "title": "НИТУ МИСИС и РЭУ им. Плеханова разработали электропроводящий композит на основе полилактида для электронных устройств",
+      "summary": "Российские учёные придали электропроводность биополимеру, чтобы его можно было использовать для изготовления датчиков, нагревательных элементов и других компонентов электроники. Расширить сферу…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/11/169838",
+      "published_at": "2026-11-11T13:34:10Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "effc72b4395ebcb5",
+      "title": "Курчатовский институт договорился о сотрудничестве с компанией ПРОМОМЕД",
+      "summary": "Взаимодействие Курчатовского института и компании ПРОМОМЕД в области создания инновационных лекарственных препаратов и медицинских технологий предусматривает проведение совместных научных…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/11/169839",
+      "published_at": "2026-11-11T13:20:07Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "15ad21ab2a966cd9",
+      "title": "ИТМО впервые продемонстрировал прецессию спина электромагнитного поля по конической траектории",
+      "summary": "Ученые обнаружили, что спин света может вести себя подобно замедляющемуся волчку: вектор спина совершает движение, при котором описывает поверхность перевернутого конуса. Ранее считалось, что…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/11/169835",
+      "published_at": "2026-11-11T13:10:51Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "4f2891eacf22efa2",
+      "title": "Миссия МАГАТЭ провела оценку нормативной базы регулирования ядерной и радиационной безопасности Российской Федерации",
+      "summary": "Сегодня группа экспертов Международного агентства по атомной энергии (МАГАТЭ) заявила, что в Российской Федерации существует надежный и независимый регулирующий орган, который отвечает за вопросы…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/11/169836",
+      "published_at": "2026-11-11T13:02:01Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "safety",
+      "language": "ru"
+    },
+    {
+      "id": "79bc086c11cb5f05",
+      "title": "«Росатом» выступит партнером V международного конгресса «Ядерная медицина-2026» в Санкт-Петербурге",
+      "summary": "V международный конгресс «Ядерная медицина-2026», который в этом году посвящён 30-летию межрегиональной общественной организации «Общество ядерной медицины», пройдёт с 3 по 5 декабря в Санкт…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/11/169834",
+      "published_at": "2026-11-11T12:55:23Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "dfac208cda95bebb",
+      "title": "«Росатом» поделился практическим опытом реабилитации территорий и переработки отходов на IV Международной школе по экологии МГУ",
+      "summary": "С 9 по 11 ноября на базе химического факультета Московского государственного университета имени М. В. Ломоносова прошла IV Международная школа по экологии, организованная при поддержке госкорпорации…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/11/169833",
+      "published_at": "2026-11-11T12:47:14Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "ceb13a4a4ce3ea25",
+      "title": "ЗабГУ и «ППГХО» Росатома откроют базовую кафедру в Краснокаменске для подготовки кадров горнорудной отрасли",
+      "summary": "Краснокаменск и объекты ПАО «Приаргунское производственное горно-химическое объединение» (ПАО «ППГХО им. Е. П. Славского, предприятие Горнорудного дивизиона «Росатома») посетила ректор Забайкальского…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/11/169832",
+      "published_at": "2026-11-11T12:27:17Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "431b45a58fe8294b",
+      "title": "Горнорудный дивизион «Росатома» и Забайкальский государственный университет создают базовую кафедру в Краснокаменске",
+      "summary": "Для реализации соглашения о сотрудничестве, подписанного Приаргунским производственным горно-химическим объединением (ППГХО) им. Славского», «Росатом Недра» и ЗабГУ ректор вуза Оксана Мартыненко посетила Краснокаменск. По соглашению, в городе планируется открыть кафедру университета на базе ППГХО и Краснокаменского горно-промышленного техникума. Оксана Мартыненко побывала в Центральной научно-исследовательской лаборатории ППГХО .",
+      "url": "https://t.me/rosatomru/7499",
+      "published_at": "2026-11-11T12:10:13Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "f716ccb46c7c148b",
+      "title": "Study analyses economic impact of Greek nuclear power plant",
+      "summary": "The construction of a 1,600 MW nuclear power plant could contribute about EUR4.5 billion (USD5 billion) to Greece's gross domestic product over the full construction period, according to a new study.",
+      "url": "https://www.world-nuclear-news.org/articles/study-analyses-economic-impact-of-greek-nuclear-power-plant",
+      "published_at": "2026-11-11T11:17:00Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "construction",
+      "language": "en"
+    },
+    {
+      "id": "b832d3334438a0b3",
+      "title": "Pouring Of First Concrete Begins For Nuclear Island At China’s Sanao-4",
+      "summary": "First concrete pouring has begun for the nuclear island of Unit 4 at the Sanao nuclear power station in eastern Chinese province of Zhejiang, project owner China General Nuclear (CGN) announced on Tuesday (10 November). The company said the pouring of first concrete began at 08:28 local time on 10 November, marking the official start of main construction. It said the total volume of concrete poured as of 10 November was approximately 8,820 cubic metres and the process is expected to last 60 hours.",
+      "url": "https://www.nucnet.org/news/pouring-of-first-concrete-begins-for-nuclear-island-at-china-s-sanao-4-11-3-2026",
+      "published_at": "2026-11-11T10:16:11Z",
+      "source_id": "nucnet",
+      "source": "NucNet",
+      "topic": "construction",
+      "language": "en"
+    },
+    {
+      "id": "a33f34ff46a5fc68",
+      "title": "Первый бетон уложен на блоке Sanao-4",
+      "summary": "Первый бетон был уложен 10 ноября 2026 года на строящемся блоке Sanao-4 (Саньао-4, Китай) .",
+      "url": "http://atominfo.ru/newsz10/a0144.htm",
+      "published_at": "2026-11-11T09:38:36Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "construction",
+      "language": "ru"
+    },
+    {
+      "id": "8b9ee519c7df3bc9",
+      "title": "«Росатом» подтвердил статус одного из ведущих работодателей России",
+      "summary": "Госкорпорация в третий раз подряд вошла в первую группу рейтинга российских работодателей РБК. В нее попадают компании, набравшие наивысшие баллы по пяти группам критериев: сотрудники и условия труда, эффективность бизнеса и инновации, социальная ответственность, деловая репутация, а также мнение самих сотрудников. Участники рейтинга РБК этого года - 361 компания, обеспечивающая рабочими местами более 5 млн человек. Также «Росатом» в пятый раз подряд вошел в «платиновую» категорию — высшую в рейтинге.",
+      "url": "https://t.me/rosatomru/7498",
+      "published_at": "2026-11-11T08:38:01Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "43296d274b810049",
+      "title": "Росатом выступил организатором 12 компетенций «Хайтека-2026» под задачи технологического суверенитета страны",
+      "summary": "На Международном чемпионате высокотехнологичных профессий «Хайтек-2026», который стартовал 9 ноября в Екатеринбурге, Госкорпорация «Росатом» выступает организатором 12 из 49 соревновательных компетенций. Этот пакет направлений сформирован под приоритетные задачи обеспечения технологического суверенитета страны. В зону ответственности Росатома вошли мехатроника, технологии композитов, информационная безопасность, промышленная автоматика, изготовление прототипов, электроника, квантовые вычисления и другие направления.",
+      "url": "https://t.me/rosatomru/7497",
+      "published_at": "2026-11-11T06:56:14Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "safety",
+      "language": "ru"
+    },
     {
       "id": "1f1d8cfcee7229e9",
       "title": "NRC выдала разрешение на строительство станции с четырьмя реакторами Xe-100",
@@ -450,6 +626,17 @@
       "summary": "",
       "url": "http://www.iaea.org/newscenter/news/nuclear-safeguards-in-a-changing-world-15th-symposium-on-international-safeguards-opens-in-vienna",
       "published_at": "2026-11-09T16:00:00Z",
+      "source_id": "iaea",
+      "source": "IAEA",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "1e0a666e9ff1c263",
+      "title": "Seven Ways Nuclear Science and Technology Help Protect the Environment",
+      "summary": "This week, global leaders, international organizations, scientists, business representatives and civil society are gathering in Antalya, Türkiye, for the 31st United Nations Climate Change Conference (COP31).",
+      "url": "http://www.iaea.org/newscenter/news/seven-ways-nuclear-science-and-technology-help-protect-the-environment",
+      "published_at": "2026-11-09T15:45:00Z",
       "source_id": "iaea",
       "source": "IAEA",
       "topic": "international",
@@ -1974,17 +2161,6 @@
       "language": "ru"
     },
     {
-      "id": "b18a5664fc7cb22e",
-      "title": "Стартап «Marathon Fusion» сообщил о трансмутации ртути в золото нейтронами термоядерного синтеза",
-      "summary": "Стартап Marathon Fusion из Сан-Франциско заявил, что в сентябре текущего года смог превратить ртуть в золото с помощью нейтронов термоядерного синтеза. По утверждению компании, скорость производства…",
-      "url": "https://www.atomic-energy.ru/news/2026/10/30/169579",
-      "published_at": "2026-10-30T16:27:12Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
       "id": "2eb892284c27400e",
       "title": "Centrus ships first centrifuge for Piketon plant expansion",
       "summary": "Centrus Energy's manufacturing plant in Oak Ridge, Tennessee, has despatched the first new centrifuge as part of the company's multibillion-dollar expansion of its uranium enrichment capacity in Piketon, Ohio.",
@@ -1996,17 +2172,6 @@
       "language": "en"
     },
     {
-      "id": "18146c1c0403a2b7",
-      "title": "Проект «Росатома» по импортозамещению отраслевой системы финансовых операций отмечен премией «Лучшее корпоративное казначейство»",
-      "summary": "Проект внедрения и развития импортонезависимой системы атомной отрасли «Расчетный центр корпорации» (РЦК) получил премию «Лучшее корпоративное казначейство» (в номинации «Лидер цифровой трансформации…",
-      "url": "https://www.atomic-energy.ru/news/2026/10/30/169578",
-      "published_at": "2026-10-30T16:06:03Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "economy",
-      "language": "ru"
-    },
-    {
       "id": "ae20badffd6cc512",
       "title": "✅ «Росатом» принял участие в саммите «Россия – Африка», подписаны соглашения с Того, Руандой, Угандой",
       "summary": "✅ На первом блоке АЭС «Аккую» в Турции проверили оборудование второго контура на прочность ✅ «Росатом» начал поставки ядерного топлива для второго энергоблока АЭС «Руппур» в Бангладеш ✅ На Соликамском магниевом заводе станут получать ценные редкоземельные элементы ✅ «Росатом» завершил северный завоз - 2026 👌 Подписывайтесь на «Росатом» | Оставляйте «бусты» #дайджест #АтомнаяНеделя",
@@ -2015,17 +2180,6 @@
       "source_id": "rosatom",
       "source": "Росатом",
       "topic": "reactors",
-      "language": "ru"
-    },
-    {
-      "id": "1019a6f33bdfbfc2",
-      "title": "«Росатом Интелмаш» представил подход к роботизации предприятий атомной отрасли на конференции «Экстремальная робототехника»",
-      "summary": "29 октября 2026 года ООО «Росатом Интелмаш» (входит в АО «Росатом Сервис», Электроэнергетический дивизион «Росатома») представило результаты работы по роботизации предприятий атомной отрасли на…",
-      "url": "https://www.atomic-energy.ru/news/2026/10/30/169576",
-      "published_at": "2026-10-30T15:47:03Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "international",
       "language": "ru"
     },
     {
@@ -2060,17 +2214,6 @@
       "source": "World Nuclear News",
       "topic": "fuel",
       "language": "en"
-    },
-    {
-      "id": "e4886421d5093481",
-      "title": "Женское сообщество «Росатома» представило на саммите «Россия – Африка» опыт сотрудничества с африканскими государствами",
-      "summary": "29 октября в Москве в рамках третьего саммита «Россия – Африка» прошла сессия «Миссия женщин в России и Африке в укреплении доверия и глобального сотрудничества», организованная при поддержке Совета…",
-      "url": "https://www.atomic-energy.ru/news/2026/10/30/169575",
-      "published_at": "2026-10-30T14:55:26Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "international",
-      "language": "ru"
     },
     {
       "id": "aa9fa92f6e473bf2",
@@ -2139,17 +2282,6 @@
       "language": "ru"
     },
     {
-      "id": "ccb9ef5fde63204c",
-      "title": "В ОИЯИ обсудили готовность многоцелевого детектора MPD к первому включению",
-      "summary": "С 20 по 22 октября 2026 года в Лаборатории физики высоких энергий ОИЯИ состоялось XVIII Международное совещание коллаборации MPD (Multi-Purpose Detector). Ученые обсудили готовность многоцелевого…",
-      "url": "https://www.atomic-energy.ru/news/2026/10/30/169571",
-      "published_at": "2026-10-30T11:44:24Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
       "id": "90d8082a73701696",
       "title": "Floating nuclear power plant 'has boosted air quality'",
       "summary": "An environmental monitoring report for Russia's floating nuclear power plant suggests that emissions have fallen almost 80% since it started supplying heating in the area in 2022.",
@@ -2159,50 +2291,6 @@
       "source": "World Nuclear News",
       "topic": "international",
       "language": "en"
-    },
-    {
-      "id": "6ce03a9c45b3aed1",
-      "title": "Открытое командное первенство по настольному теннису ПАО «ППГХО» состоялось в Краснокаменске",
-      "summary": "Открытое командное первенство по настольному теннису среди работников ПАО «ППГХО», дочерних предприятий и жителей города Краснокаменска состоялось 25 октября в спорткомплексе «Аргунь». Его…",
-      "url": "https://www.atomic-energy.ru/news/2026/10/30/169570",
-      "published_at": "2026-10-30T11:37:43Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
-      "id": "4dbf224647f41a09",
-      "title": "Профсоюзные волонтеры из города Лесной изготовили для бойцов СВО травяные чаи",
-      "summary": "Мастер-классы по заготовке травяных сборов для участников специальной военной операции состоялись в социально-культурно-досуговом центре «Современник» города Лесной 23 и 26 октября. Мероприятия,…",
-      "url": "https://www.atomic-energy.ru/news/2026/10/30/169569",
-      "published_at": "2026-10-30T11:27:15Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
-      "id": "fae849c60626aad3",
-      "title": "«Росатом Арктика» успешно завершила северный завоз 2026 года на Чукотку, в Якутию и Хабаровский край",
-      "summary": "Единый морской оператор северного завоза (ЕМО) АО «Росатом Арктика» (входит в контур госкорпорации «Росатом») успешно завершил доставку грузов в Хабаровский край, Республику Саха (Якутия) и Чукотский…",
-      "url": "https://www.atomic-energy.ru/news/2026/10/30/169567",
-      "published_at": "2026-10-30T11:22:07Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
-      "id": "d9662e61ad115369",
-      "title": "Студенты НИЯУ МИФИ стали победителями Всероссийской олимпиады по математике",
-      "summary": "Студенты НИЯУ МИФИ вошли в число победителей Всероссийской студенческой олимпиады по математике, которая прошла с 8 по 11 октября на площадке Ярославского государственного технического университета…",
-      "url": "https://www.atomic-energy.ru/news/2026/10/30/169568",
-      "published_at": "2026-10-30T11:18:37Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "construction",
-      "language": "ru"
     },
     {
       "id": "d29d723b2b369321",
@@ -2225,17 +2313,6 @@
       "source": "NucNet",
       "topic": "construction",
       "language": "en"
-    },
-    {
-      "id": "ebbfde8c8f5cf7da",
-      "title": "Молодежь Курской АЭС при поддержке профсоюзной организации провела «Что? Где? Когда?»",
-      "summary": "Интеллектуальная игра «Что? Где? Когда?» состоялась 27 октября на базе молодежного центра «Комсомолец» Курской АЭС. Готовность принять в ней участие выразили 20 команд от разных производственных…",
-      "url": "https://www.atomic-energy.ru/news/2026/10/30/169566",
-      "published_at": "2026-10-30T11:05:55Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "international",
-      "language": "ru"
     },
     {
       "id": "d0e353d3a229a8df",
@@ -3621,17 +3698,6 @@
       "source_id": "world-nuclear-news",
       "source": "World Nuclear News",
       "topic": "fuel",
-      "language": "en"
-    },
-    {
-      "id": "9353bd91398d6d9c",
-      "title": "AEP, Amazon and X-energy planning 12-SMR plant",
-      "summary": "US utility American Electric Power and X-energy have signed a joint development agreement to evaluate a potential 960 MW project at a former coal plant site in Sullivan County, Indiana.",
-      "url": "https://www.world-nuclear-news.org/articles/aep-amazon-and-x-energy-plan-12-smr-plant",
-      "published_at": "2026-10-19T13:35:54Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
-      "topic": "reactors",
       "language": "en"
     },
     {
