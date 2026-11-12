@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-12T15:13:15Z",
+  "generated_at": "2026-11-12T23:38:11Z",
   "sources": [
     {
-      "status": "updated",
-      "error": "",
+      "status": "cached",
+      "error": "Remote end closed connection without response",
       "id": "atomic-energy",
       "name": "Атомная энергия 2.0",
       "site": "https://www.atomic-energy.ru",
@@ -15,7 +15,7 @@
       "id": "atominfo",
       "name": "AtomInfo.Ru",
       "site": "http://atominfo.ru",
-      "article_count": 55
+      "article_count": 62
     },
     {
       "status": "updated",
@@ -23,7 +23,7 @@
       "id": "rosatom",
       "name": "Росатом",
       "site": "https://rosatom.ru",
-      "article_count": 71
+      "article_count": 72
     },
     {
       "status": "updated",
@@ -59,6 +59,94 @@
     }
   ],
   "articles": [
+    {
+      "id": "a1f2858ef4a67bfe",
+      "title": "Candu Energy подготовит ТЭО для шестиблочной АЭС с реакторами CANDU в Турции",
+      "summary": "Компания Candu Energy Inc, входящая в состав компании AtkinsRealis (Канада), и турецкая государственная компания TUNAS подписали соглашение о переходе к новому этапу проработки проекта строительства АЭС.",
+      "url": "http://atominfo.ru/newsz10/a0158.htm",
+      "published_at": "2026-11-12T18:23:20Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "construction",
+      "language": "ru"
+    },
+    {
+      "id": "9a6b4ac88c48c457",
+      "title": "На энергоблоке №1 АЭС Lufeng установлен первый парогенератор",
+      "summary": "Первый из двух парогенераторов установлен в проектное положение на строящемся блоке №1 АЭС Lufeng (Луфэн, Китай) , сообщила компания China Nuclear Industry 23 Construction Company Limited (CNI23).",
+      "url": "http://atominfo.ru/newsz10/a0157.htm",
+      "published_at": "2026-11-12T18:12:13Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "construction",
+      "language": "ru"
+    },
+    {
+      "id": "32f18194fc3781f8",
+      "title": "Проект Rohil в Раджастхане вышел на стадию землеотвода",
+      "summary": "Подготовка к созданию первого уранового рудника в индийском штате Раджастхан продолжается.",
+      "url": "http://atominfo.ru/newsz10/a0156.htm",
+      "published_at": "2026-11-12T17:48:14Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "fuel",
+      "language": "ru"
+    },
+    {
+      "id": "1f80ce8ab542aa6e",
+      "title": "Моховце-4 выведен на 35 процентов",
+      "summary": "Пусковой блок \"Моховце-4\" (Словакия) с реактором ВВЭР-440 выведен на мощность 35%.",
+      "url": "http://atominfo.ru/newsz10/a0155.htm",
+      "published_at": "2026-11-12T17:19:36Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
+      "id": "f3532b98515367da",
+      "title": "Депутаты парламента Тайваня разошлись во мнениях по поводу референдума об атомной энергетике",
+      "summary": "Депутаты парламента Тайваня от правящей партии и оппозиции во время транслировавшихся по телевидению дебатов вступили в перепалку по поводу референдума об атомной энергетике, назначенного на 28 ноября 2026 года.",
+      "url": "http://atominfo.ru/newsz10/a0154.htm",
+      "published_at": "2026-11-12T17:03:24Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "554e07fcc4fa36e3",
+      "title": "Исследовательский реактор Groves-1 получил разрешение на неограниченную эксплуатацию",
+      "summary": "Министерство энергетики США выдало разрешение на неограниченную эксплуатацию исследовательскому реактору Groves компании Oklo.",
+      "url": "http://atominfo.ru/newsz10/a0153.htm",
+      "published_at": "2026-11-12T16:31:05Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
+      "id": "d484c70c513e8da4",
+      "title": "Создание глобальной молодёжной атомной платформы обсудили на Мировых атомных днях",
+      "summary": "На форуме прошла встреча представителей глобального молодёжного партнёрства «Росатома» - Совета Impact Team 2050 - с руководителями госкорпорации. Impact Team представила результаты национальных молодёжных ядерных диалогов, которые члены совета провели в 15 странах, объединив более 15 тысяч человек. Команда выступила с инициативой сформировать страновые национальные команды Impact Team 2050, а далее создать более крупные объединения – региональные молодёжные атомные платформы.",
+      "url": "https://t.me/rosatomru/7510",
+      "published_at": "2026-11-12T16:15:50Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "27ee2899ecd44f54",
+      "title": "МАГАТЭ выпустило обзорный документ по работам в области термояда",
+      "summary": "МАГАТЭ выпустило очередной обзор работ в области термояда (World Fusion Outlook) , которые ведутся сейчас в мире.",
+      "url": "http://atominfo.ru/newsz10/a0152.htm",
+      "published_at": "2026-11-12T16:00:30Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "international",
+      "language": "ru"
+    },
     {
       "id": "bce7323c8b4217d9",
       "title": "Старший помощник капитана атомного ледокола «Вайгач» Владимир Егоров выступил спикером в просветительском проекте Российского общества «Знание» «Грани смыслов».",
@@ -225,6 +313,17 @@
       "language": "en"
     },
     {
+      "id": "7735249018c3434a",
+      "title": "Mochovce 4's power increased to 35%",
+      "summary": "The power output of the fourth unit at Slovakia's Mochovce Nuclear Power Plant has been increased to 35% as the new reactor continues its commissioning process.",
+      "url": "https://www.world-nuclear-news.org/articles/mochovce-4s-power-increased-to-35",
+      "published_at": "2026-11-12T11:55:18Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
       "id": "443f0c871a08ed4e",
       "title": "Атомщики своими силами провели капремонт энергетического котла ТЭЦ",
       "summary": "Специалисты Липецкого филиала «РИР Энерго» завершили капитальный ремонт энергетического котла Липецкой ТЭЦ-2. Впервые с 2017 года сложнейшие восстановительные работы выполнены штатным персоналом станции без привлечения сторонних подрядных организаций. Проект стал частью комплексной стратегии компании по наращиванию собственных сервисных и ремонтных компетенций. Отказ от внешнего подряда при капремонте котла позволил сэкономить порядка 6 млн рублей. Средства инвестированы в модернизацию технической базы Липецкой ТЭЦ-2.",
@@ -311,6 +410,17 @@
       "source": "Росатом",
       "topic": "international",
       "language": "ru"
+    },
+    {
+      "id": "43a049dc36b98a90",
+      "title": "Bids invited for construction of UK prototype fusion plant",
+      "summary": "UK Fusion Energy is seeking tenders for five engineering contracts worth up to GBP115 million (USD152 million) covering the design, integration, testing and control of key systems needed to operate the planned STEP fusion power plant.",
+      "url": "https://www.world-nuclear-news.org/articles/bids-invited-for-construction-of-uk-prototype-fusion-plant",
+      "published_at": "2026-11-12T08:28:42Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "construction",
+      "language": "en"
     },
     {
       "id": "ebd6a777d5eb3a90",
@@ -3776,28 +3886,6 @@
       "source": "AtomInfo.Ru",
       "topic": "economy",
       "language": "ru"
-    },
-    {
-      "id": "e0e601170a628b75",
-      "title": "ASEAN nations assessing nuclear energy option",
-      "summary": "Southeast Asian countries are taking a pragmatic look at nuclear power as they seek to meet rapidly growing electricity demand, strengthen energy security and diversify their power generation mix, delegates heard at the World Nuclear Supply Chain conference in Manila.",
-      "url": "https://www.world-nuclear-news.org/articles/asean-nations-assessing-nuclear-energy-option",
-      "published_at": "2026-10-21T15:26:18Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
-      "topic": "international",
-      "language": "en"
-    },
-    {
-      "id": "9938ecbb683c1109",
-      "title": "Westinghouse invests USD1 billion in US LEU+ fuel plant",
-      "summary": "Westinghouse has announced a USD1 billion investment in the first new fleet-scale nuclear fuel factory to be built in the USA in more than 50 years, at the Columbia Fuel Fabrication Facility in Hopkins, South Carolina.",
-      "url": "https://www.world-nuclear-news.org/articles/westinghouse-invests-usd1-billion-in-us-leu-fuel-plant",
-      "published_at": "2026-10-21T14:36:59Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
-      "topic": "fuel",
-      "language": "en"
     },
     {
       "id": "d23a76893eb4d49c",
