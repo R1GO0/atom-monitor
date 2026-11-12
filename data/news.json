@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T00:42:21Z",
+  "generated_at": "2026-11-12T15:13:15Z",
   "sources": [
     {
       "status": "updated",
@@ -15,7 +15,7 @@
       "id": "atominfo",
       "name": "AtomInfo.Ru",
       "site": "http://atominfo.ru",
-      "article_count": 54
+      "article_count": 55
     },
     {
       "status": "updated",
@@ -23,7 +23,7 @@
       "id": "rosatom",
       "name": "Росатом",
       "site": "https://rosatom.ru",
-      "article_count": 65
+      "article_count": 71
     },
     {
       "status": "updated",
@@ -31,7 +31,7 @@
       "id": "rosenergoatom",
       "name": "Росэнергоатом",
       "site": "https://rosenergoatom.ru",
-      "article_count": 18
+      "article_count": 19
     },
     {
       "status": "updated",
@@ -47,7 +47,7 @@
       "id": "iaea",
       "name": "IAEA",
       "site": "https://www.iaea.org",
-      "article_count": 30
+      "article_count": 32
     },
     {
       "status": "updated",
@@ -55,20 +55,273 @@
       "id": "nucnet",
       "name": "NucNet",
       "site": "https://www.nucnet.org",
-      "article_count": 28
+      "article_count": 29
     }
   ],
   "articles": [
     {
-      "id": "98740c424e3daf95",
-      "title": "Dome installed at Pakistan's Chashma unit 5",
-      "summary": "The inner safety dome has been installed on the containment building of unit 5 at the Chashma nuclear power plant site in Pakistan.",
-      "url": "https://www.world-nuclear-news.org/articles/dome-installed-at-pakistans-chashma-unit-5",
-      "published_at": "2026-11-16T14:38:25Z",
+      "id": "bce7323c8b4217d9",
+      "title": "Старший помощник капитана атомного ледокола «Вайгач» Владимир Егоров выступил спикером в просветительском проекте Российского общества «Знание» «Грани смыслов».",
+      "summary": "👌 Подписывайтесь на «Росатом» | Оставляйте «бусты» #видео #Атомфлот",
+      "url": "https://t.me/rosatomru/7509",
+      "published_at": "2026-11-12T15:02:20Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "dd9f9a982976faf6",
+      "title": "Состоялась отчетно-выборная конференция первичной профсоюзной организации Приаргунского производственного горно-химического объединения",
+      "summary": "Отчетно-выборная конференция первичной профсоюзной организации Приаргунского производственного горно-химического объединения состоялась 10 ноября. В ее работе приняли участие 204 делегата от всех…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/12/169879",
+      "published_at": "2026-11-12T14:09:54Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "6856f18541c627f0",
+      "title": "AtkinsRéalis producing study for six-unit Candu plant in Turkey",
+      "summary": "AtkinsRéalis's Candu Energy Inc and state-owned Türkiye Nükleer Enerji Anonim Şirketi have signed a memorandum of agreement which includes a feasibility study for a potential 4.5 GW plant featuring up to six Candu reactors.",
+      "url": "https://www.world-nuclear-news.org/articles/atkinsrealis-producing-study-for-six-unit-candu-plant-in-turkey",
+      "published_at": "2026-11-12T14:05:57Z",
       "source_id": "world-nuclear-news",
       "source": "World Nuclear News",
       "topic": "reactors",
       "language": "en"
+    },
+    {
+      "id": "91b087592deed7ae",
+      "title": "«Соликамский магниевый завод» Росатома модернизировал систему газоочистки для снижения воздействия на окружающую среду",
+      "summary": "ОАО «Соликамский магниевый завод» завершило капитальный ремонт и замену ключевого технологического оборудования для снижения воздействия на окружающую среду. В рамках программы планового обновления…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/12/169876",
+      "published_at": "2026-11-12T13:59:12Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "886c50bf14f77b14",
+      "title": "Резидент ТОР «Заречный» компания «АК-ПРОФ» открыла инженерно-технический онлайн-справочник по алюминиевому профилю",
+      "summary": "Компания «АК-ПРОФ» запустила инженерно-технический справочник на своем сайте. Это не просто каталог, а рабочий инструмент для конструкторов, проектировщиков, технологов и снабженцев. В разделе…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/12/169877",
+      "published_at": "2026-11-12T13:57:01Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "b881a23288a47e3b",
+      "title": "На строящемся блоке № 5 АЭС «Чашма» в Пакистане установлен купол реакторного здания",
+      "summary": "Купол реакторного здания установлен в проектное положение на строящемся блоке «Чашма-5» в Пакистане. Об этом во вторник, 10 ноября 2026 года, сообщила канцелярия премьер-министра Пакистана. «Проект…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/12/169878",
+      "published_at": "2026-11-12T13:56:23Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
+      "id": "1fce72776acc9a3b",
+      "title": "IAEA Sees Commitment to Operational Safety at Unit 2 of Kori Nuclear Power Plant in Republic of Korea",
+      "summary": "",
+      "url": "http://www.iaea.org/newscenter/pressreleases/iaea-sees-commitment-to-operational-safety-at-unit-2-of-kori-nuclear-power-plant-in-republic-of-korea",
+      "published_at": "2026-11-12T13:44:00Z",
+      "source_id": "iaea",
+      "source": "IAEA",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "5eef2d129972be2e",
+      "title": "Машиностроительный дивизион «Росатома» обозначил факторы конкурентоспособности российской металлургии на выставке «Металл-Экспо 2026»",
+      "summary": "Глава Машиностроительного дивизиона «Росатома» Игорь Котов и руководители металлургических компаний обсудили перспективы российской металлургии и ключевые факторы конкурентоспособности отечественной…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/12/169872",
+      "published_at": "2026-11-12T13:40:43Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "88102ff8dfed386e",
+      "title": "«Росэнергоатом», Инжиниринговый дивизион и «ТИТАН-2» обсудили комплексный подход к ценообразованию и поставкам оборудования для Смоленской АЭС-2",
+      "summary": "На площадке сооружения Смоленской АЭС-2 состоялось очередное заседание оперативного штаба под председательством директора Смоленской АЭС Ивана Сидорова. Ключевой темой встречи представителей…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/12/169875",
+      "published_at": "2026-11-12T13:39:36Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "construction",
+      "language": "ru"
+    },
+    {
+      "id": "4cb69d774538bb1b",
+      "title": "В ОИЯИ обсудили перспективы сотрудничества с Казахстаном и академический обмен",
+      "summary": "Объединенный институт ядерных исследований посетил член Общественного совета Агентства Республики Казахстан по атомной энергии Дастан Елеукенов. Целью визита стало знакомство с деятельностью ОИЯИ и…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/12/169873",
+      "published_at": "2026-11-12T13:36:36Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "5916b450ab10116a",
+      "title": "Аналитическое агентство «Kept» оценило строительство тоннеля под Беринговым проливом между Чукоткой и Аляской в $205,4 млрд",
+      "summary": "Строительство тоннеля под Беринговым проливом, который должен соединить Россию и США, может обойтись в 205,4 млрд долларов. Такую оценку привели аналитики Kept. Сумма учитывает не только саму стройку…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/12/169870",
+      "published_at": "2026-11-12T13:32:53Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "construction",
+      "language": "ru"
+    },
+    {
+      "id": "8669f546305508f9",
+      "title": "ОИЯИ объявляет прием заявок на рабочее совещание «HybriLIT Workshop 2026»",
+      "summary": "С 26 по 27 ноября 2026 года в Лаборатории информационных технологий имени М. Г. Мещерякова ОИЯИ пройдет рабочее совещание «HybriLIT Workshop 2026». В центре внимания окажутся новые возможности…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/12/169871",
+      "published_at": "2026-11-12T13:30:43Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "6c2aa43e21545eb7",
+      "title": "ИТМО откроет Молодежную лабораторию оптических вычислений при финансовой поддержке Минобрнауки",
+      "summary": "Министерство науки и высшего образования РФ поддержало создание в ИТМО Молодежной лаборатории оптических вычислений. В ней физики будут создавать вычислители, которые обрабатывают информацию не…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/12/169868",
+      "published_at": "2026-11-12T13:17:05Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "economy",
+      "language": "ru"
+    },
+    {
+      "id": "b1f9f53fa4973358",
+      "title": "«Росатом» представил новые номинации на чемпионате «Хайтек»",
+      "summary": "Новые компетенции «Управление качеством», «Управление коммуникациями» и «Цифровое бережливое предприятие» разработали и апробировали на отраслевом чемпионате AtomSkills. На «Хайтеке» в них соревнуются представители 11 организаций. «Когда специалисты из разных отраслей и стран делятся тем, что уже работает, предприятия быстрее осваивают проверенные решения. Так мы вместе повышаем качество промышленной продукции и укрепляем доверие к ней», — сказал начальник управления качеством «Росатома» Леонид Летчфорд.",
+      "url": "https://t.me/rosatomru/7508",
+      "published_at": "2026-11-12T13:05:55Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "061d4b0f60b26033",
+      "title": "First steam generator installed at Lufeng unit 1",
+      "summary": "The first of two steam generators has been installed at unit 1 of the Lufeng nuclear power plant in China's Guangdong province, China Nuclear Industry 23 Construction Company Limited has announced.",
+      "url": "https://www.world-nuclear-news.org/articles/first-steam-generator-installed-at-lufeng-unit-1",
+      "published_at": "2026-11-12T12:03:39Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "construction",
+      "language": "en"
+    },
+    {
+      "id": "443f0c871a08ed4e",
+      "title": "Атомщики своими силами провели капремонт энергетического котла ТЭЦ",
+      "summary": "Специалисты Липецкого филиала «РИР Энерго» завершили капитальный ремонт энергетического котла Липецкой ТЭЦ-2. Впервые с 2017 года сложнейшие восстановительные работы выполнены штатным персоналом станции без привлечения сторонних подрядных организаций. Проект стал частью комплексной стратегии компании по наращиванию собственных сервисных и ремонтных компетенций. Отказ от внешнего подряда при капремонте котла позволил сэкономить порядка 6 млн рублей. Средства инвестированы в модернизацию технической базы Липецкой ТЭЦ-2.",
+      "url": "https://t.me/rosatomru/7507",
+      "published_at": "2026-11-12T11:40:18Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "98faba0ea4958600",
+      "title": "Росатом впервые представил компетенцию «Управление коммуникациями» в национальном зачете на чемпионате профмастерства «Хайтек»",
+      "summary": "Благодаря масштабированию своего статуса до национального уровня, компетенция объединила участников из ВУЗов и крупных промышленных государственных компаний. Участники соревнуются в оперативном мониторинге и анализе инфополя, разработке коммуникационной стратегии и проектов, промт-инжениринге, разработке визуальных продуктов и pr- сопровождения наукоёмких инженерных проектов.",
+      "url": "https://t.me/rosatomru/7506",
+      "published_at": "2026-11-12T11:34:08Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "11c7bbf91ba1ef5b",
+      "title": "US test reactor cleared for operations",
+      "summary": "Oklo's Groves Isotope Test Reactor has been cleared for unrestricted operations by the US Department of Energy.",
+      "url": "https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations",
+      "published_at": "2026-11-12T11:30:09Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "98c06a0b3a563b63",
+      "title": "На АЭС «Аккую» (Турция) протестировали главный защитный барьер первого энергоблока",
+      "summary": "Завершены испытания герметичной оболочки здания реактора на прочность и герметичность. Проверка шла непрерывно 8 суток. Давление воздуха внутри гермооболочки постепенно повышали, на пике на каждый квадратный метр поверхности оболочки будто давил груз массой около 47 тонн. Затем давление также поэтапно снижали. На всех этапах специалисты контролировали состояние оболочки: возникающие в ней напряжения, изменения формы и размеров под нагрузкой. «Мы успешно протестировали главный защитный барьер энергоблока.",
+      "url": "https://t.me/rosatomru/7503",
+      "published_at": "2026-11-12T11:17:05Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
+      "id": "cb2535f1237aadb3",
+      "title": "На пути к первому бетону Смоленской АЭС-2",
+      "summary": "На площадке будущих блоков ВВЭР-оптим провели очередной штаб, скоординировали действия по подготовке к первому бетону в 2027 году. Сейчас генподрядчик «ТИТАН-2» закладывает инфраструктуру для новых энергоблоков – строительно-монтажную базу, а это 124 объекта. На строительстве крупнейшего энергообъекта Смоленской области в ближайшее время будут сосредоточены большие силы.",
+      "url": "https://t.me/rosenergoatom/3839",
+      "published_at": "2026-11-12T10:58:20Z",
+      "source_id": "rosenergoatom",
+      "source": "Росэнергоатом",
+      "topic": "construction",
+      "language": "ru"
+    },
+    {
+      "id": "52d3887ae5d7310d",
+      "title": "OPG Begins ‘Comprehensive Assessment’ As Canada SMR Project Faces Delays And Budget Overruns",
+      "summary": "The first of four BWRX-300 small modular reactors (SMRs) under construction at the Darlington nuclear site in Canada will not be on schedule or to budget, Ontario Power Generation (OPG) has said. OPG said in its 2026 third quarter financial results that it had previously noted that the Darlington New Nuclear Project (DNNP) is subject to “inherent risks and uncertainties that could affect project cost and schedule”.",
+      "url": "https://www.nucnet.org/news/opg-begins-comprehensive-assessment-as-canada-smr-project-faces-delays-and-budget-overruns-11-4-2026",
+      "published_at": "2026-11-12T09:09:41Z",
+      "source_id": "nucnet",
+      "source": "NucNet",
+      "topic": "construction",
+      "language": "en"
+    },
+    {
+      "id": "3461fb30c431900c",
+      "title": "World Fusion Outlook 2026: AI, the US $80 Billion Financing Challenge and Future Deployment Scenarios",
+      "summary": "",
+      "url": "http://www.iaea.org/newscenter/news/world-fusion-outlook-2026-ai-the-us-80-billion-financing-challenge-and-future-deployment-scenarios",
+      "published_at": "2026-11-12T09:00:00Z",
+      "source_id": "iaea",
+      "source": "IAEA",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "d4cdf95898bd7429",
+      "title": "Алексей Лихачев открыл Молодежный день Мировых атомных дней в Турции",
+      "summary": "В Анталье, Турция, состоялось открытие Молодежного дня Мировых атомных дней (англ. World Atomic Days, WAD). Участников приветствовал генеральный директор госкорпорации «Росатом» Алексей Лихачев. В своем выступлении глава «Росатома» обозначил роль молодых специалистов в реализации будущих решений атомной отрасли. 👌 Подписывайтесь на «Росатом» | Оставляйте «бусты» #цитата #АлексейЛихачев #WAD",
+      "url": "https://t.me/rosatomru/7502",
+      "published_at": "2026-11-12T08:58:34Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "ebd6a777d5eb3a90",
+      "title": "Ростовская АЭС в 2027 году введёт в эксплуатацию вентиляторные градирни для энергоблока №4",
+      "summary": "Ростовская АЭС в 2027 году введёт в эксплуатацию комплекс вентиляторных градирен для энергоблока №4.",
+      "url": "http://atominfo.ru/newsz10/a0149.htm",
+      "published_at": "2026-11-12T06:58:15Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "reactors",
+      "language": "ru"
     },
     {
       "id": "915b7bfd8b02f93b",
@@ -102,6 +355,17 @@
       "source": "Росатом",
       "topic": "international",
       "language": "ru"
+    },
+    {
+      "id": "98740c424e3daf95",
+      "title": "Dome installed at Pakistan's Chashma unit 5",
+      "summary": "The inner safety dome has been installed on the containment building of unit 5 at the Chashma nuclear power plant site in Pakistan.",
+      "url": "https://www.world-nuclear-news.org/articles/dome-installed-at-pakistans-chashma-unit-5",
+      "published_at": "2026-11-11T16:38:25Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "reactors",
+      "language": "en"
     },
     {
       "id": "45b984e16107c5e6",
@@ -2084,28 +2348,6 @@
       "language": "ru"
     },
     {
-      "id": "b70335efd8c2eaa6",
-      "title": "«Росатом» представил разработки для электротранспорта и энергетики на выставке «Energy Expo» в Беларуси",
-      "summary": "Особое внимание в экспозиции было уделено комплексным инновационным решениям в сфере развития электромобильности. Госкорпорация представила первый серийный российский электромобиль «Атом», на…",
-      "url": "https://www.atomic-energy.ru/news/2026/11/02/169623",
-      "published_at": "2026-11-02T13:32:09Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
-      "id": "886ad973debb0478",
-      "title": "Проект международного кампуса «Обнинск Тех» получил федеральную поддержку Минобрнауки России",
-      "summary": "Кампусная заявка проекта «Обнинск Тех» победила в конкурсе Минобрнауки России в рамках федерального проекта «Создание сети современных кампусов» национального проекта «Молодёжь и дети». Всего в…",
-      "url": "https://www.atomic-energy.ru/news/2026/11/02/169624",
-      "published_at": "2026-11-02T13:24:59Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
       "id": "c84679cfd5a4f866",
       "title": "⚡️ Полтриллиона киловатт-часов — на Ростовской АЭС",
       "summary": "Такой объем энергии 4 энергоблока станции выработали с 2001 года. За этой цифрой — 25 лет работы и вклад в надежное энергоснабжение Юга России. Сегодня Ростовская АЭС — крупнейшее энергетическое предприятие региона. На ее долю приходится более 70% выработки электроэнергии Ростовской области и около 30% генерации Объединенной энергосистемы Юга. Поздравляем коллектив станции с важным производственным достижением!",
@@ -2128,17 +2370,6 @@
       "language": "en"
     },
     {
-      "id": "78debd997be70960",
-      "title": "В Нововоронеже состоялся первый открытый молодежный «ЭКОбатл в Атомграде»",
-      "summary": "В Культурно-досуговом центре г. Нововоронежа сотрудники Нововоронежской АЭС (Электроэнергетический дивизион госкорпорации «Росатом») и представители Воронежского областного отделения Всероссийского…",
-      "url": "https://www.atomic-energy.ru/news/2026/11/02/169554",
-      "published_at": "2026-11-02T13:06:23Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
       "id": "9ebd428ed2743096",
       "title": "Uganda and Russia look to move ahead with nuclear project",
       "summary": "A roadmap setting out cooperation in the peaceful uses of nuclear energy, as part of work towards a nuclear power plant, has been signed by Russia and Uganda.",
@@ -2148,39 +2379,6 @@
       "source": "World Nuclear News",
       "topic": "international",
       "language": "en"
-    },
-    {
-      "id": "c1b64a8209b0ae0d",
-      "title": "«Росатом» оценит национальную ядерную инфраструктуру Уганды для дальнейшего определения площадки сооружения АЭС «Накасонгола»",
-      "summary": "«На полях» третьего саммита «Россия – Африка» была подписана дорожная карта сотрудничества между госкорпорацией «Росатом» и Министерством энергетики и минеральных ресурсов Республики Уганда. Документ…",
-      "url": "https://www.atomic-energy.ru/news/2026/11/02/169621",
-      "published_at": "2026-11-02T11:52:55Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "construction",
-      "language": "ru"
-    },
-    {
-      "id": "c0cbebaa35d3d03e",
-      "title": "Нововоронежский «ИнтерПолярис» подготовил к испытаниям новый механический фильтр для атомного ледокола",
-      "summary": "На производстве кипит работа, и среди множества оборудования стоят уже готовые механические фильтры для ОИАЭ. Применение фильтров охватывает узлы конденсатно-питательной системы ПТУ и системы…",
-      "url": "https://www.atomic-energy.ru/news/2026/11/02/169618",
-      "published_at": "2026-11-02T11:35:39Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
-      "id": "8ebe8216ac7747b7",
-      "title": "Резидент ТОР «Заречный» завод «Импульс Атом» запатентовал устройство для автоматической смены инструментов на металлорежущих станках",
-      "summary": "Пензенский завод «Импульс Атом» получил патент на собственную инновационную разработку — интеллектуальный комплекс для автоматизации производственных процессов. Официальный документ на модель за…",
-      "url": "https://www.atomic-energy.ru/news/2026/11/02/169615",
-      "published_at": "2026-11-02T11:22:22Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "international",
-      "language": "ru"
     },
     {
       "id": "cdd610e5dac6f9ec",
@@ -2194,39 +2392,6 @@
       "language": "ru"
     },
     {
-      "id": "45d0d9b6fa42c0a7",
-      "title": "«РусГидро» обсуждает с Республикой Бурунди сотрудничество в геотермальной энергетике",
-      "summary": "«Русгидро» провела переговоры с Республикой Бурунди о сотрудничестве в сфере геотермальной энергетики. Об этом сообщил зам. генерального директора по проектному инжинирингу, устойчивому развитию и…",
-      "url": "https://www.atomic-energy.ru/news/2026/11/02/169620",
-      "published_at": "2026-11-02T10:52:46Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
-      "id": "3d52b9dd584242c1",
-      "title": "«Росатом» принимает заявки на конкурс проектов в области корпоративной социальной ответственности и волонтерства до 15 ноября",
-      "summary": "Продолжается прием заявок на отраслевой конкурс проектов в области корпоративной социальной ответственности (КСО) и волонтерства имени Анатолия Александрова. К участию приглашаются работники…",
-      "url": "https://www.atomic-energy.ru/news/2026/11/02/169617",
-      "published_at": "2026-11-02T10:40:20Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
-      "id": "45752f360dbf0253",
-      "title": "Музей «Атом» на ВДНХ 7 ноября проведет Главный научный марафон в честь своего трехлетия",
-      "summary": "7 ноября музей «Атом» на ВДНХ отметит свой третий день рождения проведением Главного научного марафона, который объединит ученых, экспертов атомной отрасли, представителей вузов и всех, кто…",
-      "url": "https://www.atomic-energy.ru/news/2026/11/02/169616",
-      "published_at": "2026-11-02T10:34:03Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
       "id": "f135ca6b525034bf",
       "title": "Наука для здоровья: репортаж с нового предприятия «Росатома» по производству препаратов для ядерной медицины",
       "summary": "В Калужской области в конце августа в опытно-промышленную эксплуатацию запущены две первые технологические линии нового завода по производству радиофармацевтических лекарственных препаратов, который «Росатом» создает в соответствии с международными стандартами фармацевтики GMP (Good Manufacturing Practice). Рассказываем об этом уникальном производственном комплексе и о том, как его продукция будет помогать в диагностике и лечении опасных заболеваний. 👌 Подписывайтесь на «Росатом» | Оставляйте «бусты» #Лонгрид #РосатомНаука #УченыеРосатома",
@@ -2234,17 +2399,6 @@
       "published_at": "2026-10-31T07:12:35Z",
       "source_id": "rosatom",
       "source": "Росатом",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
-      "id": "425fd380651111ca",
-      "title": "Завод «СибГазСтройДеталь» успешно прошел две ключевые ресертификации Таможенного союза",
-      "summary": "В конце октября 2026 года завод «СибГазСтройДеталь» прошёл ресертификацию и получил две декларации о соответствии требованиям технических регламентов Таможенного союза: ТР ТС 032/2013 и ТР ТС 010…",
-      "url": "https://www.atomic-energy.ru/news/2026/10/30/169581",
-      "published_at": "2026-10-30T17:53:35Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
       "topic": "international",
       "language": "ru"
     },
@@ -3657,28 +3811,6 @@
       "language": "ru"
     },
     {
-      "id": "9864f787cd2983a5",
-      "title": "The Nuclear Company proposes 6.6 GW Kentucky project",
-      "summary": "The Nuclear Company has outlined plans for an energy campus in Lewis County, Kentucky, which could feature up to six AP1000 reactors - this would make its 6.6 GW capacity larger than any current nuclear power plant in the USA.",
-      "url": "https://www.world-nuclear-news.org/articles/nuclear-company-proposes-66-gw-kentucky-project",
-      "published_at": "2026-10-21T13:44:17Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
-      "topic": "reactors",
-      "language": "en"
-    },
-    {
-      "id": "e27714a8254702c7",
-      "title": "IAEA says Barakah drone-strike response was effective",
-      "summary": "An International Atomic Energy Agency mission to the United Arab Emirates has said that effective action was taken following the loss of off-site power to Barakah Nuclear Power Plant's unit 3 following a drone strike in May which caused a fire in a generator located outside the inner perimeter of the plant.",
-      "url": "https://www.world-nuclear-news.org/articles/iaea-says-barakah-drone-strike-response-was-effective",
-      "published_at": "2026-10-21T12:16:11Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
-      "topic": "reactors",
-      "language": "en"
-    },
-    {
       "id": "865e38eb3831fb47",
       "title": "Westinghouse To Invest $1 Billion In New US Higher Enrichment Nuclear Fuel Facility",
       "summary": "Westinghouse Electric Company has announced an investment of approximately $1bn (€890m) in a new manufacturing facility for low-enriched uranium plus (LEU+) nuclear fuel at its existing Columbia fuel fabrication site in South Carolina, a statement said. The company said construction has begun at the site near Hopkins. Production is scheduled to start in 2030.",
@@ -3699,17 +3831,6 @@
       "source": "Росэнергоатом",
       "topic": "international",
       "language": "ru"
-    },
-    {
-      "id": "405bb8f7c7835f21",
-      "title": "Philippines advances plans for nuclear power as energy demand rises",
-      "summary": "The Philippines is working to establish the policy, regulatory and commercial foundations for its first nuclear power project, with a target of 1.2 GW of capacity by 2032 and a longer-term ambition to reach 4.8 GW by 2050, the World Nuclear Supply Chain conference in Manila heard.",
-      "url": "https://www.world-nuclear-news.org/articles/philippines-advances-plans-for-nuclear-power-as-energy-demand-rises",
-      "published_at": "2026-10-20T16:15:21Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
-      "topic": "safety",
-      "language": "en"
     },
     {
       "id": "c1864978d73a45eb",
