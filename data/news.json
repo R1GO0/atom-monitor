@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T14:30:35Z",
+  "generated_at": "2026-11-12T00:42:21Z",
   "sources": [
     {
       "status": "updated",
@@ -15,7 +15,7 @@
       "id": "atominfo",
       "name": "AtomInfo.Ru",
       "site": "http://atominfo.ru",
-      "article_count": 51
+      "article_count": 54
     },
     {
       "status": "updated",
@@ -23,7 +23,7 @@
       "id": "rosatom",
       "name": "Росатом",
       "site": "https://rosatom.ru",
-      "article_count": 63
+      "article_count": 65
     },
     {
       "status": "updated",
@@ -59,6 +59,94 @@
     }
   ],
   "articles": [
+    {
+      "id": "98740c424e3daf95",
+      "title": "Dome installed at Pakistan's Chashma unit 5",
+      "summary": "The inner safety dome has been installed on the containment building of unit 5 at the Chashma nuclear power plant site in Pakistan.",
+      "url": "https://www.world-nuclear-news.org/articles/dome-installed-at-pakistans-chashma-unit-5",
+      "published_at": "2026-11-16T14:38:25Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "915b7bfd8b02f93b",
+      "title": "Чашма-5 - установлен купол",
+      "summary": "Купол реакторного здания установлен в проектное положение на строящемся блоке Chasnupp-5 (C-5, Чашма-5) в Пакистане.",
+      "url": "http://atominfo.ru/newsz10/a0148.htm",
+      "published_at": "2026-11-11T17:31:49Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
+      "id": "8cede844e09a23d0",
+      "title": "Хищение партии медицинских радиоизотопов в Мексике",
+      "summary": "Международный канал информирования о ядерных и радиационных инцидентах, поддерживаемый МАГАТЭ, сообщил об очередном случае хищения радиоактивных материалов в Мексике.",
+      "url": "http://atominfo.ru/newsz10/a0146.htm",
+      "published_at": "2026-11-11T16:50:09Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "safety",
+      "language": "ru"
+    },
+    {
+      "id": "2c5c6cb4e9255c98",
+      "title": "На химическом факультете Московского государственного университета им. Ломоносова при поддержке «Росатома» прошла IV Международная школа по экологии.",
+      "summary": "👌 Подписывайтесь на «Росатом» | Оставляйте «бусты» #цитата #РосатомЭкологическиеРешения",
+      "url": "https://t.me/rosatomru/7501",
+      "published_at": "2026-11-11T16:41:19Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "45b984e16107c5e6",
+      "title": "МАГАТЭ выпустило документ о новых подходах в деле привлечения средств для атомной энергетики",
+      "summary": "МАГАТЭ выпустило документ о новых подходах в деле привлечения средств для атомной энергетики.",
+      "url": "http://atominfo.ru/newsz10/a0145.htm",
+      "published_at": "2026-11-11T16:34:27Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "47465351d7d60ade",
+      "title": "OPG set to revise timeline and cost of first SMR unit",
+      "summary": "The first of four BWRX-300 small modular reactors under construction at the Darlington New Nuclear Project will not be completed within the previously planned timeline or cost, Ontario Power Generation has said.",
+      "url": "https://www.world-nuclear-news.org/articles/opg-to-revise-timeline-and-cost-of-first-smr-unit",
+      "published_at": "2026-11-11T16:03:55Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "construction",
+      "language": "en"
+    },
+    {
+      "id": "703a8e7eeba51ddd",
+      "title": "Общая экономия затрат предприятий атомной отрасли на энергоресурсы за 2021–2025 годы. Предприятия госкорпорации модернизируют оборудование, внедряют энергосберегающие технологии и цифровые системы управления…",
+      "summary": "👌 Подписывайтесь на «Росатом» | Оставляйте «бусты» #цифра",
+      "url": "https://t.me/rosatomru/7500",
+      "published_at": "2026-11-11T15:27:11Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "dd94c0cff5a5eac2",
+      "title": "Saltfoss стремится получить лицензию в США на плавучую электростанцию",
+      "summary": "Компания Saltfoss, разработчик плавучих атомных электростанций на основе реакторов с расплавом солей, уведомила Комиссию по ядерному регулированию США (NRC) о своем намерении начать предварительное…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/11/169844",
+      "published_at": "2026-11-11T14:22:55Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "reactors",
+      "language": "ru"
+    },
     {
       "id": "3edd9b757529d4b9",
       "title": "На втором энергоблоке АЭС «Саньао» завершена первоначальная загрузка ядерного топлива",
@@ -148,6 +236,17 @@
       "language": "ru"
     },
     {
+      "id": "6971c84efefaf44c",
+      "title": "Russia proposes carbon credits framework for SMRs",
+      "summary": "An international methodology to allow small modular reactors to qualify for carbon credits under the terms of the Paris Agreement has been proposed to the UN's climate/COP secretariat by Russia's state nuclear corporation Rosatom.",
+      "url": "https://www.world-nuclear-news.org/articles/russia-proposes-carbon-credits-framework-for-smrs",
+      "published_at": "2026-11-11T12:54:41Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
       "id": "dfac208cda95bebb",
       "title": "«Росатом» поделился практическим опытом реабилитации территорий и переработки отходов на IV Международной школе по экологии МГУ",
       "summary": "С 9 по 11 ноября на базе химического факультета Московского государственного университета имени М. В. Ломоносова прошла IV Международная школа по экологии, организованная при поддержке госкорпорации…",
@@ -214,9 +313,20 @@
       "language": "ru"
     },
     {
+      "id": "0f353fa187cd5ada",
+      "title": "IAEA reviews Jordan's nuclear regulatory framework",
+      "summary": "Jordan has a \"well-established regulatory framework for nuclear and radiation safety\", an International Atomic Energy Agency mission has said, while also suggesting further enhancements in line with international safety standards.",
+      "url": "https://www.world-nuclear-news.org/articles/iaea-reviews-jordans-nuclear-regulatory-framework",
+      "published_at": "2026-11-11T08:49:55Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "safety",
+      "language": "en"
+    },
+    {
       "id": "8b9ee519c7df3bc9",
       "title": "«Росатом» подтвердил статус одного из ведущих работодателей России",
-      "summary": "Госкорпорация в третий раз подряд вошла в первую группу рейтинга российских работодателей РБК. В нее попадают компании, набравшие наивысшие баллы по пяти группам критериев: сотрудники и условия труда, эффективность бизнеса и инновации, социальная ответственность, деловая репутация, а также мнение самих сотрудников. Участники рейтинга РБК этого года - 361 компания, обеспечивающая рабочими местами более 5 млн человек. Также «Росатом» в пятый раз подряд вошел в «платиновую» категорию — высшую в рейтинге.",
+      "summary": "Госкорпорация в третий раз подряд вошла в первую группу рейтинга российских работодателей РБК. В нее попадают компании, набравшие наивысшие баллы по пяти группам критериев: сотрудники и условия труда, эффективность бизнеса и инновации, социальная ответственность, деловая репутация, а также мнение самих сотрудников. Участники рейтинга РБК этого года - 361 компания, обеспечивающая рабочими местами более 5 млн человек.",
       "url": "https://t.me/rosatomru/7498",
       "published_at": "2026-11-11T08:38:01Z",
       "source_id": "rosatom",
@@ -2150,17 +2260,6 @@
       "language": "en"
     },
     {
-      "id": "b5ea1d75ec2b12b6",
-      "title": "VI Конференция по математическому моделированию и ИИ представила новые технологические подходы к анализу промышленных объектов",
-      "summary": "28 октября в Москве, в Конгресс-центре МГТУ им. Н.Э. Баумана, прошла VI Конференция по математическому моделированию и искусственному интеллекту, в составе Международного конгресса «Русский инженер».…",
-      "url": "https://www.atomic-energy.ru/news/2026/10/30/169580",
-      "published_at": "2026-10-30T17:39:44Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
       "id": "2eb892284c27400e",
       "title": "Centrus ships first centrifuge for Piketon plant expansion",
       "summary": "Centrus Energy's manufacturing plant in Oak Ridge, Tennessee, has despatched the first new centrifuge as part of the company's multibillion-dollar expansion of its uranium enrichment capacity in Piketon, Ohio.",
@@ -3613,28 +3712,6 @@
       "language": "en"
     },
     {
-      "id": "44a436ecc776fdc1",
-      "title": "Aura aims for final investment decision on Mauritania project this year",
-      "summary": "Aura Energy Limited says it is targeting a final investment decision by the end of the year for the Tiris uranium project in Mauritania as a newly released bankable feasibility study confirms the project's economics. But Deep Yellow says current equity market conditions don't support a final investment decision for its Tumas project in Namibia during the current quarter.",
-      "url": "https://www.world-nuclear-news.org/articles/aura-aims-fid-mauritania-project-this-year",
-      "published_at": "2026-10-20T14:24:16Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
-      "topic": "fuel",
-      "language": "en"
-    },
-    {
-      "id": "b0882c6e95c7f207",
-      "title": "Indiana considering 6 GW Candu nuclear project",
-      "summary": "AtkinsRéalis Group, Hoosier Energy Rural Electric Cooperative and the State of Indiana in the US are to explore a potential project featuring up to eight Candu nuclear power units, with a combined 6 GW capacity.",
-      "url": "https://www.world-nuclear-news.org/articles/indiana-considering-6-gw-candu-nuclear-project",
-      "published_at": "2026-10-20T13:54:28Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
-      "topic": "international",
-      "language": "en"
-    },
-    {
       "id": "c1864978d73a45eb",
       "title": "Atoms4Food: Protecting Biodiversity",
       "summary": "",
@@ -3657,17 +3734,6 @@
       "language": "ru"
     },
     {
-      "id": "fa01ffe5e172d48a",
-      "title": "Korean concern over proposed 'Made in EU' act's impact on nuclear power projects",
-      "summary": "Progress on the Dukovany new nuclear project is continuing on schedule, but South Korea has concerns about the potential impact of the European Union's proposed Industrial Accelerator Act on non-member countries participating in the EU's nuclear power market.",
-      "url": "https://www.world-nuclear-news.org/articles/korean-concerns-over-proposed-made-in-eu-acts-impact-nuclear-power-projects",
-      "published_at": "2026-10-20T11:56:26Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
-      "topic": "economy",
-      "language": "en"
-    },
-    {
       "id": "9882a7bda8db4871",
       "title": "Nuclear Industry Calls For Concrete Action In EU Post-2030 Energy Framework",
       "summary": "Senior executives from Europe’s nuclear industry have called on the European Commission to take “concrete steps” to support nuclear investments under the EU’s post-2030 energy and climate framework, including a common clean energy target covering both nuclear power and renewables. In a letter dated 19 October to European Commission president Ursula von der Leyen, the executives urged the EU to move away from technology-specific targets and ensure that all low-carbon energy sources receive equal policy support.",
@@ -3687,17 +3753,6 @@
       "source_id": "iaea",
       "source": "IAEA",
       "topic": "international",
-      "language": "en"
-    },
-    {
-      "id": "d6b4c24523c41726",
-      "title": "Joint venture to produce HALEU in South Africa",
-      "summary": "A joint venture between ASP Isotopes Inc subsidiary Quantum Leap Energy and South African state-owned nuclear energy corporation Necsa will develop, finance, build and operate a test bench and commercial-scale facility for the production of high-assay low-enriched uranium at Necsa's Pelindaba site.",
-      "url": "https://www.world-nuclear-news.org/articles/joint-ventureto-produce-haleu-in-south-africa",
-      "published_at": "2026-10-19T13:59:40Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
-      "topic": "fuel",
       "language": "en"
     },
     {
