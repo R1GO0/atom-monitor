@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T06:20:31Z",
+  "generated_at": "2026-11-14T17:59:43Z",
   "sources": [
     {
       "status": "updated",
@@ -15,7 +15,7 @@
       "id": "atominfo",
       "name": "AtomInfo.Ru",
       "site": "http://atominfo.ru",
-      "article_count": 72
+      "article_count": 76
     },
     {
       "status": "updated",
@@ -23,7 +23,7 @@
       "id": "rosatom",
       "name": "Росатом",
       "site": "https://rosatom.ru",
-      "article_count": 77
+      "article_count": 78
     },
     {
       "status": "updated",
@@ -47,7 +47,7 @@
       "id": "iaea",
       "name": "IAEA",
       "site": "https://www.iaea.org",
-      "article_count": 33
+      "article_count": 34
     },
     {
       "status": "updated",
@@ -59,6 +59,72 @@
     }
   ],
   "articles": [
+    {
+      "id": "827d646ccdd1f78e",
+      "title": "Update 375 – IAEA Director General Statement on Situation in Ukraine",
+      "summary": "",
+      "url": "http://www.iaea.org/newscenter/pressreleases/update-375-iaea-director-general-statement-on-situation-in-ukraine",
+      "published_at": "2026-11-14T09:30:00Z",
+      "source_id": "iaea",
+      "source": "IAEA",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "f293d37703bdd450",
+      "title": "Oklo и Centrus заключили окончательные контракты на поставку урана HALEU для малых реакторов Aurora",
+      "summary": "Компания Oklo подписала с компанией Centrus Energy многолетние контракты на поставку урана повышенного обогащения HALEU.",
+      "url": "http://atominfo.ru/newsz10/a0173.htm",
+      "published_at": "2026-11-14T09:19:45Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
+      "id": "12bf0723b13e546f",
+      "title": "Новая партия ОЯТ из Нидерландов доставлена во Францию",
+      "summary": "Партия отработавшего ядерного топлива массой 8,6 тонны, отправленная из Нидерландов 9 ноября, прибыла на предприятие La Hague (Ла-Аг) французской группы Orano для переработки.",
+      "url": "http://atominfo.ru/newsz10/a0172.htm",
+      "published_at": "2026-11-14T09:09:18Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "fuel",
+      "language": "ru"
+    },
+    {
+      "id": "a0c63affd1c42f20",
+      "title": "Численность персонала Росатома на бушерской площадке доведут до 300 человек",
+      "summary": "\"Росатом\" намерен в ближайшее время довести численность своего персонала на площадке АЭС \"Бушер\" (Иран) до 300 человек.",
+      "url": "http://atominfo.ru/newsz10/a0171.htm",
+      "published_at": "2026-11-14T08:47:00Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "construction",
+      "language": "ru"
+    },
+    {
+      "id": "be1242c46aedeee3",
+      "title": "Венгрия планирует завершить аудит проекта по строительству АЭС Пакш-2 до конца 2026 года",
+      "summary": "Венгерская сторона планирует завершить аудит проекта строительства АЭС \"Пакш-2\" до конца 2026 года.",
+      "url": "http://atominfo.ru/newsz10/a0170.htm",
+      "published_at": "2026-11-14T08:43:50Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "construction",
+      "language": "ru"
+    },
+    {
+      "id": "259eca98f1a00bb4",
+      "title": "Мировые атомные дни стартовали в Турции с молодежной повестки. Программа объединила 250 молодых людей из 35 стран. Смотрите, как это было.",
+      "summary": "👌 Подписывайтесь на «Росатом» | Оставляйте «бусты» #видео #WAD",
+      "url": "https://t.me/rosatomru/7517",
+      "published_at": "2026-11-14T07:59:33Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "international",
+      "language": "ru"
+    },
     {
       "id": "689a287fab3d02e5",
       "title": "ASNR ввела в эксплуатацию исследовательские установки для изучения пассивных систем охлаждения на площадке Кадараш",
