@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T17:59:43Z",
+  "generated_at": "2026-11-14T22:23:51Z",
   "sources": [
     {
       "status": "updated",
@@ -50,8 +50,8 @@
       "article_count": 34
     },
     {
-      "status": "updated",
-      "error": "",
+      "status": "cached",
+      "error": "The read operation timed out; HTTP Error 404: Not Found",
       "id": "nucnet",
       "name": "NucNet",
       "site": "https://www.nucnet.org",
