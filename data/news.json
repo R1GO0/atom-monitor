@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T22:23:51Z",
+  "generated_at": "2026-11-15T06:30:26Z",
   "sources": [
     {
       "status": "updated",
@@ -10,8 +10,8 @@
       "article_count": 80
     },
     {
-      "status": "updated",
-      "error": "",
+      "status": "cached",
+      "error": "timed out",
       "id": "atominfo",
       "name": "AtomInfo.Ru",
       "site": "http://atominfo.ru",
@@ -50,8 +50,8 @@
       "article_count": 34
     },
     {
-      "status": "cached",
-      "error": "The read operation timed out; HTTP Error 404: Not Found",
+      "status": "updated",
+      "error": "",
       "id": "nucnet",
       "name": "NucNet",
       "site": "https://www.nucnet.org",
