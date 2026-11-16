@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T18:50:16Z",
+  "generated_at": "2026-11-16T06:27:40Z",
   "sources": [
     {
       "status": "updated",
@@ -10,8 +10,8 @@
       "article_count": 80
     },
     {
-      "status": "updated",
-      "error": "",
+      "status": "cached",
+      "error": "timed out",
       "id": "atominfo",
       "name": "AtomInfo.Ru",
       "site": "http://atominfo.ru",
