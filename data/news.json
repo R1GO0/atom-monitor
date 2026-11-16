@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-11-16T06:27:40Z",
+  "generated_at": "2026-11-16T22:00:06Z",
   "sources": [
     {
-      "status": "updated",
-      "error": "",
+      "status": "cached",
+      "error": "Remote end closed connection without response",
       "id": "atomic-energy",
       "name": "Атомная энергия 2.0",
       "site": "https://www.atomic-energy.ru",
       "article_count": 80
     },
     {
-      "status": "cached",
-      "error": "timed out",
+      "status": "updated",
+      "error": "",
       "id": "atominfo",
       "name": "AtomInfo.Ru",
       "site": "http://atominfo.ru",
-      "article_count": 79
+      "article_count": 80
     },
     {
       "status": "updated",
@@ -23,7 +23,7 @@
       "id": "rosatom",
       "name": "Росатом",
       "site": "https://rosatom.ru",
-      "article_count": 79
+      "article_count": 80
     },
     {
       "status": "updated",
@@ -55,10 +55,164 @@
       "id": "nucnet",
       "name": "NucNet",
       "site": "https://www.nucnet.org",
-      "article_count": 29
+      "article_count": 30
     }
   ],
   "articles": [
+    {
+      "id": "64a1ef4481188a96",
+      "title": "HME заявила о планах по строительству разделительного завода в Нью-Мексико",
+      "summary": "Компания Heavy Metal Energy (HME) 16 октября 2026 года направила в комиссию по ядерному регулированию (NRC) США письмо о намерениях получить лицензию на объект по извлечению урана и разделению изотопов.",
+      "url": "http://atominfo.ru/newsz10/a0182.htm",
+      "published_at": "2026-11-16T17:58:10Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "construction",
+      "language": "ru"
+    },
+    {
+      "id": "be66a1b62e912614",
+      "title": "Низкие цены на электроэнергию могут повлиять на финансирование программы EPR2 во Франции",
+      "summary": "Французская государственная аудиторская служба, Счётная палата (Cour des Comptes) , заявила, что компания EDF может столкнуться с трудностями при финансировании планируемого строительства шести блоков с реакторами EPR2.",
+      "url": "http://atominfo.ru/newsz10/a0181.htm",
+      "published_at": "2026-11-16T17:38:09Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "construction",
+      "language": "ru"
+    },
+    {
+      "id": "a2c2bddf59468859",
+      "title": "Blykalla заключила соглашение с URENCO на поставку урана HALEU для первого коммерческого реактора с свинцовым теплоносителем",
+      "summary": "Компания Blykalla (Швеция) подписала соглашение с концерном URENCO об услугах по обогащению урана повышенного обогащения (HALEU) для топлива своего первого реактора SEALER, который планируется разместить в США.",
+      "url": "http://atominfo.ru/newsz10/a0180.htm",
+      "published_at": "2026-11-16T17:13:36Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
+      "id": "72a60f0630e03c55",
+      "title": "В США обсуждаются новые законопроекты, касающиеся атомной отрасли",
+      "summary": "В конгрессе США находятся на рассмотрении очередные законопроекты, призванные ускорить развитие атомной отрасли.",
+      "url": "http://atominfo.ru/newsz10/a0179.htm",
+      "published_at": "2026-11-16T16:53:14Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "f753a489f168ebe2",
+      "title": "Low electricity prices could impact EPR2 programme funding, auditor warns",
+      "summary": "EDF could face difficulties funding its planned construction of six EPR2 reactors, France's state audit office, the Cour des Comptes (Court of Auditors) has said.",
+      "url": "https://www.world-nuclear-news.org/articles/low-electricity-prices-could-impact-epr2-programme-funding-auditor-warns",
+      "published_at": "2026-11-16T16:05:34Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "construction",
+      "language": "en"
+    },
+    {
+      "id": "cb473b6455d4f2dd",
+      "title": "Первая в Турции АЭС «Аккую» с высоты птичьего полета.",
+      "summary": "👌 Подписывайтесь на «Росатом» | Оставляйте «бусты» #видео #АЭСАккую",
+      "url": "https://t.me/rosatomru/7522",
+      "published_at": "2026-11-16T14:59:58Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "ee2b81331c0f752c",
+      "title": "Newcleo, Curio team up for recycled nuclear fuel supply",
+      "summary": "France-headquartered innovative nuclear energy company Newcleo is to collaborate with US advanced nuclear recycling technologies firm Curio on the supply of recycled used nuclear fuel and transuranic materials for the production of mixed-oxide fuel at Newcleo's planned US fuel manufacturing facility.",
+      "url": "https://www.world-nuclear-news.org/articles/newcleo-curio-team-up-for-recycled-nuclear-fuel-supply",
+      "published_at": "2026-11-16T14:35:51Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "fuel",
+      "language": "en"
+    },
+    {
+      "id": "138f72688033d584",
+      "title": "NRC extends Project Ike review timetable",
+      "summary": "The US regulator has pushed the expected completion date for its review of Orano's application for a licence for its proposed centrifuge enrichment facility back to June 2027 after the company asked for more time to respond to the regulator's questions.",
+      "url": "https://www.world-nuclear-news.org/articles/nrc-extends-project-ike-review-timetable",
+      "published_at": "2026-11-16T14:08:05Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "safety",
+      "language": "en"
+    },
+    {
+      "id": "855e4c7c415336dd",
+      "title": "Newcleo And Curio Announce Collaboration To Advance Recycled Nuclear Fuel Supply",
+      "summary": "France-based advanced nuclear technology company Newcleo and Curio Legacy Ventures, a Washington-based company developing its patented NuCycle used nuclear fuel recycling process, announced an agreement to collaborate on the supply of recycled used nuclear fuel and transuranic materials for the production of mixed-oxide (MOX) fuel at Newcleo’s planned US fuel manufacturing facility. The fuel would be used in Newcleo’s lead-cooled fast reactors (LFRs) once they are deployed.",
+      "url": "https://www.nucnet.org/news/newcleo-and-curio-announce-collaboration-to-advance-recycled-nuclear-fuel-supply-11-1-2026",
+      "published_at": "2026-11-16T14:05:42Z",
+      "source_id": "nucnet",
+      "source": "NucNet",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "75d79f5c27300037",
+      "title": "Work programme being planned for next year, as Paks II audit continues",
+      "summary": "Construction is continuing and a programme for next year is being prepared, Rosatom said, as Hungary's government continues its review of the Paks II nuclear power project.",
+      "url": "https://www.world-nuclear-news.org/articles/work-programme-being-planned-for-next-year-as-paks-ii-audit-continues",
+      "published_at": "2026-11-16T13:48:42Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "construction",
+      "language": "en"
+    },
+    {
+      "id": "c31926f647dbafcd",
+      "title": "Akkuyu 1 fuel loading 'could start next month'",
+      "summary": "Turkey's first nuclear power unit is preparing for hot tests - with Rosatom hoping that successful completion will allow the start of nuclear fuel loading in December.",
+      "url": "https://www.world-nuclear-news.org/articles/akkuyu-1-fuel-loading-could-start-next-month",
+      "published_at": "2026-11-16T13:18:42Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "1a56bf6cf490f60c",
+      "title": "На Мировых атомных днях представители России, Турции, Монголии, МАГАТЭ и Организации бухгалтерского учёта и аудита исламских финансовых учреждений обсудили преимущества “зелёной” трансформации и роль атомной энергетики…",
+      "summary": "👌 Подписывайтесь на «Росатом» | Оставляйте «бусты» #цитата #WAD",
+      "url": "https://t.me/rosatomru/7521",
+      "published_at": "2026-11-16T11:28:34Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "economy",
+      "language": "ru"
+    },
+    {
+      "id": "b78ef566b074949a",
+      "title": "На всех парах: на стройку инновационного исследовательского реактора МБИР доставили турбину",
+      "summary": "Паровую турбину для самого мощного в мире быстрого исследовательского реактора сконструировали с применением технологии 3D-моделирования и изготовили на Калужском турбинном заводе. «В основе конструкции — современная турбина серии ПТ-40. При этом была изменена геометрия лопаточного аппарата первой ступени турбины, что обеспечило достижение ее оптимальных технических характеристик с учетом параметров пара исследовательской ядерной установки.",
+      "url": "https://t.me/rosatomru/7520",
+      "published_at": "2026-11-16T09:45:33Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "construction",
+      "language": "ru"
+    },
+    {
+      "id": "4d951ef0ae8e4858",
+      "title": "В Турции прошла ежегодная конференция Платформы по атомной энергетике стран БРИКС",
+      "summary": "Конференция прошла на форуме «Мировые атомные дни» и объединила партнеров Платформы из Бразилии, Египта, Индонезии, Казахстана, Китая, России, Турции, Узбекистана, Эфиопии, ЮАР. Также участвовали президент Нового банка развития Дилма Роуссефф и генеральный директор Всемирной ядерной ассоциации Сама Бильбао-и-Леон. Главный координатор Платформы Элзи Пуле подвела итоги работы Платформы за 2026 год и обозначила планы на 2027 год. Подробности на сайте. 👌 Подписывайтесь на «Росатом» | Оставляйте «бусты» #новость #WAD",
+      "url": "https://t.me/rosatomru/7519",
+      "published_at": "2026-11-16T08:40:50Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "international",
+      "language": "ru"
+    },
     {
       "id": "dbc71d9fa06e0638",
       "title": "Китай - стартапы и ММР",
@@ -105,8 +259,8 @@
     },
     {
       "id": "8448cb90bb47dbcf",
-      "title": "Китай - семейство CLAR, ex-CLEAR",
-      "summary": "Международная научно-техническая конференция \"Инновационные проекты и технологии ядерной энергетики\" МНТК НИКИЭТ - 2026 прошла в Москве 27-29 октября 2026 года.",
+      "title": "Новость удалена",
+      "summary": "Новость удалена",
       "url": "http://atominfo.ru/newsz10/a0174.htm",
       "published_at": "2026-11-15T08:25:58Z",
       "source_id": "atominfo",
@@ -596,17 +750,6 @@
       "source_id": "world-nuclear-news",
       "source": "World Nuclear News",
       "topic": "reactors",
-      "language": "en"
-    },
-    {
-      "id": "4fe0223933107f8f",
-      "title": "Strength and leak tests completed for Akkuyu 1 containment",
-      "summary": "The air pressure was increased during pre-launch tests, which lasted eight days, to check the strength and leak tightness of the internal containment building for Akkuyu nuclear power plant's first unit.",
-      "url": "https://www.world-nuclear-news.org/articles/strength-and-leak-tests-completed-for-akkuyu-1-containment",
-      "published_at": "2026-11-13T10:33:57Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
-      "topic": "international",
       "language": "en"
     },
     {
@@ -1256,6 +1399,17 @@
       "source_id": "world-nuclear-news",
       "source": "World Nuclear News",
       "topic": "construction",
+      "language": "en"
+    },
+    {
+      "id": "4fe0223933107f8f",
+      "title": "Strength and leak tests completed for Akkuyu 1 containment",
+      "summary": "The air pressure was increased during pre-launch tests, which lasted eight days, to check the strength and leak tightness of the internal containment building for Akkuyu nuclear power plant's first unit.",
+      "url": "https://www.world-nuclear-news.org/articles/strength-and-leak-tests-completed-for-akkuyu-1-containment",
+      "published_at": "2026-11-11T10:33:57Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "international",
       "language": "en"
     },
     {
@@ -3987,17 +4141,6 @@
       "language": "ru"
     },
     {
-      "id": "212bc2d50267da59",
-      "title": "Posiva given go-ahead to operate Finnish used fuel repository",
-      "summary": "Finnish radioactive waste management company Posiva has been granted a licence to operate the encapsulation and final disposal facility for used nuclear fuel located in Olkiluoto. It is the world's first repository for used fuel to be granted such a licence.",
-      "url": "https://www.world-nuclear-news.org/articles/posiva-given-go-ahead-to-operate-finnish-used-fuel-repository",
-      "published_at": "2026-10-23T16:00:37Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
-      "topic": "fuel",
-      "language": "en"
-    },
-    {
       "id": "028072ca2cc02332",
       "title": "✅ Инженеры «Росатома» разработали аналог «ловушки расплава» для инновационного реактора ВВЭР-С",
       "summary": "✅ «Росатом» поставил управляющие системы безопасности для строящихся энергоблоков АЭС «Куданкулам» (Индия) ✅ «Росатом» представил новый компактный 3D-принтер RusMelt 100M ✅ Глава «Росатома» Алексей Лихачёв посетил площадку сооружения АЭС в Узбекистане и обсудил с Президентом страны стратегические проекты в атомной сфере ✅ Машиностроители «Росатома» поставили первый из двух парогенераторов для исследовательского реактора МБИР 👌 Подписывайтесь на «Росатом» | Оставляйте «бусты» #дайджест #АтомнаяНеделя",
@@ -4017,17 +4160,6 @@
       "source_id": "iaea",
       "source": "IAEA",
       "topic": "international",
-      "language": "en"
-    },
-    {
-      "id": "e231be09005f8073",
-      "title": "FID sees Etango enter full-scale construction",
-      "summary": "A positive final investment decision from the Bannerman Energy-CNNC Overseas joint venture means the Etango uranium project in Namibia can transition into full-scale construction activities, with commissioning and production targeted for 2028.",
-      "url": "https://www.world-nuclear-news.org/articles/fid-sees-etango-enter-full-scale-construction",
-      "published_at": "2026-10-23T14:13:54Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
-      "topic": "construction",
       "language": "en"
     },
     {
@@ -4064,50 +4196,6 @@
       "language": "ru"
     },
     {
-      "id": "513f0de740a1f661",
-      "title": "«Росатом» испытал отечественный генераторный выключатель для электростанций большой мощности",
-      "summary": "Совместная разработка «Росатом Автоматизированные системы управления» и Всероссийского электротехнического института «Росатома» имеет стратегическое значение для российской энергетики, так как напрямую влияет на надежную работу действующих энергоблоков и ввод в работу новых АЭС, а также тепло- и гидроэлектростанций. Генераторный выключатель является самым сложным коммутационным аппаратом во всей цепочке производства и потребления электроэнергии в энергетической системе страны.",
-      "url": "https://t.me/rosatomru/7426",
-      "published_at": "2026-10-23T13:03:38Z",
-      "source_id": "rosatom",
-      "source": "Росатом",
-      "topic": "reactors",
-      "language": "ru"
-    },
-    {
-      "id": "f365a8bb0dbd1567",
-      "title": "Rosatom eyes 2027 for Uzbek large reactor construction",
-      "summary": "Rosatom plans to launch construction of the large-scale nuclear units at the planned power plant in Uzbekistan in 2027, CEO Alexey Likhachev has said during a visit to the construction site.",
-      "url": "https://www.world-nuclear-news.org/articles/rosatom-eyes-2027-for-uzbek-reactor-construction",
-      "published_at": "2026-10-23T11:59:44Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
-      "topic": "construction",
-      "language": "en"
-    },
-    {
-      "id": "37285b48386510d1",
-      "title": "Slovenia's deep borehole disposal options studied",
-      "summary": "The US firm Deep Isolation has conducted a cost assessment for Slovenia's radioactive waste agency which has concluded it would be more economic for used fuel from the TRIGA II research reactor and from the Krško Nuclear Power Plant to be placed in the same disposal facility deep underground.",
-      "url": "https://www.world-nuclear-news.org/articles/slovenias-deep-borehole-disposal-options-studied",
-      "published_at": "2026-10-23T11:06:07Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
-      "topic": "reactors",
-      "language": "en"
-    },
-    {
-      "id": "648726f508bedc08",
-      "title": "На российских АЭС тестируют отечественную систему предиктивной аналитики",
-      "summary": "На Нововоронежской АЭС-2, Ленинградской АЭС-2 и Белоярской АЭС началась опытная эксплуатация новой системы прогнозирования состояния оборудования. Решение реализовано на базе отечественной цифровой платформы «АтомМайнд», разработанной Топливным дивизионом «Росатома». Система в режиме реального времени анализирует технологические параметры оборудования, обнаруживает и фиксирует любые изменения в них, определяет причину этих изменений, прогнозирует развитие ситуации и отправляет соответствующее уведомление специалисту.",
-      "url": "https://t.me/rosatomru/7424",
-      "published_at": "2026-10-23T09:53:08Z",
-      "source_id": "rosatom",
-      "source": "Росатом",
-      "topic": "fuel",
-      "language": "ru"
-    },
-    {
       "id": "321ab01bb9347aeb",
       "title": "А давайте пятницу без новостей?",
       "summary": "Просто посмотрите, какая у Росатома красивая ловушка расплава получается для ВВЭР-1200 Ленинградской АЭС 😍 📲 Росэнергоатом в МАХ",
@@ -4127,17 +4215,6 @@
       "source_id": "atominfo",
       "source": "AtomInfo.Ru",
       "topic": "fuel",
-      "language": "ru"
-    },
-    {
-      "id": "efb4cfb400114ad8",
-      "title": "Кадры визита главы «Росатома» Алексея Лихачева на строительную площадку интегрированной АЭС в Джизакской области Узбекистана. Продолжается бетонирование фундаментной плиты здания реактора.",
-      "summary": "👌 Подписывайтесь на «Росатом» | Оставляйте «бусты» #новость #АЭСУзбекистан #АлексейЛихачев",
-      "url": "https://t.me/rosatomru/7418",
-      "published_at": "2026-10-23T08:17:15Z",
-      "source_id": "rosatom",
-      "source": "Росатом",
-      "topic": "construction",
       "language": "ru"
     },
     {
@@ -4207,17 +4284,6 @@
       "language": "ru"
     },
     {
-      "id": "098c7c9102c3af8c",
-      "title": "АЭС Palisades - сборка извлечена",
-      "summary": "Компания Holtec объявила 21 октября 2026 года об успешном завершении операции по извлечению отклонившейся от вертикальной позиции ТВС из активной зоны реактора АЭС Palisades (Палисейдс) .",
-      "url": "http://atominfo.ru/newsz10/a0082.htm",
-      "published_at": "2026-10-22T15:12:43Z",
-      "source_id": "atominfo",
-      "source": "AtomInfo.Ru",
-      "topic": "reactors",
-      "language": "ru"
-    },
-    {
       "id": "db7805af3c23aed8",
       "title": "⚡ На строящейся Смоленской АЭС-2 создают электросетевую инфраструктуру",
       "summary": "На стройплощадку доставили первые модули трансформаторной подстанции 110/10 кВ. Она обеспечит постоянное электроснабжение строительной базы. Что еще в работе? 🔵Строительство зданий и прокладка инженерных сетей. 🔵Контрактация 5 332 единиц оборудования по 38 лотам. Напомним, на Смоленской АЭС-2 Росатом построит два энергоблока ВВЭР-ОПТИМ общей мощностью 2 400 МВт.",
@@ -4240,17 +4306,6 @@
       "language": "en"
     },
     {
-      "id": "75a2f35cfd813f97",
-      "title": "Westinghouse вложит 1 млрд долларов в производство топлива из НОУ-плюс",
-      "summary": "Компания Westinghouse Electric Company объявила об инвестициях в размере около 1 миллиарда долларов на развитие своего топливного предприятия в Колумбии (штат Южная Каролина, США).",
-      "url": "http://atominfo.ru/newsz10/a0081.htm",
-      "published_at": "2026-10-22T13:25:27Z",
-      "source_id": "atominfo",
-      "source": "AtomInfo.Ru",
-      "topic": "fuel",
-      "language": "ru"
-    },
-    {
       "id": "9f12435102fe7987",
       "title": "Finland Grants Operating Licence To World’s First Deep Geologic Nuclear Repository",
       "summary": "Finland has granted an operating licence to Posiva for its spent nuclear fuel encapsulation and final disposal facility at Olkiluoto, marking the first time a deep geological repository for spent nuclear fuel has received an operating licence anywhere in the world. Posiva said the licence allows it to move towards the operational phase of the facility, but does not authorise the immediate start of disposal activities.",
@@ -4262,17 +4317,6 @@
       "language": "en"
     },
     {
-      "id": "a47143b08c6de343",
-      "title": "OPG firm joins UK BWRX-300 project",
-      "summary": "The UK-based project company of European SMR developer and investor SGE, and Origin Nuclear, a subsidiary of Ontario Power Generation, have signed a letter of intent to establish a joint venture for the future operation of a planned fleet of 14 BWRX-300 small modular reactors.",
-      "url": "https://www.world-nuclear-news.org/articles/joint-venture-to-operate-planned-uk-bwrx-300-fleet",
-      "published_at": "2026-10-22T12:02:58Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
-      "topic": "reactors",
-      "language": "en"
-    },
-    {
       "id": "732b37d3b4722d90",
       "title": "🏙Первая в сварке — на Кольской АЭС",
       "summary": "Инженер участка сварки Кольского филиала «Атомэнергоремонта» заняла 1 место в конкурсе «Женщины в сварке — 2026» в номинации «Женщина — инженер». В атомной энергетике качество сварных соединений — вопрос особой важности. Работа с ними требует высокой инженерной квалификации, точности и строгого соблюдения требований безопасности. 😀Награду вручили в Москве на международной выставке Weldex 2026. Поздравляем Екатерину с победой!",
@@ -4281,17 +4325,6 @@
       "source_id": "rosenergoatom",
       "source": "Росэнергоатом",
       "topic": "safety",
-      "language": "ru"
-    },
-    {
-      "id": "67803efc6d32650b",
-      "title": "Росатом не получал уведомлений о расторжении контракта по АЭС Пакш-2",
-      "summary": "\"Росатом\" не получал от венгерского заказчика официальных уведомлений о намерении расторгнуть контракт по АЭС \"Пакш-2\".",
-      "url": "http://atominfo.ru/newsz10/a0079.htm",
-      "published_at": "2026-10-22T04:51:02Z",
-      "source_id": "atominfo",
-      "source": "AtomInfo.Ru",
-      "topic": "economy",
       "language": "ru"
     },
     {
