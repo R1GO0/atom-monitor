@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T20:30:14Z",
+  "generated_at": "2026-11-19T07:24:07Z",
   "sources": [
     {
       "status": "updated",
@@ -10,8 +10,8 @@
       "article_count": 80
     },
     {
-      "status": "cached",
-      "error": "timed out",
+      "status": "updated",
+      "error": "",
       "id": "atominfo",
       "name": "AtomInfo.Ru",
       "site": "http://atominfo.ru",
@@ -60,6 +60,50 @@
   ],
   "articles": [
     {
+      "id": "37807b20d68ef9c8",
+      "title": "ИЯФ СО РАН и РУДН математически смоделировали проникновение водорода в вольфрам в термоядерных реакторах",
+      "summary": "Специалисты Института ядерной физики им. Г.И. Будкера СО РАН (ИЯФ СО РАН) и Математического института им. С.М. Никольского Российского университета дружбы народов им. Патриса Лумумбы (РУДН) провели…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/19/170041",
+      "published_at": "2026-11-19T07:02:56Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
+      "id": "8d042ad4fd42134f",
+      "title": "Миссия МАГАТЭ оценила применимость Конвенции о дополнительной компенсации за ядерный ущерб в Сальвадоре",
+      "summary": "Сальвадор планирует предпринять шаги по присоединению к ключевой международной конвенции о гражданской ответственности за ядерный ущерб, поскольку страна продвигается в реализации планов по внедрению…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/19/170040",
+      "published_at": "2026-11-19T06:49:47Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "c1b1613cb8a3f336",
+      "title": "Гросси о роли МАГАТЭ на Запорожской АЭС",
+      "summary": "МАГАТЭ не может возлагать ответственность за удары по Запорожской АЭС на одну из сторон конфликта в силу технического мандата организации.",
+      "url": "http://atominfo.ru/newsz10/a0191.htm",
+      "published_at": "2026-11-19T06:16:15Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "34a9c4def47c6ccd",
+      "title": "Намибии нужно укреплять естественно-научное образование - чиновник",
+      "summary": "Заместитель исполнительного директора министерства образования, инноваций, по делам молодёжи, спорта, искусства и культуры Намибии Лишо Мундиа заявил, что страна должна укрепить естественно-научное образование, исследования и специализированную подготовку, если рассчитывает превратить свои урановые ресурсы и растущие ядерные амбиции в более широкие экономические возможности.",
+      "url": "http://atominfo.ru/newsz10/a0190.htm",
+      "published_at": "2026-11-18T16:38:49Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "fuel",
+      "language": "ru"
+    },
+    {
       "id": "6c8a08dc78274e6e",
       "title": "ENTRA1 teams up with Sargent & Lundy for SMR deployment",
       "summary": "Sargent & Lundy is partnering with ENTRA1 Energy to provide engineering and design support for the development and execution of ENTRA1 Energy Plants based on NuScale Power's small modular reactor technology.",
@@ -69,6 +113,17 @@
       "source": "World Nuclear News",
       "topic": "reactors",
       "language": "en"
+    },
+    {
+      "id": "c1958ef656823cf1",
+      "title": "Нигер продолжает настаивать на компенсации от Франции - СМИ",
+      "summary": "Правительство Нигера продолжает настаивать на том, что Франция обязана выплатить африканскому государству компенсации за добывавшийся с 1968 года уран, пишет Journal du Niger.",
+      "url": "http://atominfo.ru/newsz10/a0189.htm",
+      "published_at": "2026-11-18T15:18:55Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "fuel",
+      "language": "ru"
     },
     {
       "id": "ff14f3e1b4aeb3f7",
@@ -269,6 +324,28 @@
       "language": "ru"
     },
     {
+      "id": "ceb25341d9323fcd",
+      "title": "URENCO - Германия планирует выкуп",
+      "summary": "Правительство Германии намерено выкупить долю в европейском концерне URENCO, принадлежащую энергетическим концернам RWE и E.ON.",
+      "url": "http://atominfo.ru/newsz10/a0187.htm",
+      "published_at": "2026-11-18T09:54:38Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "92b80bddcfd2b1e1",
+      "title": "Франция подготовила десятилетнюю национальную стратегию развития термоядерного синтеза",
+      "summary": "Министр высшего образования, исследований и космоса Франции Филипп Батист 16 ноября 2026 года в ходе визита на площадку ITER и в центр CEA Cadarache объявил о публикации десятилетней национальной стратегии развития термоядерной энергетики.",
+      "url": "http://atominfo.ru/newsz10/a0186.htm",
+      "published_at": "2026-11-18T09:09:20Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "construction",
+      "language": "ru"
+    },
+    {
       "id": "36b88b686ee23d8e",
       "title": "Nuclear M&A deals total USD10.3 billion in first nine months of 2026",
       "summary": "Deals totalling USD10.3 billion were completed in the first nine months of 2026, with global nuclear mergers and acquisitions well placed to beat 2025's full year USD11.2 billion, research by law firm White & Case LLP suggests.",
@@ -278,6 +355,17 @@
       "source": "World Nuclear News",
       "topic": "international",
       "language": "en"
+    },
+    {
+      "id": "688f6324e77efb5b",
+      "title": "Эксперты ВАО АЭС провели на Балаковской АЭС миссию поддержки",
+      "summary": "Эксперты ВАО АЭС провели на Балаковской АЭС миссию поддержки, посвящённую изучению российского и зарубежного опыта по использованию современного типа противоаварийных процедур (работа по симптомно-ориентированным инструкциям).",
+      "url": "http://atominfo.ru/newsz10/a0185.htm",
+      "published_at": "2026-11-18T07:43:23Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "safety",
+      "language": "ru"
     },
     {
       "id": "ac4c3ffd5a35d10f",
@@ -2392,28 +2480,6 @@
       "language": "ru"
     },
     {
-      "id": "6f3594423fbe5ba6",
-      "title": "В профорганизации НЗХК состоялась отчетно-выборная конференция",
-      "summary": "Отчетно-выборная конференция первичной профсоюзной организации Новосибирского завода химконцентратов состоялась 28 октября. В ее работе приняли участие 136 делегатов, заместитель председателя РПРАЭП…",
-      "url": "https://www.atomic-energy.ru/news/2026/11/10/169789",
-      "published_at": "2026-11-10T07:02:30Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
-      "id": "743d2f833ae3ac1c",
-      "title": "На комбинате «Электрохимприбор» состоялся мастер-класс «Сам себе репортер»",
-      "summary": "Мастер-класс был предназначен сотрудникам комбината, представителям первичек профорганизации ЭХП, которым доверили информационную работу в своем подразделении. Спикерами выступили работники пресс…",
-      "url": "https://www.atomic-energy.ru/news/2026/11/10/169788",
-      "published_at": "2026-11-10T06:56:29Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
       "id": "8e0e9f8921e72713",
       "title": "IAEA Mission says Jordan is Committed to Strengthening Radiation and Nuclear Safety Oversight",
       "summary": "",
@@ -4218,17 +4284,6 @@
       "language": "ru"
     },
     {
-      "id": "40926bd6f554e8a6",
-      "title": "Общестанционная тренировка прошла на Балаковской АЭС",
-      "summary": "Общестанционная тренировка прошла 22 октября 2026 года на Балаковской АЭС, сообщается на сайте \"Росэнергоатома\".",
-      "url": "http://atominfo.ru/newsz10/a0090.htm",
-      "published_at": "2026-10-24T07:57:20Z",
-      "source_id": "atominfo",
-      "source": "AtomInfo.Ru",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
       "id": "1a336d227d9ba644",
       "title": "Update 372 – IAEA Director General Statement on Situation in Ukraine",
       "summary": "",
@@ -4273,17 +4328,6 @@
       "language": "ru"
     },
     {
-      "id": "97e14154be7b130a",
-      "title": "Акционеры Казатомпрома вновь рассмотрят сделку с Ураниум Уан",
-      "summary": "\"Казатомпром\" уведомил на своём сайте о проведении внеочередного общего собрания акционеров.",
-      "url": "http://atominfo.ru/newsz10/a0089.htm",
-      "published_at": "2026-10-23T08:22:56Z",
-      "source_id": "atominfo",
-      "source": "AtomInfo.Ru",
-      "topic": "fuel",
-      "language": "ru"
-    },
-    {
       "id": "6e0db4156ff85186",
       "title": "What is Nuclear Fuel?",
       "summary": "",
@@ -4293,50 +4337,6 @@
       "source": "IAEA",
       "topic": "fuel",
       "language": "en"
-    },
-    {
-      "id": "6b7dd8e51ac3d8c2",
-      "title": "Глава Росатома встретился с президентом Узбекистана",
-      "summary": "Встреча президента Республики Узбекистан Шавката Мирзиёева с генеральным директором госкорпорации \"Росатом\" Алексеем Лихачёвым состоялась 23 октября 2026 года в Ташкенте.",
-      "url": "http://atominfo.ru/newsz10/a0087.htm",
-      "published_at": "2026-10-23T07:39:17Z",
-      "source_id": "atominfo",
-      "source": "AtomInfo.Ru",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
-      "id": "43ae9cac4d2c1a93",
-      "title": "Поставки конструкций БМЗ трансформаторной подстанции начались на стройплощадке Смоленской АЭС-2",
-      "summary": "Поставки конструкций блочно-модульного здания (БМЗ) трансформаторной подстанции 110/10 кВ начались на стройплощадке Смоленской АЭС-2, сообщается на сайте \"Росэнергоатома\".",
-      "url": "http://atominfo.ru/newsz10/a0086.htm",
-      "published_at": "2026-10-22T16:02:47Z",
-      "source_id": "atominfo",
-      "source": "AtomInfo.Ru",
-      "topic": "construction",
-      "language": "ru"
-    },
-    {
-      "id": "c5c3d9711c5a07a8",
-      "title": "Монтаж двух элементов ловушки расплава выполнен на строящемся блоке №4 ЛАЭС-2",
-      "summary": "Монтаж двух элементов ловушки расплава выполнен на строящемся энергоблоке №4 ВВЭР-1200 Ленинградской АЭС-2, сообщается на сайте \"Росэнергоатома\".",
-      "url": "http://atominfo.ru/newsz10/a0085.htm",
-      "published_at": "2026-10-22T15:58:01Z",
-      "source_id": "atominfo",
-      "source": "AtomInfo.Ru",
-      "topic": "construction",
-      "language": "ru"
-    },
-    {
-      "id": "60dc401d94a3b6de",
-      "title": "Регуляторы Франции не видят фундаментальных препятствий для продления срока службы блоков EDF сверх 60 лет",
-      "summary": "Управление по ядерной безопасности и радиационной защите Франции (ASNR) официально заявило, что не видит фундаментальных препятствий для продления срока эксплуатации атомных энергоблоков компании EDF сверх 60 лет.",
-      "url": "http://atominfo.ru/newsz10/a0084.htm",
-      "published_at": "2026-10-22T15:53:19Z",
-      "source_id": "atominfo",
-      "source": "AtomInfo.Ru",
-      "topic": "reactors",
-      "language": "ru"
     },
     {
       "id": "db7805af3c23aed8",
