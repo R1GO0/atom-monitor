@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-19T07:24:07Z",
+  "generated_at": "2026-11-19T20:35:59Z",
   "sources": [
     {
-      "status": "updated",
-      "error": "",
+      "status": "cached",
+      "error": "Remote end closed connection without response",
       "id": "atomic-energy",
       "name": "Атомная энергия 2.0",
       "site": "https://www.atomic-energy.ru",
@@ -31,7 +31,7 @@
       "id": "rosenergoatom",
       "name": "Росэнергоатом",
       "site": "https://rosenergoatom.ru",
-      "article_count": 31
+      "article_count": 32
     },
     {
       "status": "updated",
@@ -42,8 +42,8 @@
       "article_count": 80
     },
     {
-      "status": "cached",
-      "error": "HTTP Error 403: Forbidden",
+      "status": "empty",
+      "error": "",
       "id": "iaea",
       "name": "IAEA",
       "site": "https://www.iaea.org",
@@ -55,10 +55,175 @@
       "id": "nucnet",
       "name": "NucNet",
       "site": "https://www.nucnet.org",
-      "article_count": 33
+      "article_count": 35
     }
   ],
   "articles": [
+    {
+      "id": "d8066dd27915f69a",
+      "title": "Президент Намибии призвала к развитию атомной энергетики",
+      "summary": "Президент Намибии д-р Нетумбо Нанди-Ндайтва призвала к решительному переходу на атомную энергетику.",
+      "url": "http://atominfo.ru/newsz10/a0196.htm",
+      "published_at": "2026-11-19T18:19:43Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "a56f77fe35631dc1",
+      "title": "Вадим Лемехов: БРЕСТ и далее",
+      "summary": "Международная научно-техническая конференция \"Инновационные проекты и технологии ядерной энергетики\" МНТК НИКИЭТ - 2026 прошла в Москве 27-29 октября 2026 года.",
+      "url": "http://atominfo.ru/newsz10/a0195.htm",
+      "published_at": "2026-11-19T17:47:20Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "1da046b086f05296",
+      "title": "Energy crisis reinforces comeback of nuclear power, says IEA",
+      "summary": "Unprecedented disruption in the energy world - primarily resulting from the war in the Middle East - is set to reinforce the comeback of nuclear power, according to the International Energy Agency's latest World Energy Outlook , which has revised its forecast for nuclear upwards.",
+      "url": "https://www.world-nuclear-news.org/articles/energy-crisis-reinforces-comeback-of-nuclear-power-says-iea",
+      "published_at": "2026-11-19T16:39:51Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "d6a46bc826d4c217",
+      "title": "Samsung, Tesser to collaborate on nuclear-powered LNG carrier",
+      "summary": "South Korean shipbuilder Samsung Heavy Industries and US nuclear technology company Tesser Atomics have entered into an exclusive strategic collaboration on a demonstration project for a transatlantic nuclear-powered liquefied natural gas carrier.",
+      "url": "https://www.world-nuclear-news.org/articles/samsung-tesser-to-collaborate-on-nuclear-power-lng-carrier",
+      "published_at": "2026-11-19T15:31:29Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "3786368368e12579",
+      "title": "Norway Consortium Gets €1.8 Million Towards Development Of Nuclear Power For Maritime Industry",
+      "summary": "Norway is moving a step closer to testing nuclear propulsion for commercial ships, with a consortium including shipbuilder Vard and offshore service vessel operator Island Offshore securing NOK20m (€1.8m, $2m) in government funding to develop an integrated nuclear power system for the maritime industry. The marine nuclear propulsion system (MarNuPS) project, led by Emerald Nuclear Norway, aims to move the technology from engineering studies into full-scale testing, with a first vessel deployment targeted for 2031 or 2032.",
+      "url": "https://www.nucnet.org/news/norway-consortium-gets-eur1-8-million-towards-development-of-nuclear-power-for-maritime-industry-11-4-2026",
+      "published_at": "2026-11-19T15:02:33Z",
+      "source_id": "nucnet",
+      "source": "NucNet",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "c273776ae893a590",
+      "title": "Zeno Power испытала электрический прототип подводной ядерной батареи на морском дне",
+      "summary": "Компания Zeno Power провела двухнедельные испытания прототипа подводной энергетической установки в контролируемых морских условиях у побережья штата Вашингтон (США).",
+      "url": "http://atominfo.ru/newsz10/a0194.htm",
+      "published_at": "2026-11-19T14:50:14Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "fbe179692eaca8e8",
+      "title": "Брызгальные бассейны Курской АЭС-2 нужны для подготовки воды, которая используется в системе охлаждения вспомогательного оборудования реакторного отделения.",
+      "summary": "👌 Подписывайтесь на «Росатом» | Оставляйте «бусты» #фото #КурскаяАЭС",
+      "url": "https://t.me/rosatomru/7533",
+      "published_at": "2026-11-19T14:35:44Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
+      "id": "01abca9c70abb0b9",
+      "title": "Марокко и Orano - уран из фосфатов",
+      "summary": "Марокканская государственная фосфатная группа OCP Group ведёт переговоры с французскими компаниями EDF и Orano о промышленном партнёрстве, предусматривающем извлечение урана из фосфатов и поставки уранового концентрата во Францию.",
+      "url": "http://atominfo.ru/newsz10/a0193.htm",
+      "published_at": "2026-11-19T14:07:52Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "fuel",
+      "language": "ru"
+    },
+    {
+      "id": "eb11d9638a383b0a",
+      "title": "Кто стоит за первыми киловаттами «Руппура»? ⚡️",
+      "summary": "Первый энергоблок АЭС «Руппур» в Бангладеш впервые выдал электроэнергию в национальную энергосистему. Реакторная установка достигла 40% номинальной мощности, мощность генератора составила 370 МВт. Этот результат — совместный результат работы АО АСЭ, Концерна Росэнергоатом и АО «Атомтехэнерго». Наши специалисты отвечают за ввод новых атомных станций в эксплуатацию, курируют различные направления работ на пусковых площадках в России и за рубежом.",
+      "url": "https://t.me/rosenergoatom/3859",
+      "published_at": "2026-11-19T14:00:01Z",
+      "source_id": "rosenergoatom",
+      "source": "Росэнергоатом",
+      "topic": "construction",
+      "language": "ru"
+    },
+    {
+      "id": "0a897a445af8d4ce",
+      "title": "Электрозарядная «Революция» на Российской транспортной неделе",
+      "summary": "На выставке «Транспорт России – 2026» в Гостином дворе «Росатом» презентовал новую быструю зарядную станцию «Революция». Ее разработали в «Парус электро» специально для автомагистралей и междугородних маршрутов. Главная задача новой модели – максимальное количество успешных зарядных сессий. Станция рассчитана на работу при температуре от −35 до +40 °C. Мощность — от 150 до 320 кВт. Запустить и оплатить зарядку можно RFID-картой, без мобильного приложения. 👌 Подписывайтесь на «Росатом» | Оставляйте «бусты» #новость #РАСУ",
+      "url": "https://t.me/rosatomru/7532",
+      "published_at": "2026-11-19T11:36:35Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "c075a17bfb4070b2",
+      "title": "Hot and cold testing under way for Turkey's Akkuyu 1",
+      "summary": "The first nuclear power reactor in Turkey has moved a step closer to start-up, with hot and cold commissioning tests taking place.",
+      "url": "https://www.world-nuclear-news.org/articles/hot-cold-testing-under-way-for-turkeys-akkuyu-1",
+      "published_at": "2026-11-19T10:46:39Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "bb5af1d4e983db54",
+      "title": "Bulgaria's NEK signs MoU for potential BWRX-300 projects",
+      "summary": "State-owned electricity company Natsionalna Elektricheska Kompania has signed a memorandum of understanding with Poland's SGE and Blue Bird Energy to cooperate on the deployment of BWRX-300 small modular reactors in Bulgaria.",
+      "url": "https://www.world-nuclear-news.org/articles/bulgarias-nek-signs-mou-for-potential-bwrx-300-projects",
+      "published_at": "2026-11-19T10:42:59Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "4ea8d1aecc6b8e6f",
+      "title": "Редкое место. «Росатом» открыл в Ревде Мурманской области экодом для туристов",
+      "summary": "Ревда — популярная отправная точка для походов по Ловозёрским тундрам и, в частности, природному парку «Сейдъявврь». Отапливаемый экодом «Редкое место» построили в поселке в рамках одноименного экомарафона, который проводит горнорудный дивизион госкорпорации. «Редкое место» охраняется системами безопасности Ловозерского ГОКа. Туристы могут безопасно оставить автомобиль на стоянке экодома. Инфраструктура позволяет с комфортом проверить снаряжение, переодеться и отдохнуть. В экодоме планируют регулярно проводить просветительские мероприятия.",
+      "url": "https://t.me/rosatomru/7531",
+      "published_at": "2026-11-19T09:43:00Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "safety",
+      "language": "ru"
+    },
+    {
+      "id": "d44922539e57cdc8",
+      "title": "New nuclear projects offer economic advantages for Ontario",
+      "summary": "Four major nuclear projects could bring billions of dollars of economic benefits to Ontario and to Canada - but government and industry need to act now to turn the nuclear buildout into a lasting industrial advantage, according to a report from the national body representing Canada's manufacturing sector.",
+      "url": "https://www.world-nuclear-news.org/articles/new-nuclear-projects-offer-economic-advantages-for-ontario",
+      "published_at": "2026-11-19T08:35:50Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "35d2f7db849c1df3",
+      "title": "Сварщика из машиностроительного дивизиона «Росатома» наградили в Кремле за рационализаторские предложения",
+      "summary": "Электрогазосварщик Центрального конструкторского бюро машиностроения (ЦКБМ) Алексей Китаев удостоен почетного звания «Заслуженный работник атомной промышленности Российской Федерации». Награду он получил из рук первого заместителя руководителя Администрации Президента РФ Сергея Кириенко. Алексей Китаев работает в атомной отрасли 34 года. Сейчас руководит участком сварки труб для обвязки насосных агрегатов. Рационализаторские идеи сварщика повысили эффективность выпуска оборудования для АЭС.",
+      "url": "https://t.me/rosatomru/7530",
+      "published_at": "2026-11-19T08:05:33Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "international",
+      "language": "ru"
+    },
     {
       "id": "37807b20d68ef9c8",
       "title": "ИЯФ СО РАН и РУДН математически смоделировали проникновение водорода в вольфрам в термоядерных реакторах",
@@ -79,6 +244,17 @@
       "source_id": "atomic-energy",
       "source": "Атомная энергия 2.0",
       "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "e311c5a6f1725fbd",
+      "title": "На Аккую-1 приступили к ХГО",
+      "summary": "Холодно-горячая обкатка (ХГО) реакторной установки началась на пусковом блоке №1 АЭС \"Аккую\" (Турция), сообщается на сайте компании \"Аккую Нуклеар\".",
+      "url": "http://atominfo.ru/newsz10/a0192.htm",
+      "published_at": "2026-11-19T06:26:00Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "reactors",
       "language": "ru"
     },
     {
@@ -3393,6 +3569,17 @@
       "language": "ru"
     },
     {
+      "id": "c90d3bc93737bf78",
+      "title": "International Coalition Calls For Cop31 To Take Concrete Measures On Nuclear",
+      "summary": "An international coalition of nuclear industry and professional organisations has called on the Cop31 climate summit presidency to include nuclear energy in its implementation and financing plans, ahead of the summit in Turkey later this month. Nuclear for Climate (N4C), an initiative of nuclear professionals, engineers and scientists established in 2015 by more than 150 associations worldwide, said that existing political recognition must be followed by concrete measures to support projects.",
+      "url": "https://www.nucnet.org/news/international-coalition-calls-for-cop31-to-take-concrete-measures-on-nuclear-11-1-2026",
+      "published_at": "2026-11-02T13:51:47Z",
+      "source_id": "nucnet",
+      "source": "NucNet",
+      "topic": "construction",
+      "language": "en"
+    },
+    {
       "id": "c84679cfd5a4f866",
       "title": "⚡️ Полтриллиона киловатт-часов — на Ростовской АЭС",
       "summary": "Такой объем энергии 4 энергоблока станции выработали с 2001 года. За этой цифрой — 25 лет работы и вклад в надежное энергоснабжение Юга России. Сегодня Ростовская АЭС — крупнейшее энергетическое предприятие региона. На ее долю приходится более 70% выработки электроэнергии Ростовской области и около 30% генерации Объединенной энергосистемы Юга. Поздравляем коллектив станции с важным производственным достижением!",
@@ -3789,39 +3976,6 @@
       "language": "en"
     },
     {
-      "id": "8baf218a51edd333",
-      "title": "Antares, BWXT in TRISO fuel procurement deal",
-      "summary": "The commercial agreement covers an initial tonne of TRISO fuel for Antares Nuclear's microreactors, which could be increased as deployment requirements evolve to support Antares's advanced reactor programme.",
-      "url": "https://www.world-nuclear-news.org/articles/antares-bwxt-in-triso-procurement-deal",
-      "published_at": "2026-10-29T12:17:55Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
-      "topic": "reactors",
-      "language": "en"
-    },
-    {
-      "id": "3d9c6378f94a68e8",
-      "title": "Westinghouse to conduct key study for AP1000 in Slovakia",
-      "summary": "Westinghouse is to carry out a Front-End Engineering and Design study for the potential deployment of an AP1000 reactor at the Bohunice Nuclear Power Plant in the Slovak Republic.",
-      "url": "https://www.world-nuclear-news.org/articles/westinghouse-to-conduct-key-study-to-prepare-for-ap1000-in-slovakia",
-      "published_at": "2026-10-29T12:08:00Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
-      "topic": "reactors",
-      "language": "en"
-    },
-    {
-      "id": "4ec878ee1453f006",
-      "title": "Turkish oil refiner to consider SMR deployment",
-      "summary": "TÜPRAŞ, Turkey's largest crude oil refiner, has signed an agreement with the US Trade and Development Agency to fund technical assistance to assess the potential of small modular reactors to supply electricity, heat and steam for its refining processes.",
-      "url": "https://www.world-nuclear-news.org/articles/turkish-oil-refiner-to-consider-smr-deployment",
-      "published_at": "2026-10-29T10:45:43Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
-      "topic": "reactors",
-      "language": "en"
-    },
-    {
       "id": "99b520ea516f816f",
       "title": "Контейнеровоз в помощь: FESCO усиливает линию между Владивостоком и Южной Кореей в ответ на рост перевозок",
       "summary": "Транспортная группа FESCO добавила второе судно вместимостью 500 TEU (от англ. twenty-foot equivalent unit — стандартная условная единица, эквивалентная объёму 20-футового контейнера) на линию Korea Soviet Direct Line (KSDL), связывающую Владивосток и южнокорейский порт Пусан. За девять месяцев этого года объем отправок на линии вырос на 12 % по сравнению с аналогичным периодом 2025 г. При этом импортные перевозки увеличились на 26%. В контейнерах в основном моторные масла, автокомпоненты, химическая продукция, продукты питания и фрукты.",
@@ -3899,17 +4053,6 @@
       "language": "en"
     },
     {
-      "id": "762c81d9e92c5a22",
-      "title": "Nuclear fuel delivered for Bangladesh's second unit",
-      "summary": "Russia's state nuclear corporation Rosatom says that the initial fuel load for Rooppur Nuclear Power Plant's second unit has been delivered.",
-      "url": "https://www.world-nuclear-news.org/articles/nuclear-fuel-delivered-for-bangladeshs-second-unit",
-      "published_at": "2026-10-28T13:17:56Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
-      "topic": "reactors",
-      "language": "en"
-    },
-    {
       "id": "b988d6c5d0b2d25c",
       "title": "«Росатом» готов предложить плавучие атомные энергоблоки Тоголезской Республике",
       "summary": "На третьем саммите «Россия – Африка» госкорпорация и Министерство по вопросам энергетики Того подписали меморандум о сотрудничестве в сфере мирного атома. 🗣 Алексей Лихачев, генеральный директор «Росатома» Подписание меморандума открывает новую страницу в отношениях \"Росатома“ с Тоголезской Республикой и создаёт основу для совместной работы по широкому спектру мирных атомных технологий. Мы готовы предложить нашим партнёрам решения в области энергетики, здравоохранения и сельского хозяйства.",
@@ -3919,17 +4062,6 @@
       "source": "Росатом",
       "topic": "reactors",
       "language": "ru"
-    },
-    {
-      "id": "0ddb83794f662c5f",
-      "title": "Hyundai Engineering agrees to cooperate with US SMR developers",
-      "summary": "South Korea's Hyundai Engineering is aiming to establish a role in the global small modular reactor market by signing memorandums of understanding with US SMR developers NANO Nuclear Energy and ARC Clean Technology.",
-      "url": "https://www.world-nuclear-news.org/articles/hyundai-engineering-agrees-to-cooperate-with-us-smr-developers",
-      "published_at": "2026-10-28T12:52:40Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
-      "topic": "reactors",
-      "language": "en"
     },
     {
       "id": "0715afc36914db34",
@@ -4097,17 +4229,6 @@
       "language": "en"
     },
     {
-      "id": "aafa2126d178f87e",
-      "title": "Робот «Росатом Интелмаша» раздавал шоколад на IV Международном форуме особых экономических зон",
-      "summary": "Компания представила робототехническое решение на стенде особой экономической зоны «Дубна»: «Росатом Интелмаш» развивает там собственную производственную и испытательную инфраструктуру. Комплекс для автоматизированной выдачи шоколада на базе промышленного робота АИМ М7-Д759 продемонстрировал универсальность современных промышленных роботов, которые могут применяться для выполнения широкого спектра производственных задач: от обслуживания технологического оборудования до автоматизации сборочных, сварочных и логистических операций.",
-      "url": "https://t.me/rosatomru/7437",
-      "published_at": "2026-10-27T08:12:47Z",
-      "source_id": "rosatom",
-      "source": "Росатом",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
       "id": "4ab2d2cbcbeead19",
       "title": "Tritium Level Far Below Japan’s Operational Limit in 25th Batch of ALPS Treated Water, IAEA Confirms",
       "summary": "",
@@ -4119,28 +4240,6 @@
       "language": "en"
     },
     {
-      "id": "021132c8439e687b",
-      "title": "Первый Российско-Африканский женский форум прошёл в Танзании при поддержке «Росатома»",
-      "summary": "Организаторами форума «Диалог континентов: атомная энергия для будущего» выступили объединение Woman in Nuclear (WiN) Tanzania и Женское сообщество «Росатома». Форум объединил представителей восьми стран: России, Танзании, Египта, Уганды, Замбии, ЮАР, Эфиопии и Демократической Республики Конго. Эксперты обсудили участие женщин в развитии атомной энергетики, ядерной медицины, добывающей промышленности, а также подготовку кадров и привлечение девушек к обучению по специальностям STEM (естественные науки, технологии, инженерное дело и математика).",
-      "url": "https://t.me/rosatomru/7436",
-      "published_at": "2026-10-27T05:49:05Z",
-      "source_id": "rosatom",
-      "source": "Росатом",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
-      "id": "2c520fbeff857303",
-      "title": "Свежие кадры с АЭС «Руппур» в Бангладеш.",
-      "summary": "👌 Подписывайтесь на «Росатом» | Оставляйте «бусты» #видео #АЭСРуппур",
-      "url": "https://t.me/rosatomru/7435",
-      "published_at": "2026-10-26T15:04:12Z",
-      "source_id": "rosatom",
-      "source": "Росатом",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
       "id": "dca459765c8b58ec",
       "title": "New Polling Reveals Majority Of Australians Support Nuclear Energy",
       "summary": "Almost two-thirds of Australians believe nuclear power should be part of the nation's energy future, as new polling reveals growing concerns about Australia's ability to meet its electricity needs. New YouGov research commissioned by lobby group Nuclear for Australia has found that 63% of Australians believe nuclear power should be considered, while 60% believe it will form part of Australia’s future energy mix.",
@@ -4150,17 +4249,6 @@
       "source": "NucNet",
       "topic": "international",
       "language": "en"
-    },
-    {
-      "id": "8a1453eeb35442bf",
-      "title": "Студентам и представителям общественности показали стройку подземной лаборатории «Росатома»",
-      "summary": "Студенты Сибирского государственного университета науки и технологии имени академика Решетнева и представители Общественного совета при Министерстве экологии Красноярского края посетили стройплощадку подземной исследовательской лаборатории, которую госкорпорация строит в Красноярском крае. На глубине более 500 метров, в породах Нижне-Канского массива, ученые будут изучать возможности размещения высоко- и среднеактивных долгоживущих радиоактивных отходов в геологической среде.",
-      "url": "https://t.me/rosatomru/7434",
-      "published_at": "2026-10-26T13:38:57Z",
-      "source_id": "rosatom",
-      "source": "Росатом",
-      "topic": "construction",
-      "language": "ru"
     },
     {
       "id": "6facf703ed34ee38",
@@ -4226,61 +4314,6 @@
       "source_id": "atominfo",
       "source": "AtomInfo.Ru",
       "topic": "reactors",
-      "language": "ru"
-    },
-    {
-      "id": "171922f382c70cfc",
-      "title": "Нововоронежская АЭС работает в штатном режиме после атаки ВСУ на регион",
-      "summary": "Нововоронежская АЭС работает в штатном режиме после атаки ВСУ на Воронежскую область, передаёт ТАСС со ссылкой на пресс-службу станции.",
-      "url": "http://atominfo.ru/newsz10/a0096.htm",
-      "published_at": "2026-10-26T06:43:57Z",
-      "source_id": "atominfo",
-      "source": "AtomInfo.Ru",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
-      "id": "de71ff57763fe4c2",
-      "title": "NRC утвердила правило об использовании данных из демонстрационных проектов",
-      "summary": "Комиссия по ядерному регулированию (NRC) США 22 октября 2026 года окончательно утвердила правило, позволяющее заявителям коммерческих проектов использовать данные демонстрационных проектов.",
-      "url": "http://atominfo.ru/newsz10/a0095.htm",
-      "published_at": "2026-10-25T15:58:06Z",
-      "source_id": "atominfo",
-      "source": "AtomInfo.Ru",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
-      "id": "77a3acfb77408b7b",
-      "title": "Правительство Финляндии выдало лицензию на геологическое хранилище ОЯТ",
-      "summary": "Правительство Финляндии выдало лицензию компании Posiva на эксплуатацию комплекса Onkalo по кондиционированию и окончательному захоронению ОЯТ.",
-      "url": "http://atominfo.ru/newsz10/a0094.htm",
-      "published_at": "2026-10-25T15:50:33Z",
-      "source_id": "atominfo",
-      "source": "AtomInfo.Ru",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
-      "id": "a3b39dd0183a64c7",
-      "title": "Natrium - установлен тренажёр",
-      "summary": "Установка полномасштабного тренажёра Stage 1 Training Simulator (TSN) завершена на площадке строящегося в Кеммерере (США) быстрого натриевого реактора Natrium.",
-      "url": "http://atominfo.ru/newsz10/a0093.htm",
-      "published_at": "2026-10-25T15:43:15Z",
-      "source_id": "atominfo",
-      "source": "AtomInfo.Ru",
-      "topic": "construction",
-      "language": "ru"
-    },
-    {
-      "id": "945f258d679d67d5",
-      "title": "Посольство России в Иране опровергло сообщения об эвакуции специалистов Бушерской АЭС",
-      "summary": "Посольство России в Иране опровергло сообщения о якобы начавшейся эвакуации дипломатического персонала и специалистов АЭС \"Бушер\".",
-      "url": "http://atominfo.ru/newsz10/a0092.htm",
-      "published_at": "2026-10-25T14:39:25Z",
-      "source_id": "atominfo",
-      "source": "AtomInfo.Ru",
-      "topic": "international",
       "language": "ru"
     },
     {
