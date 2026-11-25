@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-25T08:31:10Z",
+  "generated_at": "2026-11-25T21:40:30Z",
   "sources": [
     {
-      "status": "updated",
-      "error": "",
+      "status": "cached",
+      "error": "Remote end closed connection without response",
       "id": "atomic-energy",
       "name": "Атомная энергия 2.0",
       "site": "https://www.atomic-energy.ru",
@@ -47,7 +47,7 @@
       "id": "iaea",
       "name": "IAEA",
       "site": "https://www.iaea.org",
-      "article_count": 41
+      "article_count": 42
     },
     {
       "status": "updated",
@@ -55,10 +55,164 @@
       "id": "nucnet",
       "name": "NucNet",
       "site": "https://www.nucnet.org",
-      "article_count": 37
+      "article_count": 38
     }
   ],
   "articles": [
+    {
+      "id": "8f15908b9eaa3677",
+      "title": "В Сосновый Бор доставлены парогенераторы для строящегося энергоблока №3 ВВЭР-1200 Ленинградской АЭС-2",
+      "summary": "Парогенераторы для строящегося энергоблока №3 ВВЭР-1200 Ленинградской АЭС-2 доставлены в Сосновый Бор.",
+      "url": "http://atominfo.ru/newsz10/a0223.htm",
+      "published_at": "2026-11-25T17:27:57Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
+      "id": "248e6b0172c9f983",
+      "title": "20 лет назад началась реализация глобального проекта ИТЭР с амбициозной целью приблизить человечество к использованию термоядерного синтеза.",
+      "summary": "👌 Подписывайтесь на «Росатом» | Оставляйте «бусты» #Лонгрид #ИТЭР",
+      "url": "https://t.me/rosatomru/7558",
+      "published_at": "2026-11-25T15:04:34Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "7452a8705680839d",
+      "title": "Construction of third unit at Taishan begins",
+      "summary": "The first concrete has been poured for the nuclear island of unit 3 at the Taishan nuclear power plant in Guangdong province, China General Nuclear has announced.",
+      "url": "https://www.world-nuclear-news.org/articles/construction-of-third-unit-at-taishan-begins",
+      "published_at": "2026-11-25T14:50:37Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "construction",
+      "language": "en"
+    },
+    {
+      "id": "d7eb80e69f9e513d",
+      "title": "На стройку третьего энергоблока Ленинградской АЭС-2 доставили парогенераторы",
+      "summary": "В Сосновый Бор прибыли четыре цилиндрических сосуда, каждый длиной по 13 метров, внутренним диаметром свыше 4 метров и суммарным весом более 1300 тонн. «По графику монтаж парогенераторов на штатное место должен быть выполнен в следующем году. Сейчас мы готовим необходимые для этой операции строительные конструкции: до весны планируем выполнить в здании реактора 8 специальных опор для размещения этого оборудования, по 2 опоры на каждый парогенератор.",
+      "url": "https://t.me/rosatomru/7557",
+      "published_at": "2026-11-25T14:41:50Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "construction",
+      "language": "ru"
+    },
+    {
+      "id": "fbef9f6e1b0f28e7",
+      "title": "Восьмой энергоблок АЭС «Тяньвань» в Китае прошел «горячие» испытания",
+      "summary": "Блок готовят к загрузке ядерного топлива. «Горячая» обкатка реакторной установки – обязательный этап на пути к физпуску, который планируют на первый квартал 2027 года. При температуре более 260 градусов Цельсия опробовали системы защиты первого и второго контуров от превышения давления, провели испытания работы главных циркуляционных насосов на горячих параметрах реакторной установки, проверили системы электропитания. «Мы вышли на финишную прямую по подготовке энергоблока к физическому пуску.",
+      "url": "https://t.me/rosatomru/7555",
+      "published_at": "2026-11-25T13:48:02Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
+      "id": "ea0fb1899f646cdf",
+      "title": "Framatome enhances its capacity for reactor internals",
+      "summary": "Framatome has inaugurated within its industrial facility in Le Creusot, France, a new workshop dedicated to the manufacturing and assembly of nuclear reactor pressure vessel internals.",
+      "url": "https://www.world-nuclear-news.org/articles/framatome-enhances-its-capacity-for-reactor-internals",
+      "published_at": "2026-11-25T13:13:15Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "05ee91e66d550ba3",
+      "title": "Westinghouse to qualify BWXT for AP1000 component manufacture",
+      "summary": "Westinghouse Electric Company and BWXT Canada have agreed to qualify BWXT Canada to manufacture key components for AP1000 projects, a move the companies say expands opportunities for the Canadian and US nuclear supply chains.",
+      "url": "https://www.world-nuclear-news.org/articles/bwxt-awarded-ap1000-manufacturing-qualification-contracts",
+      "published_at": "2026-11-25T12:51:31Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "1c72eb60f305f7f9",
+      "title": "«Росатом» первым в мире продемонстрировал полную технологическую готовность к замыканию ядерного топливного цикла",
+      "summary": "В реакторе на быстрых нейтронах БН-800 четвертого энергоблока Белоярской АЭС началась опытно-промышленная эксплуатация рециклированного уран‑плутониевого топлива. Его изготовили с использованием плутония, выделенного из облученной топливной сборки. Та сборка также эксплуатировалась в БН-800. Впервые в мире на промышленном реакторе показана работоспособность концепции замкнутого ядерного топливного цикла. Ранее российские атомщики уже загружали в быстрый реактор топливо с добавлением регенерата из традиционных тепловых реакторов.",
+      "url": "https://t.me/rosatomru/7554",
+      "published_at": "2026-11-25T11:25:48Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
+      "id": "2ff7bd4ead61ebf3",
+      "title": "First radial plate manufactured for Proxima stellarator",
+      "summary": "Three German industrial companies have completed the first of many radial plates for the Stellarator Model Coil designed and engineered by Munich-based fusion company Proxima Fusion.",
+      "url": "https://www.world-nuclear-news.org/articles/first-radial-plate-manufactured-for-proxima-stellarator",
+      "published_at": "2026-11-25T11:15:29Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "4c7818ad0dc64be5",
+      "title": "Steam generators progress for Leningrad II and MBIR",
+      "summary": "Four steam generators have been delivered for the third unit at the new phase of the Leningrad Nuclear Power Plant. Two specially designed steam generators for the Multipurpose Fast Research Reactor have also been completed, Rosatom has announced.",
+      "url": "https://www.world-nuclear-news.org/articles/steam-generator-progress-for-lenningrad-ii-and-mbir",
+      "published_at": "2026-11-25T10:28:15Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "0078bd18fd59d982",
+      "title": "IAEA Publications: Nuclear Knowledge at Your Fingertips",
+      "summary": "",
+      "url": "http://www.iaea.org/newscenter/news/iaea-publications-nuclear-knowledge-at-your-fingertips",
+      "published_at": "2026-11-25T09:00:00Z",
+      "source_id": "iaea",
+      "source": "IAEA",
+      "topic": "international",
+      "language": "en"
+    },
+    {
+      "id": "d43d758b8ff3366b",
+      "title": "На Ростовскую АЭС доставили подогреватели высокого давления нового поколения для модернизации первого блока",
+      "summary": "Четыре подогревателя высокого давления камерного типа (ПВД-К) изготовили на машиностроительном заводе «ЗиО-Подольск». В ходе ближайшего планово-предупредительного ремонта их установят в машинном зале первого энергоблока взамен коллекторно-спиральных подогревателей. Срок службы нового оборудования – 30 лет. Оно эффективнее, компактнее и проще в обслуживании. Длина каждого ПВД-К более 11 метров, вес - более 120 тонн. На самую южную атомную станцию подогреватели проехали более тысячи километров автотранспортом на специализированных платформах.",
+      "url": "https://t.me/rosatomru/7552",
+      "published_at": "2026-11-25T08:59:35Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "reactors",
+      "language": "ru"
+    },
+    {
+      "id": "8cfd2eb3ac045cca",
+      "title": "Framatome Inaugurates Major Components Facility As France Prepares For Reactor Rollout",
+      "summary": "Framatome, the nuclear engineering subsidiary of French state-owned utility EDF, has inaugurated a new €100m ($109m) nuclear component manufacturing facility as France prepares to advance its next generation of nuclear power projects. The facility at Le Creusot in eastern France is dedicated to the manufacturing and assembly of nuclear reactor pressure vessel internals.",
+      "url": "https://www.nucnet.org/news/framatome-inaugurates-major-components-facility-as-france-prepares-for-reactor-rollout-11-3-2026",
+      "published_at": "2026-11-25T08:53:23Z",
+      "source_id": "nucnet",
+      "source": "NucNet",
+      "topic": "reactors",
+      "language": "en"
+    },
+    {
+      "id": "7614343228399866",
+      "title": "Казатомпром выпустил два заявления в связи с кадровыми изменениями",
+      "summary": "\"Казатомпром\" опубликовал на официальном сайте заявление.",
+      "url": "http://atominfo.ru/newsz10/a0219.htm",
+      "published_at": "2026-11-25T08:05:18Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "international",
+      "language": "ru"
+    },
     {
       "id": "de94cff92d30fa92",
       "title": "Мифисты блестяще выступили на конференции по оптике, лазерной физике и физике плазмы",
@@ -68,6 +222,17 @@
       "source_id": "atomic-energy",
       "source": "Атомная энергия 2.0",
       "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "68010905a1cbc202",
+      "title": "В США началась процедура очередного продления решения о предоставлении информации МАГАТЭ в рамках доппротокола к соглашению о гарантиях",
+      "summary": "Бюро промышленности и безопасности (BIS) министерства торговли США открыло 60-дневный период публичных комментариев к предложению о продлении сбора информации (OMB Control No. 0694-0135) для отчётности в рамках дополнительного протокола к соглашению между США и МАГАТЭ о гарантиях в связи с ДНЯО.",
+      "url": "http://atominfo.ru/newsz10/a0218.htm",
+      "published_at": "2026-11-25T07:55:46Z",
+      "source_id": "atominfo",
+      "source": "AtomInfo.Ru",
+      "topic": "safety",
       "language": "ru"
     },
     {
@@ -656,7 +821,7 @@
     {
       "id": "13aecdf3ef65d486",
       "title": "Supporting Children's Health Using Nuclear Techniques",
-      "summary": "From understanding malnutrition to strengthening medical imaging services, nuclear science and technology contribute to improving the health and well-being of children around the world.",
+      "summary": "",
       "url": "http://www.iaea.org/newscenter/news/supporting-childrens-health-using-nuclear-techniques",
       "published_at": "2026-11-23T09:00:00Z",
       "source_id": "iaea",
@@ -3613,17 +3778,6 @@
       "language": "ru"
     },
     {
-      "id": "4c57d2dd716d65a0",
-      "title": "На энергоблоке №4 АЭС Аккую завершено бетонирование фундамента турбоагрегата",
-      "summary": "Операция по бетонированию фундамента турбоагрегата четвёртого энергоблока выполнена на площадке АЭС \"Аккую\" (Турция), сообщается на сайте компании \"Аккую Нуклеар\".",
-      "url": "http://atominfo.ru/newsz10/a0126.htm",
-      "published_at": "2026-11-07T10:01:36Z",
-      "source_id": "atominfo",
-      "source": "AtomInfo.Ru",
-      "topic": "construction",
-      "language": "ru"
-    },
-    {
       "id": "d94851181aa14b1a",
       "title": "«Росатом» планирует построить крупнейший в России завод по переработке уранового сырья",
       "summary": "Новый гидрометаллургический завод по переработке урановых и уран-молибденовых руд месторождений «Аргунское» и «Жерловое» решено запустить на базе Приаргунского производственного горно-химического объединения в Краснокаменске. Производство будет включать две независимые очереди, каждая рассчитана на выпуск порядка 5,5 тыс. т закиси-окиси урана в год. Это основной компонент сырья для ядерного топлива атомных электростанций.",
@@ -3741,28 +3895,6 @@
       "published_at": "2026-11-06T11:01:20Z",
       "source_id": "rosatom",
       "source": "Росатом",
-      "topic": "reactors",
-      "language": "ru"
-    },
-    {
-      "id": "c354a81b9a5ace2b",
-      "title": "Энергоблок №3 Смоленской АЭС включён в сеть после завершения планового текущего ремонта",
-      "summary": "Энергоблок №3 Смоленской АЭС включён в сеть после завершения планового текущего ремонта.",
-      "url": "http://atominfo.ru/newsz10/a0124.htm",
-      "published_at": "2026-11-06T10:44:54Z",
-      "source_id": "atominfo",
-      "source": "AtomInfo.Ru",
-      "topic": "reactors",
-      "language": "ru"
-    },
-    {
-      "id": "9d5930873e0a9286",
-      "title": "На Ленинградской АЭС завершился плановый ремонт энергоблока №2 ВВЭР-1200",
-      "summary": "Энергоблок №2 ВВЭР-1200 Ленинградской АЭС-2 4 ноября 2026 года был выведен на номинальный уровень мощности после окончания планового среднего ремонта.",
-      "url": "http://atominfo.ru/newsz10/a0123.htm",
-      "published_at": "2026-11-06T10:24:10Z",
-      "source_id": "atominfo",
-      "source": "AtomInfo.Ru",
       "topic": "reactors",
       "language": "ru"
     },
@@ -3976,17 +4108,6 @@
       "language": "en"
     },
     {
-      "id": "5a5b98ee90f31add",
-      "title": "Amentum, Kyoto Fusioneering agree fusion collaboration",
-      "summary": "Kyoto Fusioneering and Amentum have signed a memorandum of understanding covering international cooperation across the UK, Japan and the USA in advancing fusion energy commercialisation.",
-      "url": "https://www.world-nuclear-news.org/articles/amentum-kyoto-fusioneering-target-fusion-commercialisation",
-      "published_at": "2026-11-04T09:13:01Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
-      "topic": "international",
-      "language": "en"
-    },
-    {
       "id": "aa4da0dd4dec87fd",
       "title": "The Lise Meitner Programme Explores the Nuclear Fuel Cycle in France and IAEA HQ",
       "summary": "",
@@ -4031,17 +4152,6 @@
       "language": "ru"
     },
     {
-      "id": "fa28e54e25579f07",
-      "title": "Bruce unit 5 refurbishment begins",
-      "summary": "Bruce 5 was taken off-line to begin its Major Component Replacement outage on 1 November, the fourth unit to be refurbished under Bruce Power's plan to renew six of the eight units at the Ontario site.",
-      "url": "https://www.world-nuclear-news.org/articles/bruce-unit-5-refurbishment-begins",
-      "published_at": "2026-11-03T15:44:35Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
-      "topic": "reactors",
-      "language": "en"
-    },
-    {
       "id": "4de5bad474054594",
       "title": "«Росатом» развивает сотрудничество по термоядерному синтезу с Китаем",
       "summary": "Лидеры плазменных технологий России и Китая встретились в троицком лабораторном комплексе Проектного центра ИТЭР. Обсуждали сотрудничество по проекту международного термоядерного реактора ИТЭР, но основной упор был сделан на выработке стратегической линии партнёрства по национальным термоядерным проектам. Анатолий Красильников, директор Проектного центра ИТЭР Мы находимся в уникальной исторической точке, когда опыт и технологии ИТЭР двух термоядерных сверхдержав могут быть использованы для обоюдовыгодного сотрудничества России и Китая.",
@@ -4051,17 +4161,6 @@
       "source": "Росатом",
       "topic": "reactors",
       "language": "ru"
-    },
-    {
-      "id": "a2b18dbcfb01072d",
-      "title": "Urenco USA marks first commercial LEU+ production",
-      "summary": "Urenco USA's first cylinder of LEU+ is also the first commercial production of the material in the Western world and ushers in a new era of fuel options, the company says.",
-      "url": "https://www.world-nuclear-news.org/articles/urenco-usa-marks-first-commercial-leu-production",
-      "published_at": "2026-11-03T14:21:44Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
-      "topic": "fuel",
-      "language": "en"
     },
     {
       "id": "f1500c0554367a06",
@@ -4075,17 +4174,6 @@
       "language": "ru"
     },
     {
-      "id": "71112a16c451ed2c",
-      "title": "Saltfoss targets US licensing for floating power plant",
-      "summary": "Molten Salt Power Barge developer Saltfoss has notified the US Nuclear Regulatory Commission of its intent to begin pre-application engagement.",
-      "url": "https://www.world-nuclear-news.org/articles/saltfoss-targets-us-licensing-for-floating-power-plant",
-      "published_at": "2026-11-03T14:01:18Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
-      "topic": "safety",
-      "language": "en"
-    },
-    {
       "id": "c617df146415b5b7",
       "title": "Россия и Вьетнам расширяют сотрудничество в сфере мирного атома",
       "summary": "«Лидер Консорциума «Международный центр исследований на базе реактора МБИР» и Вьетнамский институт атомной энергии (Vinatom) подписали меморандум о взаимопонимании. Стороны проработают условия присоединения Vinatom к Консорциуму. Для вьетнамских специалистов это откроет доступ к экспериментальной инфраструктуре сооружаемого в Димитровграде реактора МБИР — самой высокопоточной исследовательской установке на быстрых нейтронах в мире.",
@@ -4095,17 +4183,6 @@
       "source": "Росатом",
       "topic": "reactors",
       "language": "ru"
-    },
-    {
-      "id": "3d842eecf1c7397d",
-      "title": "Turkey and South Korea explore nuclear financing cooperation",
-      "summary": "A framework to evaluate potential cooperation on the financing of nuclear power projects was one of a number of energy-related initiatives agreed between Turkey and South Korea.",
-      "url": "https://www.world-nuclear-news.org/articles/turkey-and-south-korea-agree-on-nuclear-financing-cooperation",
-      "published_at": "2026-11-03T12:10:39Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
-      "topic": "international",
-      "language": "en"
     },
     {
       "id": "8b58dceca373af78",
@@ -4218,39 +4295,6 @@
       "language": "en"
     },
     {
-      "id": "ae20badffd6cc512",
-      "title": "✅ «Росатом» принял участие в саммите «Россия – Африка», подписаны соглашения с Того, Руандой, Угандой",
-      "summary": "✅ На первом блоке АЭС «Аккую» в Турции проверили оборудование второго контура на прочность ✅ «Росатом» начал поставки ядерного топлива для второго энергоблока АЭС «Руппур» в Бангладеш ✅ На Соликамском магниевом заводе станут получать ценные редкоземельные элементы ✅ «Росатом» завершил северный завоз - 2026 👌 Подписывайтесь на «Росатом» | Оставляйте «бусты» #дайджест #АтомнаяНеделя",
-      "url": "https://t.me/rosatomru/7460",
-      "published_at": "2026-10-30T16:03:14Z",
-      "source_id": "rosatom",
-      "source": "Росатом",
-      "topic": "reactors",
-      "language": "ru"
-    },
-    {
-      "id": "b3c705cf3eba9e92",
-      "title": "«Росатом» поможет оценить готовность ядерной инфраструктуры Уганды к сооружению АЭС",
-      "summary": "На саммите «Россия – Африка» подписана дорожная карта сотрудничества между госкорпорацией и Министерством энергетики и минеральных ресурсов Республики Уганда. 👌 Подписывайтесь на «Росатом» | Оставляйте «бусты» #цитата #РоссияАфрика #АлексейЛихачев",
-      "url": "https://t.me/rosatomru/7459",
-      "published_at": "2026-10-30T15:45:18Z",
-      "source_id": "rosatom",
-      "source": "Росатом",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
-      "id": "eef23603f4ea632e",
-      "title": "Реализуемый «Росатомом» и Калужской областью проект создания кампуса «Обнинск Тех» получил поддержку на федеральном уровне",
-      "summary": "Кампусная заявка проекта «Обнинск Тех» победила в конкурсе Минобрнауки России в рамках федерального проекта «Создание сети современных кампусов» национального проекта «Молодёжь и дети». Всего в список вошли 19 проектов со всей страны. Индустриальным партнером проекта «Обнинск Тех» является госкорпорация «Росатом», которая реализует его совместно с Калужской областью, Национальным исследовательским ядерным университетом «МИФИ» (НИЯУ МИФИ) и другими университетами-партнерами.",
-      "url": "https://t.me/rosatomru/7458",
-      "published_at": "2026-10-30T15:05:27Z",
-      "source_id": "rosatom",
-      "source": "Росатом",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
       "id": "aa9fa92f6e473bf2",
       "title": "IAEA Urges Kenya To Finalise Policies On Radioactive Waste Management",
       "summary": "Kenya should finalise national policies on radioactive waste management and strengthen regulatory independence as it prepares to introduce nuclear power, an International Atomic Energy Agency (IAEA) review mission has said. The IAEA said an international team had recognised “considerable progress” in the east African nation’s radioactive waste management programme in recent years, but identified areas requiring further development.",
@@ -4262,17 +4306,6 @@
       "language": "en"
     },
     {
-      "id": "1bc5996fa0a0166d",
-      "title": "Электроды без брака. Ученые «Росатома» обеспечили контроль качества на гигафабрике накопителей энергии",
-      "summary": "Всерегиональное объединение «Изотоп» (входит в научный дивизион госкорпорации) поставило источники ионизирующего излучения криптона-85 производства ПО «Маяк» на гигафабрику «Росатома» в московском регионе. Источники используют в приборах технологической линии участка производства электродов для ячеек аккумуляторных батарей для постоянного контроля качества нанесения активного вещества на фольгу. Благодаря излучению криптона-85 приборы отслеживают толщину и равномерность нанесения активного вещества, позволяя своевременно отследить брак.",
-      "url": "https://t.me/rosatomru/7457",
-      "published_at": "2026-10-30T12:30:02Z",
-      "source_id": "rosatom",
-      "source": "Росатом",
-      "topic": "fuel",
-      "language": "ru"
-    },
-    {
       "id": "8637e8e1a4f8c5b0",
       "title": "South Korea’s KHNP Breaks Off Construction Contract Talks On Dukovany Reactor Project",
       "summary": "Korea Hydro & Nuclear Power (KHNP) has broken off construction contract talks with a Daewoo Engineering & Construction-led consortium for a $18.6bn (€16.5bn) project to build two new nuclear plants at the Dukovany site in the Czech Republic. The state-run nuclear operator said on Thursday (29 October) it would move to terminate its cooperation agreement with the consortium, which includes Doosan Enerbility, and launch a new bidding process to find a replacement contractor.",
@@ -4282,17 +4315,6 @@
       "source": "NucNet",
       "topic": "construction",
       "language": "en"
-    },
-    {
-      "id": "3c6fb15326ce58c6",
-      "title": "Россия поможет Руанде в развитии ядерной инфраструктуры",
-      "summary": "На третьем саммите «Россия – Африка» «Росатом» и Совет по атомной энергии Республики Руанда подписали меморандум о сотрудничестве в оценке и развитии ядерной инфраструктуры. Документ предусматривает конкретные шаги по определению текущих потребностей Руанды в этой сфере. 👌 Подписывайтесь на «Росатом» | Оставляйте «бусты» #цитата #РоссияАфрика #АлексейЛихачев",
-      "url": "https://t.me/rosatomru/7456",
-      "published_at": "2026-10-30T10:01:40Z",
-      "source_id": "rosatom",
-      "source": "Росатом",
-      "topic": "international",
-      "language": "ru"
     },
     {
       "id": "d4e3cfd0647ed83a",
