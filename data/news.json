@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-27T08:29:29Z",
+  "generated_at": "2026-11-27T21:15:42Z",
   "sources": [
     {
-      "status": "cached",
-      "error": "Remote end closed connection without response",
+      "status": "updated",
+      "error": "",
       "id": "atomic-energy",
       "name": "Атомная энергия 2.0",
       "site": "https://www.atomic-energy.ru",
@@ -23,7 +23,7 @@
       "id": "rosatom",
       "name": "Росатом",
       "site": "https://rosatom.ru",
-      "article_count": 80
+      "article_count": 79
     },
     {
       "status": "updated",
@@ -55,10 +55,219 @@
       "id": "nucnet",
       "name": "NucNet",
       "site": "https://www.nucnet.org",
-      "article_count": 38
+      "article_count": 39
     }
   ],
   "articles": [
+    {
+      "id": "1889b6f3467d9bb1",
+      "title": "✅ «Росатом» первым в мире продемонстрировал полную технологическую готовность к замыканию ядерного топливного цикла",
+      "summary": "✅ Восьмой энергоблок АЭС «Тяньвань» в Китае прошел «горячие» испытания, «ТВЭЛ» поставил ядерное топливо на площадку ✅️ На «ЗиО-Подольске» изготовили парогенераторы для самого мощного в мире быстрого исследовательского реактора ✅️ Горняки «Росатома» установили производственный рекорд ✅️ На стройку третьего энергоблока Ленинградской АЭС-2 доставили парогенераторы 👌 Подписывайтесь на «Росатом» | Оставляйте «бусты» #дайджест #АтомнаяНеделя",
+      "url": "https://t.me/rosatomru/7566",
+      "published_at": "2026-11-27T15:01:25Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "construction",
+      "language": "ru"
+    },
+    {
+      "id": "4132e0a8b55fef60",
+      "title": "«Росатом» наградил победителей Международной премии «Социальные лидеры БРИКС+»",
+      "summary": "В Москве, в Национальном центре «Россия» в рамках Международного муниципального форума состоялась церемония награждения победителей международной премии «Социальные лидеры БРИКС+», организованной…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/27/170287",
+      "published_at": "2026-11-27T14:43:49Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "8751ee96eacd3064",
+      "title": "Инновационный комплекс переработки ЖРО Кольской АЭС за 20 лет произвёл 5 000 тонн безопасного солевого плава",
+      "summary": "На комплексе переработки жидких радиоактивных отходов (КП ЖРО) Кольской АЭС (филиал Концерна «Росэнергоатом», Электроэнергетический дивизион госкорпорации «Росатом») достигнут знаковый…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/27/170286",
+      "published_at": "2026-11-27T14:26:20Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "e8bbb10cd05e8a41",
+      "title": "Во ВНИИАЭС прошёл VIII Молодёжный слёт Электроэнергетического дивизиона «Росатома»",
+      "summary": "24 и 25 ноября 2026 года во Всероссийском научно-исследовательском институте по эксплуатации атомных электростанций (ВНИИАЭС) прошел VIII Молодёжный слёт Электроэнергетического дивизиона…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/27/170285",
+      "published_at": "2026-11-27T14:17:38Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "dc031308b568629c",
+      "title": "Decommissioning projects in Germany and Switzerland near completion",
+      "summary": "The dismantling of the steel sphere of the containment vessel has begun at the decommissioned Stade nuclear power plant in Germany. Meanwhile, the demolition of the remaining concrete structure of Switzerland's Saphir research reactor is set to start.",
+      "url": "https://www.world-nuclear-news.org/articles/decommissioning-projects-in-germany-and-switzerland-near-completion",
+      "published_at": "2026-11-27T14:09:46Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "construction",
+      "language": "en"
+    },
+    {
+      "id": "b8bb8d3b01687bd2",
+      "title": "«Росатом» представил государствам СНГ технологии роботизации для атомной энергетики нового поколения",
+      "summary": "25 ноября 2026 года Департамент научно‑технических программ и проектов госкорпорации «Росатом» провёл ознакомительный семинар «Новая технологическая платформа атомной энергетики: роботизация…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/27/170284",
+      "published_at": "2026-11-27T14:09:10Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "9979391e51b5d535",
+      "title": "Nucleoeléctrica Argentina Signs ‘Landmark’ Agreement With Canada’s Candu Energy",
+      "summary": "Nucleoeléctrica Argentina has signed what it called a landmark agreement with Candu Energy to deliver specialised engineering services and technical assistance to the Canadian company on life-extension projects, scheduled outages and the construction of new nuclear facilities, both in Canada and around the world. Nucleoeléctrica, Argentina’s state nuclear company, said the agreement opens up new business opportunities in the global nuclear services market.",
+      "url": "https://www.nucnet.org/news/nucleoelectrica-argentina-signs-landmark-agreement-with-canada-s-candu-energy-11-5-2026",
+      "published_at": "2026-11-27T13:33:18Z",
+      "source_id": "nucnet",
+      "source": "NucNet",
+      "topic": "construction",
+      "language": "en"
+    },
+    {
+      "id": "0410d3e553da19c6",
+      "title": "В Самаре состоялась XXIV Всероссийская молодёжная конкурс-конференция по оптике, лазерной физике и физике плазмы",
+      "summary": "XXIV Всероссийская молодёжная Самарская конкурс-конференция по оптике, лазерной физике и физике плазмы прошла в Самарском филиале ФИАН и Самарском университете. В мероприятии приняли участие молодые…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/27/170283",
+      "published_at": "2026-11-27T12:59:46Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "7be34ce36ffcfd2e",
+      "title": "IAEA seeks fresh local ceasefire for Zaporizhzhia power line repairs",
+      "summary": "The International Atomic Energy Agency is seeking to arrange a ninth localised ceasefire after Zaporizhzhia Nuclear Power Plant lost external power and is having to rely again on its emergency generators.",
+      "url": "https://www.world-nuclear-news.org/articles/iaea-seeks-fresh-local-ceasefire-for-zaporizhzhia-power-line-repairs",
+      "published_at": "2026-11-27T12:24:48Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "safety",
+      "language": "en"
+    },
+    {
+      "id": "e65ab5cd395619f4",
+      "title": "Construction milestones reached at fourth Zhangzhou unit",
+      "summary": "The inner safety dome has been installed on the containment building of unit 4 at the Zhangzhou nuclear power plant, the fourth of six Hualong One (HPR1000) reactors planned for the site in China's Fujian province. The milestone comes six days after the third and final steam generator was moved into position at the unit.",
+      "url": "https://www.world-nuclear-news.org/articles/construction-milestones-reached-at-fourth-zhangzhou-unit",
+      "published_at": "2026-11-27T12:23:22Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "construction",
+      "language": "en"
+    },
+    {
+      "id": "2a788bc102522986",
+      "title": "Work begins on Husab heap leach plant",
+      "summary": "China General Nuclear has announced the start of construction of an industrial-scale heap-leaching plant for low-grade uranium ore at its Husab project in Namibia.",
+      "url": "https://www.world-nuclear-news.org/articles/work-begins-on-husab-heap-leach-plant",
+      "published_at": "2026-11-27T12:14:16Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "construction",
+      "language": "en"
+    },
+    {
+      "id": "1e3e51643f008c06",
+      "title": "FESCO запустила железнодорожный контейнерный сервис между Санкт-Петербургом и Новороссийском",
+      "summary": "Новый маршрут дает возможность доставлять в южные регионы России импортные грузы через акваторию Балтики, минуя Черное море. Первый состав с товарами народного потребления отправился 26 ноября. В течение недели запланирован второй поезд по тому же маршруту. «Сервис из Северной столицы пополнил линейку наших маршрутов, связывающих грузополучателей юга России с зарубежными партнерами. Ранее мы запустили поезд между Новороссийском и Владивостоком, куда приходят товары из целого ряда азиатских стран — Китая, Южной Кореи, Вьетнама и других.",
+      "url": "https://t.me/rosatomru/7565",
+      "published_at": "2026-11-27T12:12:42Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "c341fae2c5623bfb",
+      "title": "«Силовые машины» совместно с БГТУ «ВОЕНМЕХ» провели Всероссийскую олимпиаду по двигателестроению",
+      "summary": "«Силовые машины» выступили индустриальным партнером LVIII Всероссийской студенческой олимпиады по специальности «Авиационные двигатели и энергетические установки», организованной БГТУ «ВОЕНМЕХ» им. Д…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/27/170281",
+      "published_at": "2026-11-27T11:42:16Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "7949199a754f2ffc",
+      "title": "Техническая академия «Росатома» стала лауреатом регионального этапа Международной премии #МЫВМЕСТЕ-2026",
+      "summary": "Проект «Семейные традиции династий атомных городов. Защитники Отечества» занял 3 место в номинации «Страна возможностей» (категория «НКО и проекты»). Награду на церемонии в Калуге получил…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/27/170280",
+      "published_at": "2026-11-27T11:36:55Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "abef0a5332a9d393",
+      "title": "«Базальт СПО» получила премию за внедрение в «Росатоме» отечественной операционной системы «Альт СП»",
+      "summary": "«Базальт СПО» стала лауреатом премии «Приоритет», которая уже более 10 лет вручается за внедрение передовых технологий в российской промышленности. Наградой в номинации «Цифровая трансформация…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/27/170279",
+      "published_at": "2026-11-27T11:26:40Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "9f127df47f1ae97b",
+      "title": "«Калининградский янтарный комбинат» Ростеха выпустил елочные игрушки по мотивам «Сказки о царе Салтане» Александра Пушкина",
+      "summary": "Калининградский янтарный комбинат (входит в холдинг «РТ-Финанс» Госкорпорации Ростех) изготовил уникальные подарочные наборы елочных игрушек с героями «Сказки о царе Салтане» А. С. Пушкина. В каждом…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/27/170278",
+      "published_at": "2026-11-27T10:07:05Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "economy",
+      "language": "ru"
+    },
+    {
+      "id": "9ecae843710c53b7",
+      "title": "НИЯУ МИФИ разработал концепцию хранения доверенных интегральных микросхем",
+      "summary": "Специалисты Центра экстремальной прикладной электроники (ЦЭПЭ) НИЯУ МИФИ разработали концепцию нормативного регулирования этапа хранения в жизненном цикле доверенных интегральных микросхем. В…",
+      "url": "https://www.atomic-energy.ru/news/2026/11/27/170277",
+      "published_at": "2026-11-27T09:57:08Z",
+      "source_id": "atomic-energy",
+      "source": "Атомная энергия 2.0",
+      "topic": "international",
+      "language": "ru"
+    },
+    {
+      "id": "29cebff725240a10",
+      "title": "Construction of pilot Elena-AM microreactor 'under way'",
+      "summary": "The Strategy for the Development of the Arctic Zone of the Russian Federation and Ensuring National Security in the Arctic says that construction is under way on a pilot Elena-AM microreactor.",
+      "url": "https://www.world-nuclear-news.org/articles/construction-of-pilot-elena-am-microreactor-under-way",
+      "published_at": "2026-11-27T09:14:56Z",
+      "source_id": "world-nuclear-news",
+      "source": "World Nuclear News",
+      "topic": "construction",
+      "language": "en"
+    },
+    {
+      "id": "6fb0746b0af5f089",
+      "title": "Заместитель генерального директора по персоналу «Росатома» Татьяна Терентьева стала лауреатом премии «Культура и трансформация» в номинации «За комплексную трансформацию компании, приведшую к измеримым изменениям в…",
+      "summary": "👌 Подписывайтесь на «Росатом» | Оставляйте «бусты» #цитата #новость",
+      "url": "https://t.me/rosatomru/7564",
+      "published_at": "2026-11-27T08:45:54Z",
+      "source_id": "rosatom",
+      "source": "Росатом",
+      "topic": "international",
+      "language": "ru"
+    },
     {
       "id": "69b660944c75e9fe",
       "title": "В музее «Атом» отметят День рождения «Росатома»",
@@ -432,17 +641,6 @@
       "source": "World Nuclear News",
       "topic": "international",
       "language": "en"
-    },
-    {
-      "id": "1c72eb60f305f7f9",
-      "title": "«Росатом» первым в мире продемонстрировал полную технологическую готовность к замыканию ядерного топливного цикла",
-      "summary": "В реакторе на быстрых нейтронах БН-800 четвертого энергоблока Белоярской АЭС началась опытно-промышленная эксплуатация рециклированного уран‑плутониевого топлива. Его изготовили с использованием плутония, выделенного из облученной топливной сборки. Та сборка также эксплуатировалась в БН-800. Впервые в мире на промышленном реакторе показана работоспособность концепции замкнутого ядерного топливного цикла. Ранее российские атомщики уже загружали в быстрый реактор топливо с добавлением регенерата из традиционных тепловых реакторов.",
-      "url": "https://t.me/rosatomru/7554",
-      "published_at": "2026-11-25T11:25:48Z",
-      "source_id": "rosatom",
-      "source": "Росатом",
-      "topic": "reactors",
-      "language": "ru"
     },
     {
       "id": "2ff7bd4ead61ebf3",
@@ -2183,39 +2381,6 @@
       "language": "ru"
     },
     {
-      "id": "ac4c3ffd5a35d10f",
-      "title": "ВАО АЭС провела на Балаковской атомной электростанции миссию поддержки по применению симптомно-ориентированных противоаварийных инструкций",
-      "summary": "Эксперты Всемирной ассоциации организаций, эксплуатирующих атомные станции (ВАО АЭС), провели на Балаковской атомной станции (Электроэнергетический дивизион госкорпорации Росатом») миссию поддержки,…",
-      "url": "https://www.atomic-energy.ru/news/2026/11/18/170009",
-      "published_at": "2026-11-18T07:13:43Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "safety",
-      "language": "ru"
-    },
-    {
-      "id": "81efcae65a195940",
-      "title": "Более 150 спортсменов приняли участие в 30-м турнире по дзюдо на призы профсоюзной организации Балаковской АЭС",
-      "summary": "Первичная профсоюзная организация Балаковской атомной станции провела в г. Балаково 30-й турнир по борьбе дзюдо, посвященный Году единства народов России. Юбилейный турнир собрал 18 команд из…",
-      "url": "https://www.atomic-energy.ru/news/2026/11/18/170008",
-      "published_at": "2026-11-18T06:52:39Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
-      "id": "1483669aeebe773e",
-      "title": "Женское сообщество «Росатома» представило опыт международной кооперации в высокотехнологичных отраслях на Втором экономическом саммите женщин АСЕАН в Маниле",
-      "summary": "В Маниле на Втором экономическом саммите женщин АСЕАН (Ассоциация государств Юго-Восточной Азии) был представлен опыт Женского сообщества «Росатома» по развитию международной кооперации женщин в…",
-      "url": "https://www.atomic-energy.ru/news/2026/11/18/170007",
-      "published_at": "2026-11-18T06:42:12Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
       "id": "7af4a1ffbd9fdca5",
       "title": "Russian regulator considers licence for Zaporizhzhia unit 3",
       "summary": "A Rostekhnadzor commission has begun work at the Zaporizhzhia Nuclear Power Plant to review material submitted in support of an operating licence application for unit 3.",
@@ -2256,83 +2421,6 @@
       "published_at": "2026-11-17T15:54:02Z",
       "source_id": "rosatom",
       "source": "Росатом",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
-      "id": "d5985188143c1197",
-      "title": "Российские АЭС подготовились к пиковым морозам будущей зимы",
-      "summary": "Атомные станции России продолжают обеспечивать стабильную энергетическую безопасность страны и готовы к работе в осенне-зимний период 2026-2027 годов. Соответствующий паспорт готовности выдан…",
-      "url": "https://www.atomic-energy.ru/news/2026/11/17/169998",
-      "published_at": "2026-11-17T15:36:22Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "safety",
-      "language": "ru"
-    },
-    {
-      "id": "7fea9b9c45cc735f",
-      "title": "Международная выставка-форум «ДОМ–2027» выступит площадкой развития промышленной кооперации в сфере глубокой переработки критических металлов",
-      "summary": "Фонд «Ангаро-Енисейская Долина» и ООО «Новосибирск Экспоцентр» — организатор Международной выставки-форума «Добыча. Обогащение. Модернизация» (ДОМ–2027) объединят усилия для развития единой системы…",
-      "url": "https://www.atomic-energy.ru/news/2026/11/17/169997",
-      "published_at": "2026-11-17T15:28:24Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "construction",
-      "language": "ru"
-    },
-    {
-      "id": "75f370fe7d23f56d",
-      "title": "Инновационный научно-технологический центр в Красноярске свяжет научные разработки с промышленными задачами «Ангаро-Енисейского кластера»",
-      "summary": "В рамках реализации проекта создания Ангаро-Енисейского кластера глубокой переработки цветных, редких и редкоземельных металлов в Красноярске уже стартовали мероприятия по созданию инфраструктуры…",
-      "url": "https://www.atomic-energy.ru/news/2026/11/17/169996",
-      "published_at": "2026-11-17T15:23:54Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
-      "id": "fe5334dad2f8f8fe",
-      "title": "«Силовые машины» изготовили новую модель паровой турбины для модернизации Рефтинской ГРЭС",
-      "summary": "«Силовые машины» спроектировали и изготовили новую модель паровой турбины для модернизации энергоблока №1 Рефтинской ГРЭС (ООО «Сибирская генерирующая компания»). Проект реализуется в рамках…",
-      "url": "https://www.atomic-energy.ru/news/2026/11/17/169995",
-      "published_at": "2026-11-17T15:14:11Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "reactors",
-      "language": "ru"
-    },
-    {
-      "id": "3c4e16e8a0d8579f",
-      "title": "БФУ им. И. Канта получил грант «Старт-1» на разработку переносного измерителя магнитных материалов в композитах и суспензиях",
-      "summary": "Команда из трех сотрудников научно-образовательного центра «Умные материалы» БФУ им. И. Канта стали победителями конкурса «Старт-1» Фонда содействия инновациям. Грантовую поддержку получил проект по…",
-      "url": "https://www.atomic-energy.ru/news/2026/11/17/169874",
-      "published_at": "2026-11-17T14:36:45Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
-      "id": "4d4de014991518cf",
-      "title": "СФУ разработал алюминиевые сплавы с редкоземельными металлами для аддитивного производства деталей авиационной и космической отраслей",
-      "summary": "Аддитивные технологии произвели настоящую революцию в мире производства, поскольку позволяют «выращивать» из металлических сплавов детали и конструкции самых сложных и нетиповых форм буквально слой…",
-      "url": "https://www.atomic-energy.ru/news/2026/11/17/169994",
-      "published_at": "2026-11-17T14:32:35Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
-      "topic": "international",
-      "language": "ru"
-    },
-    {
-      "id": "a548775f4676c5c9",
-      "title": "«Соликамский магниевый завод» Росатома ввел в эксплуатацию новую трансформаторную подстанцию",
-      "summary": "На ОАО «Соликамский магниевый завод» введена в эксплуатацию современная трансформаторная подстанция. Проект реализован в рамках системной работы по обновлению производственной инфраструктуры,…",
-      "url": "https://www.atomic-energy.ru/news/2026/11/17/169993",
-      "published_at": "2026-11-17T14:15:34Z",
-      "source_id": "atomic-energy",
-      "source": "Атомная энергия 2.0",
       "topic": "international",
       "language": "ru"
     },
@@ -4031,17 +4119,6 @@
       "language": "en"
     },
     {
-      "id": "7dde8abf0ebb3ad5",
-      "title": "Reactor components completed for El Dabaa 1",
-      "summary": "All the key components have now been manufactured for the first unit’s reactor at Egypt's El Dabaa Nuclear Power Plant.",
-      "url": "https://www.world-nuclear-news.org/articles/reactor-components-completed-for-el-dabaa-1",
-      "published_at": "2026-11-06T11:35:39Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
-      "topic": "reactors",
-      "language": "en"
-    },
-    {
       "id": "f99f9095b7befc9c",
       "title": "Машиностроители «Росатома» изготовили ключевое оборудование для первого блока АЭС «Эль-Дабаа» (Египет)",
       "summary": "На производственном комплексе «Ижора» в Санкт-Петербурге завершили изготовление внутрикорпусных устройств и крышки реактора ВВЭР-1200 для первого блока первой египетской АЭС. Эти изделия формируют основу активной зоны реактора, обеспечивая ее герметичность и безопасность. 👌 Подписывайтесь на «Росатом» | Оставляйте «бусты» #новость #АЭСЭльДабаа #РосатомМашиностроение",
@@ -4073,28 +4150,6 @@
       "source": "Росатом",
       "topic": "international",
       "language": "ru"
-    },
-    {
-      "id": "c6757fb3d50d6fd9",
-      "title": "IHI to supply components for first Polish AP1000",
-      "summary": "Japanese engineering firm IHI Corporation has received an order from Westinghouse covering engineering and procurement activities for long-lead items for one containment vessel and an associated large steel module for the first unit of Poland's first nuclear power plant.",
-      "url": "https://www.world-nuclear-news.org/articles/ihi-to-supply-components-for-first-polish-ap1000",
-      "published_at": "2026-11-05T15:02:51Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
-      "topic": "reactors",
-      "language": "en"
-    },
-    {
-      "id": "9a02743e3fd5c2a3",
-      "title": "Copenhagen Atomics to build deconversion facility",
-      "summary": "Danish molten salt reactor developer Copenhagen Atomics has signed a memorandum of understanding with uranium enrichment services provider Urenco to construct a uranium deconversion facility in Copenhagen.",
-      "url": "https://www.world-nuclear-news.org/articles/copenhagen-atomics-to-build-deconversion-facility",
-      "published_at": "2026-11-05T14:39:56Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
-      "topic": "reactors",
-      "language": "en"
     },
     {
       "id": "82d0fcc6644eaab5",
@@ -4141,17 +4196,6 @@
       "language": "ru"
     },
     {
-      "id": "95098dd2f2a2440b",
-      "title": "Belgian nuclear power plant negotiations extended",
-      "summary": "The Belgian state, Engie and Electrabel have agreed to postpone to 12 December the target date for the conclusion of the heads of terms for the potential acquisition of Belgium's seven nuclear power reactors by the state.",
-      "url": "https://www.world-nuclear-news.org/articles/belgian-nuclear-power-plant-negotiations-extended",
-      "published_at": "2026-11-05T12:24:40Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
-      "topic": "reactors",
-      "language": "en"
-    },
-    {
       "id": "fe9fa313a770d78e",
       "title": "«Росатом» выступит партнером III международного симпозиума «Создавая будущее»",
       "summary": "Международный научно-фантастический симпозиум пройдет 12–13 ноября в Москве, в Национальном центре «Россия». Экспертами станут государственные деятели, ученые, руководители корпораций, представители сферы культуры, искусства, медиа, общественных организаций. В их числе заместитель министра иностранных дел России Александр Алимов, писатели-фантасты Сергей Лукьяненко и Чэнь Цюфань, исследователь стратегического форсайта, научной фантастики и инновационных процессов Жан-Поль Пинто Моралес (Эквадор); биолог и участник проекта по возвращению додо Викаш Татая…",
@@ -4161,17 +4205,6 @@
       "source": "Росатом",
       "topic": "international",
       "language": "ru"
-    },
-    {
-      "id": "56b23c7d079fc6cd",
-      "title": "Helen to assess environmental impacts of SMR in Helsinki",
-      "summary": "Finland's Helen Ydinvoima Oy has launched an environmental impact assessment on the construction of a small nuclear power plant at one of three potential sites in Helsinki.",
-      "url": "https://www.world-nuclear-news.org/articles/helen-to-assess-environmental-impacts-of-smr-in-helsinki",
-      "published_at": "2026-11-05T10:40:19Z",
-      "source_id": "world-nuclear-news",
-      "source": "World Nuclear News",
-      "topic": "construction",
-      "language": "en"
     },
     {
       "id": "820349bbe520c6a6",
@@ -4262,28 +4295,6 @@
       "language": "ru"
     },
     {
-      "id": "f1500c0554367a06",
-      "title": "«Росатом» разработал безотходную технологию извлечения лития из слюдистых руд в Узбекистане",
-      "summary": "Технология «Гиредмета» ориентирована на руды месторождения Нурликон в Узбекистане с содержанием оксида лития на уровне 0,5 %. Классические методы обогащения для такого сырья не подходят: минерал и вмещающая порода слишком похожи по свойствам, чтобы их можно было разделить, а высокое содержание карбонатов дополнительно усложняет переработку. А кислотное выщелачивание потребовало бы неоправданно высоких затрат реагентов. «В качестве решения мы предложили пирометаллургический метод спекания руды с фосфогипсом при температуре 900 °C.",
-      "url": "https://t.me/rosatomru/7467",
-      "published_at": "2026-11-03T14:02:24Z",
-      "source_id": "rosatom",
-      "source": "Росатом",
-      "topic": "fuel",
-      "language": "ru"
-    },
-    {
-      "id": "c617df146415b5b7",
-      "title": "Россия и Вьетнам расширяют сотрудничество в сфере мирного атома",
-      "summary": "«Лидер Консорциума «Международный центр исследований на базе реактора МБИР» и Вьетнамский институт атомной энергии (Vinatom) подписали меморандум о взаимопонимании. Стороны проработают условия присоединения Vinatom к Консорциуму. Для вьетнамских специалистов это откроет доступ к экспериментальной инфраструктуре сооружаемого в Димитровграде реактора МБИР — самой высокопоточной исследовательской установке на быстрых нейтронах в мире.",
-      "url": "https://t.me/rosatomru/7466",
-      "published_at": "2026-11-03T13:15:23Z",
-      "source_id": "rosatom",
-      "source": "Росатом",
-      "topic": "reactors",
-      "language": "ru"
-    },
-    {
       "id": "8b58dceca373af78",
       "title": "IAEA Launches Global Network to Help Countries Monitor and Protect the World’s Lakes",
       "summary": "",
@@ -4293,17 +4304,6 @@
       "source": "IAEA",
       "topic": "international",
       "language": "en"
-    },
-    {
-      "id": "ca1b3c18006a0927",
-      "title": "Столько выработала Ростовская АЭС к началу ноября.",
-      "summary": "«Четверть века наша станция работает безопасно и эффективно, обеспечивая стабильную выработку электроэнергии для жителей, промышленного комплекса и инфраструктуры городов, поселков, станиц и хуторов Юга России», – подчеркнул и.о. директора Ростовской АЭС Андрей Горбунов. 👌 Подписывайтесь на «Росатом» | Оставляйте «бусты» #новость #цифра",
-      "url": "https://t.me/rosatomru/7465",
-      "published_at": "2026-11-03T10:17:40Z",
-      "source_id": "rosatom",
-      "source": "Росатом",
-      "topic": "international",
-      "language": "ru"
     },
     {
       "id": "76eaf24320c1d522",
